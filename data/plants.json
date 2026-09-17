@@ -157,157 +157,503 @@
  {
   "slug": "ko",
   "nameHaw": "Kō",
+  "pronunciation": "KOH",
   "nameCommon": "Sugarcane",
   "nameSci": "Saccharum officinarum",
   "family": "Poaceae",
   "originRegion": "New Guinea",
   "originMapKey": "newguinea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The cane that cast love spells",
+  "whyInCanoe": "Kō was the sweet in a world with no sugar bowl. Voyagers packed stalk cuttings because cane gave quick energy, made bitter medicine easier to swallow, and could keep a family going when other crops failed. On dry, windy slopes, rows of cane also sheltered other crops from the wind.",
+  "uses": [
+   {
+    "part": "stem",
+    "text": "People chewed the raw stalk as a sweet snack, and in times of famine it was called a life saver."
+   },
+   {
+    "part": "stem",
+    "text": "The juice sweetened bitter herbal medicines, and toasted cane juice was given to sick babies."
+   },
+   {
+    "part": "stem",
+    "text": "Cane juice was mixed with soot from burned kukui nuts to make tattoo ink."
+   },
+   {
+    "part": "stem",
+    "text": "Charcoal from burned cane made a black dye."
+   },
+   {
+    "part": "leaf",
+    "text": "Leaves were used for thatch and to line the inside walls of houses."
+   },
+   {
+    "part": "leaf",
+    "text": "Young leaf buds were mashed with salt and another plant and put on deep cuts."
+   },
+   {
+    "part": "flower",
+    "text": "The long flower stalks became darts for games."
+   }
+  ],
+  "useTags": [
+   "food",
+   "medicine",
+   "light-dye",
+   "ceremony"
+  ],
+  "partTags": [
+   "stem",
+   "leaf",
+   "flower"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Sugarcane was first tamed in New Guinea about 8,000 years ago. A 2025 DNA study traced it back to a wild New Guinea grass. Every bag of sugar in the world starts with that Pacific plant.",
+    "source": "garsmeur-2025"
+   },
+   {
+    "text": "Hawaiian farmers developed dozens of their own kō varieties over about 1,000 years. They came striped and solid, in greens, yellows, reds and deep purples.",
+    "source": "lincoln-2020"
+   },
+   {
+    "text": "One striped variety is named manulele, which means flying bird. The Hawaiian Dictionary says it was used in medicine and in hana aloha, love magic.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "Kō was a calendar. A Hawaiian saying goes that when the sugarcane tassels, octopus season is here. That happens around late October and November.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "When the cane tasseled it was also time for hōlua sledding. The slippery cane tops were spread on the course so the sleds would fly.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "Tattoo ink had a secret ingredient. Soot from burned kukui nuts was mixed with kō juice, and the juice was also thought to help the skin heal.",
+    "source": "ctahr-cane"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "Cane for the heart",
+   "text": "In Hawaiian tradition, kō had power over love. In a practice called hana aloha, a kahuna chose a cane variety to match the wish. Manulele, the flying bird, was used to reach a love who was far away. Pilimai, whose name means come this way, was for a quick romance. The dark cane called pāpaʻa was for a bond meant to hold fast.\n\nTradition also had a cure. An old saying names laukona as the cane that breaks a love spell. Kō is also remembered as a kinolau, a body form, of the god Kāne. These are beliefs passed down in story and saying, not science.",
+   "kinolau": "Kāne"
   },
-  "today": "",
-  "grow": {},
+  "today": "For more than a century kō ran the economy of Hawaiʻi. The first successful sugar plantation started at Kōloa on Kauaʻi in 1835, and the last one, on Maui, hauled its final load of cane in December 2016. Now farmers and researchers at the University of Hawaiʻi are saving the old Hawaiian varieties. Some are pressed for fresh juice and even made into rum for adults.",
+  "grow": {
+   "sun": "Full sun. Low elevations are best.",
+   "water": "Regular water and rich soil give the fattest, juiciest stalks.",
+   "planting": "Lay a stalk piece 8 to 12 inches long, with a few nodes, sideways in a shallow trench and cover it.",
+   "harvest": "Cut stalks at the base when they are thick and sweet. Full maturity can take up to 2 years, and the clump grows back."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "wehewehe",
+   "lincoln-2020",
+   "ctahr-cane",
+   "garsmeur-2025",
+   "mcnarie-2012",
+   "canoeplants-com",
+   "old-sugar-mill-koloa",
+   "mauinow-2016"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "awa",
   "nameHaw": "ʻAwa",
+  "pronunciation": "AH-vah",
   "nameCommon": "Kava",
   "nameSci": "Piper methysticum",
   "family": "Piperaceae",
   "originRegion": "Vanuatu region",
   "originMapKey": "vanuatu",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "A cutting of a cutting",
+  "whyInCanoe": "ʻAwa was the drink of welcome, of prayer and of rest. No ceremony for the gods was complete without it, so leaving it behind was not an option. Because the plant makes no seeds, voyagers had to keep living stem cuttings alive all the way across the ocean.",
+  "uses": [
+   {
+    "part": "root",
+    "text": "The root was chewed or pounded, mixed with water and strained to make a calming drink."
+   },
+   {
+    "part": "root",
+    "text": "ʻAwa was offered to the gods. A kahuna poured it over a carved image or sprinkled it in the air."
+   },
+   {
+    "part": "root",
+    "text": "Farmers and fishermen drank it to relax tired muscles after a hard day."
+   },
+   {
+    "part": "root",
+    "text": "Healers used it for sleeplessness, chills and kidney trouble."
+   },
+   {
+    "part": "root",
+    "text": "It was served to honor guests at feasts and important gatherings."
+   }
+  ],
+  "useTags": [
+   "ceremony",
+   "medicine"
+  ],
+  "partTags": [
+   "root"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "ʻAwa cannot make seeds. No one has ever found a working ʻawa seed anywhere in the world. Every plant alive today was grown from a cutting by a human hand.",
+    "source": "plant-pono"
+   },
+   {
+    "text": "Scientists who study kava think every kava plant in the Pacific may trace back to one ancestor plant in northern Vanuatu. It has been cloned from cuttings for perhaps 3,000 years.",
+    "source": "johnston-rogers-2006"
+   },
+   {
+    "text": "Hawaiʻi has 13 ʻawa varieties found nowhere else. A 1999 DNA study found they are so alike that they probably all came from a single variety carried here by voyagers.",
+    "source": "lebot-1999"
+   },
+   {
+    "text": "Not all ʻawa was for everyone. The varieties called mōʻī, hiwa and papa were saved for the gods and for ceremony. Common people used the most common kind.",
+    "source": "titcomb-1948"
+   },
+   {
+    "text": "An old description sorts the drinkers this way. Chiefs drank ʻawa for pleasure, kahuna drank it for ceremony, and working people drank it to relax after labor.",
+    "source": "titcomb-1948"
+   },
+   {
+    "text": "Before drinking, a person might dip a finger in the cup and flick a drop upward for the spirits. The idea was that the gods take the essence and people take the rest.",
+    "source": "titcomb-1948"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "The gods who found water",
+   "text": "In Hawaiian tradition, the gods Kāne and Kanaloa traveled the islands together and loved to drink ʻawa. But ʻawa must be mixed with fresh water. One story says they found good ʻawa root at Kalihi on Oʻahu and had no water to prepare it. Kāne struck the rock with his staff and a spring burst out.\n\nThe story says they did the same in Mānoa, where a clear pool called Ka Wai a ke Akua, the water of the god, appeared. Many springs across the islands are credited to the two ʻawa drinkers. ʻAwa is remembered as a kinolau, a body form, of Kāne.",
+   "kinolau": "Kāne"
   },
-  "today": "",
-  "grow": {},
+  "today": "ʻAwa is back. Hawaiʻi farms grow it, and kava bars serve it in Hawaiʻi and across the continent. It is a drink for adults, and health agencies warn that some kava products have been linked to rare cases of liver injury. It is still poured at ceremonies to honor guests and ancestors.",
+  "grow": {
+   "sun": "Part shade with shelter from wind. It likes to grow under taller plants.",
+   "water": "Steady moisture and rich soil that drains well. It does not tolerate salt.",
+   "planting": "Plant a piece of stem with a node or two. There are no seeds, ever.",
+   "harvest": "Roots are dug after 2 to 3 years or more. In a school garden, grow it to study, not to drink."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "titcomb-1948",
+   "johnston-rogers-2006",
+   "lebot-1999",
+   "plant-pono",
+   "westervelt-1915",
+   "kahoiwai-kane",
+   "uh-paccrops-kava",
+   "nccih-kava",
+   "duff-2014",
+   "canoeplants-com"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "kukui",
   "nameHaw": "Kukui",
+  "pronunciation": "koo-KOO-ee",
   "nameCommon": "Candlenut",
   "nameSci": "Aleurites moluccanus",
   "family": "Euphorbiaceae",
   "originRegion": "Southeast Asia",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The tree that lit the night",
+  "whyInCanoe": "Kukui was the light bulb of old Hawaiʻi. Its oily nuts burned as candles and lamp oil, and the same tree gave dye, medicine, relish, ink and light wood. One tree did so many jobs that a new island home was hard to imagine without it.",
+  "uses": [
+   {
+    "part": "seed",
+    "text": "Shelled nuts were strung on a coconut leaf midrib and burned one after another as a candle."
+   },
+   {
+    "part": "seed",
+    "text": "Oil pressed from the nuts burned in stone lamps and waterproofed kapa."
+   },
+   {
+    "part": "seed",
+    "text": "Roasted nuts pounded with salt make ʻinamona, a relish."
+   },
+   {
+    "part": "seed",
+    "text": "Soot from burned nuts made black ink for tattoos and paint for kapa and canoes."
+   },
+   {
+    "part": "seed",
+    "text": "The hard shells were polished and strung into lei."
+   },
+   {
+    "part": "bark",
+    "text": "The inner bark gave a reddish brown dye for kapa and cordage."
+   },
+   {
+    "part": "wood",
+    "text": "The light wood was used for fishing floats and small canoes."
+   },
+   {
+    "part": "flower",
+    "text": "The white flowers were used in a medicine for mouth sores in children."
+   }
+  ],
+  "useTags": [
+   "light-dye",
+   "food",
+   "medicine",
+   "wood-tools"
+  ],
+  "partTags": [
+   "seed",
+   "bark",
+   "wood",
+   "flower"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "A kukui candle was 10 or 12 nuts on a stick. A visitor in the 1820s wrote that each nut burned two or three minutes and then lit the one below it. Keeping the candle going was often a job for children. Some modern writers give longer burn times.",
+    "source": "images-old-hawaii-kukui"
+   },
+   {
+    "text": "Fishermen chewed kukui nuts and spat the oily bits onto the sea. The thin film of oil calmed the ripples so they could see down into the water.",
+    "source": "canoeplants-com"
+   },
+   {
+    "text": "Hawaiian tattoo ink came from this tree. People burned the nuts, collected the black soot and mixed it into ink.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "Roasted kukui is food. Raw kukui is a strong laxative that healers used on purpose. Do not try it.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "Kukui became the official tree of Hawaiʻi in 1959. The word kukui also means lamp, light or torch, so the tree stands for knowledge too.",
+    "source": "hrs-5-8"
+   },
+   {
+    "text": "You can spot kukui from far away. A silvery powder on the leaves makes the groves look like pale green patches on a dark hillside.",
+    "source": "bishop-ethnobotany"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "The pig god and the grove of the prophet",
+   "text": "In Hawaiian tradition, kukui is a kinolau, a body form, of Kamapuaʻa, the pig god. Some people see the face of a pig in the shape of the leaf. During the Makahiki season, the head of a pig, carved from kukui wood, was placed on the altar of the god Lono. Sources do not fully agree here. The Bishop Museum plant database lists kukui as a kinolau of Lono.\n\nOn Molokaʻi, tradition remembers Lanikāula, the most famous kahuna of the island. His kukui grove, ʻUlukukui o Lanikāula, still stands at the east end of Molokaʻi and is treated as a sacred place.",
+   "kinolau": "Kamapuaʻa"
   },
-  "today": "",
-  "grow": {},
+  "today": "Kukui is the state tree, and its silvery groves fill valleys on every main island. Polished kukui nut lei are given at graduations and celebrations. ʻInamona still seasons poke, and kukui oil is sold in lotions and soaps.",
+  "grow": {
+   "sun": "Full sun. Give it lots of room because it becomes a big shade tree.",
+   "water": "Water while it is young. Once it is settled it handles dry spells, wind and salt spray.",
+   "planting": "Gently crack the hard shell, soak the nut overnight and plant it. Sprouting can take up to 5 months.",
+   "harvest": "Ripe nuts drop on their own. Gather them from the ground."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "images-old-hawaii-kukui",
+   "canoeplants-com",
+   "hrs-5-8",
+   "plant-pono",
+   "maui-magazine-kukui",
+   "kawaiola-2021",
+   "ctahr-cane"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "noni",
   "nameHaw": "Noni",
+  "pronunciation": "NOH-nee",
   "nameCommon": "Indian mulberry",
   "nameSci": "Morinda citrifolia",
   "family": "Rubiaceae",
   "originRegion": "Southeast Asia and Australia",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "Smells like cheese, used like medicine",
+  "whyInCanoe": "Noni was a medicine chest and a dye pot in one small tree. It grows fast, fruits all year and shrugs off salt and drought, so it was a safe bet for an unknown shore. When food ran short, the smelly fruit could be eaten too.",
+  "uses": [
+   {
+    "part": "fruit",
+    "text": "Green fruit was mashed with salt and put on deep cuts and broken bones."
+   },
+   {
+    "part": "fruit",
+    "text": "The fruit was eaten raw or cooked when other food was scarce."
+   },
+   {
+    "part": "fruit",
+    "text": "Oil from the fruit was rubbed into hair."
+   },
+   {
+    "part": "leaf",
+    "text": "Leaves were mashed or heated and laid on boils, bruises, sores and wounds."
+   },
+   {
+    "part": "bark",
+    "text": "Bark from the stem was used on cuts."
+   },
+   {
+    "part": "root",
+    "text": "The inner bark of the roots and trunk gave a yellow dye for kapa, and adding lime turned it red."
+   }
+  ],
+  "useTags": [
+   "medicine",
+   "light-dye",
+   "food"
+  ],
+  "partTags": [
+   "fruit",
+   "leaf",
+   "bark",
+   "root"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Ripe noni stinks. People compare the smell to strong blue cheese, and botanists politely call the fruit foetid. Hawaiians used it anyway.",
+    "source": "ctahr-noni"
+   },
+   {
+    "text": "One plant, two colors. Noni roots and bark make a yellow dye. Mix in lime and the same dye turns red.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "Noni is in a hurry. A plant can start making fruit 9 months to a year after planting, and then it fruits all year long.",
+    "source": "ctahr-noni"
+   },
+   {
+    "text": "A healthy grown noni plant can give up to 500 pounds of fruit in a year.",
+    "source": "ctahr-noni"
+   },
+   {
+    "text": "Noni juice is sold around the world with big health claims. The United States government health institutes say noni has not been shown to help any health condition in studies of people.",
+    "source": "nccih-noni"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "A saying about shallow roots",
+   "text": "Hawaiian tradition keeps wisdom in short sayings called ʻōlelo noʻeau. One of them is about noni. It says a person is like a noni tree of Kaualehu whose roots are in shallow ground.\n\nThe saying describes someone whose knowledge is shallow. Dyers knew that noni roots from shallow soil made a weaker dye than roots from deep soil. So the lesson is to dig deep. A Hawaiian song about Moanalua also mentions the noni fruit.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "Noni grows wild along Hawaiʻi coasts and even on rough lava land. Farms in Hawaiʻi grow it for juice that is shipped around the world. Many families still use the leaves and fruit as home remedies, while doctors warn that the juice is high in potassium and is not safe for everyone.",
+  "grow": {
+   "sun": "Full or partial sun. It handles salt air well.",
+   "water": "Water young plants about once a week. Grown plants survive long dry spells.",
+   "planting": "Stem cuttings root in 1 to 2 months. Seeds work too but can take 6 to 12 months to sprout.",
+   "harvest": "First fruit comes 9 months to a year after planting. Pick when the fruit turns hard and white."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "ctahr-noni",
+   "nccih-noni",
+   "canoeplants-com"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "wauke",
   "nameHaw": "Wauke",
+  "pronunciation": "WOW-keh",
   "nameCommon": "Paper mulberry",
   "nameSci": "Broussonetia papyrifera",
   "family": "Moraceae",
   "originRegion": "Taiwan and East Asia",
   "originMapKey": "taiwan",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The tree that became cloth",
+  "whyInCanoe": "There was no cotton, wool or loom in old Polynesia. Cloth came from the inner bark of wauke, beaten into kapa. Without this plant there would be no clothing, no blankets and no wrapping for sacred things, so root shoots of wauke made the trip.",
+  "uses": [
+   {
+    "part": "bark",
+    "text": "The inner bark was soaked and beaten into kapa for malo, pāʻū, kīhei and blankets."
+   },
+   {
+    "part": "bark",
+    "text": "Kapa wrapped the dead and hung as banners at temples."
+   },
+   {
+    "part": "bark",
+    "text": "Kapa was also made into lamp wicks, kite parts and bandages."
+   },
+   {
+    "part": "bark",
+    "text": "Raw bark was twisted into cordage for fishing nets and carrying nets."
+   },
+   {
+    "part": "bark",
+    "text": "Ash from burned kapa was a medicine for thrush, a mouth sickness in children."
+   },
+   {
+    "part": "sap",
+    "text": "The slimy sap was taken as a mild laxative."
+   },
+   {
+    "part": "stem",
+    "text": "Young shoots were eaten as part of a treatment for certain illnesses."
+   }
+  ],
+  "useTags": [
+   "cloth-cordage",
+   "medicine",
+   "ceremony"
+  ],
+  "partTags": [
+   "bark",
+   "sap",
+   "stem"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Wauke is a clue to where Polynesians came from. A 2015 study tested the DNA of paper mulberry across the Pacific and traced the common Pacific type back to Taiwan.",
+    "source": "chang-2015"
+   },
+   {
+    "text": "Across the far Pacific islands, every paper mulberry plant tested was female. Hawaiʻi was the one exception, with both male and female plants. The stems were cut for bark before they could flower, so the plant spread only when people carried root shoots and cuttings.",
+    "source": "penailillo-2016"
+   },
+   {
+    "text": "Hawaiian kapa has a hidden signature. Beaters carved with fine patterns pressed a watermark into the cloth. Hold the kapa up to the light and the design appears.",
+    "source": "halekulani-kapa"
+   },
+   {
+    "text": "Kapa makers farmed for smooth bark. They cut off side branches while the plant grew so the stalk came up straight, with no branch holes to tear the cloth.",
+    "source": "canoeplants-com"
+   },
+   {
+    "text": "Kapa was not only clothing. It became lamp wicks, kite parts, bandages, temple banners and the wrapping for burials.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "Kapa making nearly vanished in Hawaiʻi. Beginning with the Hawaiian Renaissance of the 1970s, artists studied old pieces and tools and brought the craft back.",
+    "source": "halekulani-kapa"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "Maikohā and his daughters",
+   "text": "In a Hawaiian tradition from Nuʻuanu Valley on Oʻahu, a man named Maikohā grew weak from the cold valley winds. Before he died he told his daughters to bury him beside the stream. A tree would grow from that spot, he said, and it would be kapa for them.\n\nThe wauke tree grew from his grave. His daughter Lauhuiki learned to pound its bark into cloth. His daughter Laʻahana learned to mark the beaters with patterns. In the story, Maikohā became the ancestor god of kapa makers, and his daughters became the guardians of those who beat and decorate kapa. Another version of the story places his grave at Kaupō on Maui. Wauke is also listed as a kinolau, a body form, of the god Kāne.",
+   "kinolau": "Kāne"
   },
-  "today": "",
-  "grow": {},
+  "today": "A small but growing group of kapa makers grow their own wauke and beat cloth by hand, using carved beaters and plant dyes. Their kapa is worn in hula, shown in museums and used in ceremonies. The Bishop Museum keeps historic Hawaiian kapa that artists still study.",
+  "grow": {
+   "sun": "Full sun to part sun, out of strong wind.",
+   "water": "Plenty of water and soil that drains well. It loves stream banks and ʻauwai edges.",
+   "planting": "Dig up a root sucker and replant it. Give it a bed of its own, because suckers spread and are hard to dig out.",
+   "harvest": "Snap off side shoots as it grows. Cut straight stalks at about 8 feet tall, usually within 2 years."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "chang-2015",
+   "penailillo-2016",
+   "halekulani-kapa",
+   "canoeplants-com",
+   "westervelt-1915",
+   "alameida-1997",
+   "plant-pono",
+   "kahoiwai-kane",
+   "images-old-hawaii-wauke"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "ohe",
@@ -498,311 +844,985 @@
  {
   "slug": "pia",
   "nameHaw": "Pia",
+  "pronunciation": "PEE-ah",
   "nameCommon": "Polynesian arrowroot",
   "nameSci": "Tacca leontopetaloides",
   "family": "Dioscoreaceae (formerly Taccaceae)",
   "originRegion": "Southeast Asia and Pacific",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The secret inside haupia",
+  "whyInCanoe": "Pia tubers are small, tough, and packed with starch. Voyagers carried them as a backup food and as medicine for upset stomachs. Once planted, pia looks after itself and comes back every year.",
+  "uses": [
+   {
+    "part": "root",
+    "text": "The tubers were grated, soaked, and rinsed again and again until a fine white starch settled out."
+   },
+   {
+    "part": "root",
+    "text": "The dried starch was mixed with coconut cream and cooked into haupia pudding."
+   },
+   {
+    "part": "root",
+    "text": "Raw starch stirred into water, sometimes with red ʻalaea clay, was a remedy for diarrhea and dysentery."
+   },
+   {
+    "part": "root",
+    "text": "Healers used lumps of pia in water as part of a treatment for nausea and vomiting."
+   },
+   {
+    "part": "root",
+    "text": "The fine powder was dusted on skin like talcum powder and was later used to starch clothes."
+   }
+  ],
+  "useTags": [
+   "food",
+   "medicine"
+  ],
+  "partTags": [
+   "root"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "The pia in haupia is this plant. The coconut pudding was first thickened with pia starch. Most haupia today uses cornstarch instead.",
+    "source": "ntbg"
+   },
+   {
+    "text": "You cannot just bite into a pia tuber. It is bitter when raw. The grated tuber had to be soaked and rinsed many times before the starch was good to eat.",
+    "source": "ntbg"
+   },
+   {
+    "text": "Pia became the Hawaiian word for any starch. Starch from the real plant is called pia Hawaiʻi to tell it apart from the store kind.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "Pia plays dead. Every winter the leaves turn yellow and vanish, and the tubers sleep underground until spring.",
+    "source": "bornhorst-2012"
+   },
+   {
+    "text": "The flower is one of the strangest in the garden. Green and purple blooms sit on a tall stalk with long threads hanging down like whiskers.",
+    "source": "plant-pono"
+   },
+   {
+    "text": "In lāʻau lapaʻau, pia starch was mixed with water and red clay to treat dysentery and bleeding inside the gut.",
+    "source": "ntbg"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "A plant that lives on in a word",
+   "text": "We did not find a recorded moʻolelo about pia, so here is a tradition of language instead. When new kinds of starch arrived in Hawaiʻi, people did not borrow a new word for them. They used the name of the old canoe plant. Cornstarch, laundry starch, all of it became pia. The Hawaiian dictionary by Mary Kawena Pukui and Samuel Elbert says that starch from the original plant came to be called pia Hawaiʻi, the Hawaiian starch.\n\nThe same thing happened with dessert. Haupia kept its name even after most cooks stopped using pia to make it. So every time someone orders haupia, they say the name of a plant that few people have ever seen.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "Pia is rare in Hawaiʻi now. Cornstarch replaced it in the kitchen, and the plant mostly survives in ethnobotanical gardens and a few backyards. Some gardeners grow it for its odd whiskered flowers and to make haupia the old way.",
+  "grow": {
+   "sun": "Partial sun to shade in a warm lowland spot.",
+   "water": "Regular water while it is leafy. Keep soil just barely moist while it sleeps in winter. It needs good drainage.",
+   "planting": "Plant a small tuber a few inches deep. Mark the spot so nobody digs it up when the leaves vanish.",
+   "harvest": "Dig tubers in winter when the leaves turn dry and yellow, about 8 to 10 months after they sprout."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "ntbg",
+   "bishop-ethnobotany",
+   "wehewehe",
+   "bornhorst-2012",
+   "plant-pono",
+   "canoeplants-com"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "ape",
   "nameHaw": "ʻApe",
+  "pronunciation": "AH-peh",
   "nameCommon": "Giant taro",
   "nameSci": "Alocasia macrorrhizos",
   "family": "Araceae",
   "originRegion": "Southeast Asia",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The giant you eat last",
+  "whyInCanoe": "ʻApe was insurance. Nobody wanted to eat it, but in a famine its big starchy stem could keep a family alive. Its leaves and juice were also medicine, and its stinging sap was believed to keep bad spirits away.",
+  "uses": [
+   {
+    "part": "root",
+    "text": "The corm and thick underground stem were famine food, eaten only after very long cooking."
+   },
+   {
+    "part": "root",
+    "text": "Flesh of the corm was put on burns and damaged skin."
+   },
+   {
+    "part": "stem",
+    "text": "Juice from the peeled stem was rubbed on skin stung by nettles or the itchy hairs of kō."
+   },
+   {
+    "part": "leaf",
+    "text": "The huge leaves were wrapped around a person with a fever to bring comfort and help them sweat."
+   },
+   {
+    "part": "leaf",
+    "text": "Leaves were laid under the kapa or mats of a sick person because the sap was believed to drive off harmful spirits."
+   }
+  ],
+  "useTags": [
+   "food",
+   "medicine",
+   "ceremony"
+  ],
+  "partTags": [
+   "root",
+   "stem",
+   "leaf"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "ʻApe can grow up to 5 meters tall. That is taller than a basketball hoop. A single leaf can be 2 to 4 feet long.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "Here is how to tell ʻape from kalo. ʻApe leaves point up at the sky. Kalo leaves point down at the ground.",
+    "source": "canoeplants-com"
+   },
+   {
+    "text": "Raw ʻape is full of tiny needle shaped crystals of calcium oxalate that burn and itch. Only long cooking breaks them down, so people ate it just when other food ran out.",
+    "source": "ntbg"
+   },
+   {
+    "text": "According to the Hawaiian dictionary, ʻape was planted by gates and fences so its irritating sap would ward off evil spirits. It was not planted right next to the house, for fear the people inside would get sick.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "The plant that makes you itch also stops an itch. Stem juice was used on skin stung by nettles and by the prickly hairs of sugarcane.",
+    "source": "ntbg"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "Eat the ʻape, get the itch",
+   "text": "An old Hawaiian saying uses ʻape to teach a lesson. ʻAi nō i ka ʻape he maneʻo no ko ka nuku. He who eats the ʻape is bound to have his mouth itch. It means that if you choose to do something harmful, you should not be surprised by what happens next.\n\nTradition also gave ʻape a guarding job. People believed its bitter, stinging sap could frighten away harmful spirits. So ʻape stood watch at gates and fences, and its leaves were tucked under the mats of the sick. These are beliefs passed down in Hawaiian tradition, not medical science.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "ʻApe is now mostly a landscape plant. People grow it in yards, parks, and hotel gardens for its giant tropical leaves and the shade they give. Almost nobody eats it, and you should not try. It is still grown in Hawaiian ethnobotanical gardens next to its cousin kalo.",
+  "grow": {
+   "sun": "Partial sun to full shade.",
+   "water": "Plenty of water and rich, composted soil that drains well.",
+   "planting": "Plant a side shoot or a cutting of the thick stem. Wear gloves because the sap stings.",
+   "harvest": "Grow it for the giant leaves, not for lunch. Never taste any part of it raw."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "ntbg",
+   "wehewehe",
+   "canoeplants-com",
+   "plant-pono",
+   "abbott-1992"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "kamani",
   "nameHaw": "Kamani",
+  "pronunciation": "kah-MAH-nee",
   "nameCommon": "Tamanu, Alexandrian laurel",
   "nameSci": "Calophyllum inophyllum",
   "family": "Calophyllaceae",
   "originRegion": "Indo Pacific coasts",
   "originMapKey": "indopacific",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "Bowls, oil, and orange blossom perfume",
+  "whyInCanoe": "Kamani is a tough shoreline tree with beautiful hard wood and oily nuts. Voyagers likely carried its seeds so they would have wood for bowls and canoes, oil for lamps and kapa, and sweet flowers for lei. It was also a sacred tree in parts of Polynesia.",
+  "uses": [
+   {
+    "part": "wood",
+    "text": "The reddish brown wood was carved into ʻumeke kamani food bowls and pā kamani trays because it gave food no bad taste or smell."
+   },
+   {
+    "part": "wood",
+    "text": "The hard wood was also used for canoes and houses."
+   },
+   {
+    "part": "seed",
+    "text": "Oil pressed from the kernels was burned for light and rubbed into kapa to waterproof it."
+   },
+   {
+    "part": "seed",
+    "text": "The hard round shells were made into whistles called oeoe and strung into lei."
+   },
+   {
+    "part": "flower",
+    "text": "The white flowers smell like orange blossoms and were used to scent kapa and to make lei."
+   },
+   {
+    "part": "fruit",
+    "text": "The fruit husk gave a brownish mauve dye for kapa."
+   },
+   {
+    "part": "sap",
+    "text": "Resin from the bark was used to treat ulcers and sores."
+   }
+  ],
+  "useTags": [
+   "wood-tools",
+   "light-dye",
+   "cloth-cordage",
+   "medicine",
+   "ceremony"
+  ],
+  "partTags": [
+   "wood",
+   "seed",
+   "flower",
+   "fruit",
+   "sap"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Kamani flowers smell like orange blossoms. Hawaiians used them to perfume freshly made kapa.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "Kids could make a whistle from a kamani nut. The hollowed shells were made into whistles called oeoe.",
+    "source": "mnbg"
+   },
+   {
+    "text": "The thick green oil from the nut was lamp fuel and kapa waterproofing. It is not food. The seeds and oil are not edible.",
+    "source": "mnbg"
+   },
+   {
+    "text": "Kamani is a tree built for the beach. It shrugs off salt spray and wind, and scientists describe its seeds as spreading by drifting on the sea.",
+    "source": "hanaoka-2014"
+   },
+   {
+    "text": "A kamani bowl does not flavor the poi. The wood has no bad taste or smell, which made it a favorite for food bowls and trays.",
+    "source": "ntbg"
+   },
+   {
+    "text": "Doors on the main floor of ʻIolani Palace have panels of kamani wood.",
+    "source": "plant-pono"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "A tree for sacred places",
+   "text": "Across parts of Polynesia, kamani is remembered as a sacred tree. In Hawaiʻi it was often planted around heiau, and it is named in old chants. A famous grove of kamani still stands on the island of Molokaʻi.\n\nThe tree also lives in song. The mele Makalapua, written in honor of Queen Liliʻuokalani, sings of breaking off kamani blossoms to string in a lei. So the little white flower with the orange blossom scent carries a royal memory too.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "Oil from kamani nuts is sold around the world as tamanu oil for skin care. In Hawaiʻi the tree is a common shade tree in beach parks and along coastal roads. Woodworkers still prize the wood for bowls.",
+  "grow": {
+   "sun": "Full sun. It loves the coast and handles wind and salt spray.",
+   "water": "Water until it is established. After that it tolerates dry spells and poor soil.",
+   "planting": "Grow from seed. Crack or remove the hard shell first so it sprouts faster. Give it room, because it casts heavy shade.",
+   "harvest": "A slow tree that needs years before it flowers. In Hawaiʻi it fruits from April to June and again from October to December."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "ntbg",
+   "mnbg",
+   "plant-pono",
+   "hanaoka-2014",
+   "canoeplants-com",
+   "abbott-1992"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "milo",
   "nameHaw": "Milo",
+  "pronunciation": "MEE-loh",
   "nameCommon": "Portia tree",
   "nameSci": "Thespesia populnea",
   "family": "Malvaceae",
   "originRegion": "Indo Pacific coasts",
   "originMapKey": "indopacific",
-  "status": "debated",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The bowl tree with a mystery",
+  "whyInCanoe": "Milo was probably brought by voyagers for its wood and bark fiber, but scientists are not fully sure. Its seeds can float across oceans, so some botanists think milo reached Hawaiʻi on its own before any people did. Either way, Hawaiians planted it, shaped it, and loved it.",
+  "uses": [
+   {
+    "part": "wood",
+    "text": "The rich, fine grained wood was carved into ʻumeke ʻai poi bowls, plates, and paddles."
+   },
+   {
+    "part": "wood",
+    "text": "Milo wood was also used for house posts and sometimes for a canoe hull."
+   },
+   {
+    "part": "bark",
+    "text": "Bark fiber was twisted into cordage, though it was not as strong as hau or olonā."
+   },
+   {
+    "part": "fruit",
+    "text": "The fruit gave a yellowish green dye for kapa."
+   },
+   {
+    "part": "leaf",
+    "text": "Young leaves could be eaten."
+   }
+  ],
+  "useTags": [
+   "wood-tools",
+   "cloth-cordage",
+   "light-dye",
+   "food"
+  ],
+  "partTags": [
+   "wood",
+   "bark",
+   "fruit",
+   "leaf"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Nobody knows for sure how milo got to Hawaiʻi. The Bishop Museum lists it as indigenous with a question mark. University of Hawaiʻi botanists say it is probably indigenous but may have been brought by early Polynesians.",
+    "source": "ctahr"
+   },
+   {
+    "text": "Milo seeds can survive for months drifting on ocean currents. That is why the tree could have arrived with no canoe at all.",
+    "source": "wikipedia-thespesia"
+   },
+   {
+    "text": "Milo wood has no bad tasting sap, so it does not flavor the poi. That made it one of the best woods for food bowls.",
+    "source": "canoeplants-com"
+   },
+   {
+    "text": "Many milo trees surrounded the Waikīkī home of Kamehameha I.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "Each milo flower lasts just one day. It opens pale yellow with a maroon center in the morning, then darkens toward orange or purplish pink before it falls.",
+    "source": "plant-pono"
+   },
+   {
+    "text": "In Tahiti, milo was a sacred tree planted around temples. It was said to be connected to chant and prayer.",
+    "source": "canoeplants-com"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "Milo is the plant, love goes round",
+   "text": "An old Hawaiian saying plays with the name of this tree. He milo ka lāʻau, mimilo ke aloha. Milo is the plant, love goes round and round. In Hawaiian, milo also means to twist, to curl, or to whirl like water. So the saying ties the tree to love that spins and swirls.\n\nMilo was also a tree of chiefs. Tradition says that milo trees shaded the home of Kamehameha I at Waikīkī. One source says that in old Hawaiʻi, the beautifully grained milo bowls and ornaments were kept for the aliʻi.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "Milo is still a favorite of Hawaiʻi woodworkers, who turn it into glossy bowls in shades from tan to deep red. It is planted as a shade tree near the ocean and used in coastal restoration projects. The question of whether it is native or a canoe plant is still open.",
+  "grow": {
+   "sun": "Full sun near the coast. It handles salt, wind, heat, and drought.",
+   "water": "Water until it is established. After that it needs little.",
+   "planting": "Nick or sand the seed coat, then plant. Seeds sprout in 2 to 4 weeks. Cuttings also work.",
+   "harvest": "Grows fast when young and can flower at about two years. It drops leaves and seed pods all year, so plan for raking."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "ctahr",
+   "mnbg",
+   "plant-pono",
+   "canoeplants-com",
+   "wikipedia-thespesia",
+   "wehewehe",
+   "abbott-1992"
+  ],
+  "status": "debated"
  },
  {
   "slug": "ipu",
   "nameHaw": "Ipu",
+  "pronunciation": "EE-poo",
   "nameCommon": "Bottle gourd",
   "nameSci": "Lagenaria siceraria",
   "family": "Cucurbitaceae",
   "originRegion": "Africa originally, then Asia and the Americas",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The heartbeat of hula",
+  "whyInCanoe": "Hawaiians did not make clay pots. The ipu was their bottle, bucket, lunch box, and drum. A canoe full of settlers needed gourds to carry water and store food, so ipu seeds came along.",
+  "uses": [
+   {
+    "part": "fruit",
+    "text": "Dried gourds became hue wai water bottles, food containers, dippers, and canoe bailers."
+   },
+   {
+    "part": "fruit",
+    "text": "Two gourds joined together make the ipu heke, the drum that keeps the beat for hula."
+   },
+   {
+    "part": "fruit",
+    "text": "Small gourds filled with seeds became ʻulīʻulī, the hula rattles."
+   },
+   {
+    "part": "fruit",
+    "text": "Fishermen kept hooks and lines in lidded gourds that would float if the canoe flipped."
+   },
+   {
+    "part": "fruit",
+    "text": "Big gourds were made into helmets or masks worn by priests."
+   },
+   {
+    "part": "fruit",
+    "text": "The flesh of the fruit was mixed with other plants in lāʻau lapaʻau."
+   },
+   {
+    "part": "leaf",
+    "text": "Young leaves were an ingredient in some traditional medicines."
+   }
+  ],
+  "useTags": [
+   "wood-tools",
+   "ceremony",
+   "medicine"
+  ],
+  "partTags": [
+   "fruit",
+   "leaf"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "The bottle gourd was one of the first plants humans ever domesticated. People grew it for containers, net floats, and instruments more than for food.",
+    "source": "kistler-2014"
+   },
+   {
+    "text": "Fishermen stored their hooks and lines in gourds. If the canoe flipped over, the gourd floated and the gear was saved.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "In 1779 John Webber, the artist on Captain Cook's third voyage, drew a Hawaiian canoe with ten paddlers wearing gourd helmets. The Bishop Museum notes these were worn by priests and not warriors, since a gourd is too fragile for battle.",
+    "source": "rmg-webber"
+   },
+   {
+    "text": "A 2006 DNA study found that Polynesian bottle gourds carry markers from both Asian and American gourds. The authors said this needs more testing, but it is one more hint that Polynesian voyagers may have reached the Americas.",
+    "source": "clarke-2006"
+   },
+   {
+    "text": "On Niʻihau, artists decorated gourds from the inside out. They scraped a pattern into the fresh skin, filled the gourd with dye, and let the color soak through. These ipu pāwehe were made only in Hawaiʻi.",
+    "source": "wikipedia-ipu"
+   },
+   {
+    "text": "Gourds cross oceans without help. A 2014 study found that gourds in the ancient Americas came from Africa, most likely by floating across the Atlantic.",
+    "source": "kistler-2014"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "The body of Lono",
+   "text": "In Hawaiian tradition the ipu is a kinolau, a body form, of the god Lono. Lono is tied to rain, farming, and fertility. A round gourd swelling on the vine was a sign of his presence. Planters followed the moon too. Tradition says the best time to plant ipu was during the Hua moon, a few nights before the full moon, since hua also means fruit.\n\nThe ipu also appears in wise sayings. ʻAʻohe ipu ʻōpio e ʻole ka mimino i ka lā. No young gourd can keep from withering in the sun without care. It means that children, like young gourds, need adults to look after them.",
+   "kinolau": "Lono"
   },
-  "today": "",
-  "grow": {},
+  "today": "The ipu heke still keeps the beat for hula across Hawaiʻi and around the world. Growers and artists raise gourds for instruments, bowls, and art, and some decorate them with the old Niʻihau dye method. In local talk, a calabash is still the word for a big shared serving bowl.",
+  "grow": {
+   "sun": "Full sun in a warm, dry, low elevation spot.",
+   "water": "Keep seedlings moist. Give less water once the vine flowers.",
+   "planting": "Plant seeds so the fruit ripens in dry weather. Give the vine a trellis or soft mulch so the gourds do not rot. Hand pollinate the white flowers in the evening.",
+   "harvest": "About 6 months, though it can take 3 to 9. Let the gourd mature fully on the vine, then dry it completely before cleaning it out."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "canoeplants-com",
+   "clarke-2006",
+   "kistler-2014",
+   "rmg-webber",
+   "wikipedia-ipu",
+   "duff-2019",
+   "handy-handy-1972",
+   "krauss-1993"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "ohia-ai",
   "nameHaw": "ʻŌhiʻa ʻai",
+  "pronunciation": "oh-HEE-ah EYE",
   "nameCommon": "Mountain apple",
   "nameSci": "Syzygium malaccense",
   "family": "Myrtaceae",
   "originRegion": "Malesia",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "Flowers that burst from the trunk",
+  "whyInCanoe": "Voyagers packed plenty of starchy roots but only a few fruits. ʻŌhiʻa ʻai was one of them, crisp and juicy and good on a hot day. It also gave hard wood for building, bark for medicine and dye, and it grew happily in the wet valleys where people settled.",
+  "uses": [
+   {
+    "part": "fruit",
+    "text": "The crisp, juicy fruit was eaten fresh, right off the tree."
+   },
+   {
+    "part": "fruit",
+    "text": "Hawaiians also split the fruit and dried it in the sun to save for later."
+   },
+   {
+    "part": "fruit",
+    "text": "The red skin of the fruit gave a red dye."
+   },
+   {
+    "part": "bark",
+    "text": "A tea brewed from the bark soothed a sore throat."
+   },
+   {
+    "part": "bark",
+    "text": "Bark pounded with salt and strained was put on wounds, and the inner bark gave a brown dye."
+   },
+   {
+    "part": "leaf",
+    "text": "Leaves were used in remedies for bronchitis."
+   },
+   {
+    "part": "wood",
+    "text": "The hard, heavy trunks were hewn into house posts, rafters, and fences around temples."
+   },
+   {
+    "part": "wood",
+    "text": "Religious images were carved from the wood, which was treated as sacred."
+   }
+  ],
+  "useTags": [
+   "food",
+   "medicine",
+   "wood-tools",
+   "light-dye",
+   "ceremony"
+  ],
+  "partTags": [
+   "fruit",
+   "bark",
+   "leaf",
+   "wood"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "The flowers do not grow out at the leafy tips. They burst straight out of the trunk and bare branches like hot pink pincushions, then fall and carpet the ground in purplish red.",
+    "source": "little-skolmen-ohia-ai"
+   },
+   {
+    "text": "The name means edible ʻōhiʻa. It is a cousin of ʻōhiʻa lehua in the myrtle family, but they are two different trees, and only this one came by canoe.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "This may have been one of the very few fruits in Hawaiʻi before Europeans arrived. No mango, no papaya, no guava. Those all came later.",
+    "source": "ntbg"
+   },
+   {
+    "text": "In 1793 Captain William Bligh carried mountain apple from Tahiti to Jamaica on the same voyage that finally delivered breadfruit. Yes, that Bligh, the one from the mutiny on the Bounty.",
+    "source": "little-skolmen-ohia-ai"
+   },
+   {
+    "text": "Plant a seed today and you will wait 7 to 8 years for your first fruit. The voyagers who planted it were planting for their children.",
+    "source": "little-skolmen-ohia-ai"
+   },
+   {
+    "text": "In wet windward valleys the trees can crowd together into almost pure mountain apple forest, up to about 1,800 feet above the sea.",
+    "source": "little-skolmen-ohia-ai"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "A sacred wood and a gift for Laka",
+   "text": "This is a tradition, not a single story. Old accounts say Hawaiians treated the wood of ʻōhiʻa ʻai as sacred. It was carved into religious images and set up as the fence posts around temples. The fruit had a place in hula too. It is recorded among the offerings placed on the kuahu, the altar in a hula school.\n\nYou may read that ʻōhiʻa ʻai is a body form of the god Kū or is tied to Pele. Those traditions belong most clearly to its cousin, ʻōhiʻa lehua, and some writers mix the two trees up. So we leave that claim out here. It is a good reminder to check which ʻōhiʻa a story is really about.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "Mountain apple trees still fill wet valleys on the windward sides of the islands, and hikers snack on the fruit in summer. The fruit has thin, soft skin and bruises easily, so you will rarely see it in a big grocery store. Look for it at farmers markets and in backyard trees. People eat it fresh, pickle it, or cook it into preserves.",
+  "grow": {
+   "sun": "Full sun to part sun, with shelter from strong wind.",
+   "water": "Lots. It wants steady water and does best in wet, humid places.",
+   "planting": "Grows easily from the single big seed inside a ripe fruit. Plant it fresh.",
+   "harvest": "Be patient. Trees take 7 to 8 years to fruit, then bloom in spring and fruit in summer and fall."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "little-skolmen-ohia-ai",
+   "bishop-ethnobotany",
+   "wehewehe",
+   "ntbg",
+   "plant-pono",
+   "canoeplants-com"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "hau",
   "nameHaw": "Hau",
+  "pronunciation": "HOW",
   "nameCommon": "Sea hibiscus",
   "nameSci": "Hibiscus tiliaceus",
   "family": "Malvaceae",
   "originRegion": "Pantropical coasts",
   "originMapKey": "indopacific",
-  "status": "debated",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "Rope, floats, and fire",
+  "whyInCanoe": "A canoe needs rope, and hau bark makes strong rope fast. Its wood is so light it floats like cork, perfect for outrigger parts and net floats. Voyagers probably brought cuttings of their best kinds, but the seeds can also float across the sea alone, so scientists are not fully sure how hau first got here.",
+  "uses": [
+   {
+    "part": "bark",
+    "text": "The inner bark was stripped and braided into rope and cord, called ʻili hau, used in almost every part of daily life."
+   },
+   {
+    "part": "bark",
+    "text": "Bark fiber was also made into sandals and beaten into a kind of kapa."
+   },
+   {
+    "part": "wood",
+    "text": "The light, tough wood became canoe outrigger parts, including the curved booms and the float."
+   },
+   {
+    "part": "wood",
+    "text": "Chunks of the corky wood were tied to fishing nets as floats."
+   },
+   {
+    "part": "wood",
+    "text": "A soft hau stick was one half of the fire making kit, rubbed together with a harder wood such as olomea."
+   },
+   {
+    "part": "wood",
+    "text": "Hau was shaped into adze handles, long game spears, and the cross sticks of kites."
+   },
+   {
+    "part": "flower",
+    "text": "Flower buds were used as a gentle laxative."
+   },
+   {
+    "part": "sap",
+    "text": "The slimy sap was used in remedies for a congested chest and a dry throat."
+   }
+  ],
+  "useTags": [
+   "cloth-cordage",
+   "wood-tools",
+   "medicine",
+   "ceremony"
+  ],
+  "partTags": [
+   "bark",
+   "wood",
+   "flower",
+   "sap"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Each flower lives for one day. It opens bright yellow in the morning, turns orange in the afternoon, and is dull red by the time it drops.",
+    "source": "little-skolmen-hau"
+   },
+   {
+    "text": "Hawaiians made fire by rubbing a pointed stick of hard wood, such as olomea, in a groove on a piece of soft hau. Boy Scout troops in Hawaiʻi still like hau for earning their fire starting badge.",
+    "source": "little-skolmen-hau"
+   },
+   {
+    "text": "Hau seeds can sit in salt water for months and still sprout. That is exactly why scientists argue about it. It could have floated to Hawaiʻi without any help.",
+    "source": "plant-pono"
+   },
+   {
+    "text": "Hau was so valuable that you could not just go cut some. Accounts say you needed permission from the chief first.",
+    "source": "plant-pono"
+   },
+   {
+    "text": "Those grass skirts sold to visitors across the Pacific are often not grass at all. Many are made of hau bark fiber.",
+    "source": "little-skolmen-hau"
+   },
+   {
+    "text": "Wherever a long hau branch touches the ground, it grows roots. One tree can turn into a tangle so thick that a person cannot push through it.",
+    "source": "little-skolmen-hau"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "The kapu sign on the shore",
+   "text": "This is a recorded custom from old Hawaiʻi. Fishing near shore was not open all the time. The konohiki, the person who managed the land for the chief, could close the shallow sea so fish had time to spawn and grow. The sign was simple. Branches of hau were set all along the shore.\n\nEveryone who saw the hau branches knew the shallow water was kapu. People went out to the deep sea fishing grounds instead. The old account says that breaking this kapu could be punished by death. When the branches were taken away, the kapu was lifted and people fished near shore again. Hau was a stop sign that protected the fish.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "You can still find hau along streams and beaches on every island, often as a huge tangled thicket. People train it over trellises to make shady arbors, plant it as a windbreak, and carve the wood into bowls. Cultural practitioners still strip the bark for cordage. Books do not agree on its status. Some list it as a canoe plant, some as native, and some as both.",
+  "grow": {
+   "sun": "Full sun. It handles wind and salt spray.",
+   "water": "Not fussy. It grows in dry or wet ground once it settles in.",
+   "planting": "Push a branch cutting into the soil. It roots easily, even as a living fence post.",
+   "harvest": "Grows fast. Prune hard and plant it far from pipes, sidewalks, and buildings or it becomes a thicket."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "little-skolmen-hau",
+   "bishop-ethnobotany",
+   "plant-pono",
+   "wehewehe",
+   "thrum-1907",
+   "mnbg",
+   "canoeplants-com"
+  ],
+  "status": "debated"
  },
  {
   "slug": "auhuhu",
   "nameHaw": "ʻAuhuhu",
+  "pronunciation": "ow-HOO-hoo",
   "nameCommon": "Fish poison plant",
   "nameSci": "Tephrosia purpurea",
   "family": "Fabaceae",
   "originRegion": "Tropical Asia and Pacific",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The plant that puts fish to sleep",
+  "whyInCanoe": "Most canoe plants were food. This one was a fishing tool. A handful of pounded ʻauhuhu could stun the fish in a tide pool so they could be picked up by hand, with no hook, no net, and no harm to the people who ate them.",
+  "uses": [
+   {
+    "part": "leaf",
+    "text": "Leaves were pounded with the rest of the plant and scattered in tide pools to stun fish."
+   },
+   {
+    "part": "seed",
+    "text": "The pods and seeds carry the fish stunning chemical too, so they went into the mix."
+   },
+   {
+    "part": "leaf",
+    "text": "The pounded plant was also packed into holes in the reef where fish were hiding."
+   },
+   {
+    "part": "leaf",
+    "text": "Leaves and leaf buds were ground with salt and coconut and put on cuts and itchy skin."
+   }
+  ],
+  "useTags": [
+   "food",
+   "medicine"
+  ],
+  "partTags": [
+   "leaf",
+   "seed"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Fishers crushed the plant with a pestle or just a beach rock and scattered it in a tide pool. Small fish soon floated to the top and could be picked up by hand.",
+    "source": "primitiveways-fish-toxins"
+   },
+   {
+    "text": "The fish were drugged, not killed. Any fish that got missed or washed out of the pool woke up and swam away.",
+    "source": "primitiveways-fish-toxins"
+   },
+   {
+    "text": "The chemical stuns fish but not mammals. People ate the catch with no ill effects.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "The active chemical is called tephrosin. It belongs to the same chemical family as rotenone, which the world later used as a bug killer and which wildlife agencies still use to clear invasive fish from lakes.",
+    "source": "wikipedia-rotenone"
+   },
+   {
+    "text": "Do not try this. Hawaiʻi law today bans putting fish poisons in the water without a permit, and the law lists this plant by its scientific name.",
+    "source": "hrs-188-23"
+   },
+   {
+    "text": "Each plant lives only a year or two. It drops so many seeds that new plants are usually sprouting before the old one dies.",
+    "source": "bishop-plantcare-auhuhu"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "Hola, fishing with a plant",
+   "text": "No single story about ʻauhuhu has come down to us, so here is the customary practice instead. The plant has other names, such as ʻauhola and hola. Hola is also the word for fishing this way. The Hawaiian dictionary gives a line from Niʻihau that says to go hola fishing in the daytime. A point on the Kohala coast of Hawaiʻi Island is even named ʻAuhuhu, after the plant.\n\nHola fishing worked in small, closed waters such as tide pools and holes in the reef. It did not break the reef and it did not waste fish, because fish that were left behind recovered. It took real knowledge to use the right plant in the right place and in the right amount.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "ʻAuhuhu still grows wild in dry, rocky places, and native plant nurseries sell it as a tough little shrub for dry gardens. Fishing with it is now against the law without a permit. Today it is grown for its small purple and white pea flowers and for the story it tells.",
+  "grow": {
+   "sun": "Full sun. It likes hot, dry, rocky spots.",
+   "water": "Keep soil moist until it is established, then water very little. Soil must drain well.",
+   "planting": "Sow the seeds from the dry pods. It will reseed itself after that.",
+   "harvest": "Fast and short lived, about 1 to 2 years. Grow it to look at, never to put in water."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "primitiveways-fish-toxins",
+   "kumukahi-lawaia",
+   "wehewehe",
+   "bishop-plantcare-auhuhu",
+   "hawaiian-native-plants-auhuhu",
+   "wikipedia-tephrosin",
+   "wikipedia-rotenone",
+   "hrs-188-23"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "ki",
   "nameHaw": "Kī",
+  "pronunciation": "KEE",
   "nameCommon": "Ti",
   "nameSci": "Cordyline fruticosa",
   "family": "Asparagaceae",
   "originRegion": "Southeast Asia and Melanesia",
   "originMapKey": "newguinea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "One leaf, a hundred jobs",
+  "whyInCanoe": "Kī was the plastic wrap, the raincoat, the dinner plate, and the lucky charm of old Hawaiʻi, all in one plant. It travels well too. A piece of stem will root almost anywhere, so it was easy to carry and easy to plant on arrival.",
+  "uses": [
+   {
+    "part": "leaf",
+    "text": "Leaves wrapped food for cooking in the imu, and they still wrap laulau today."
+   },
+   {
+    "part": "leaf",
+    "text": "Leaves served as plates and cups and kept stored food cool and clean."
+   },
+   {
+    "part": "leaf",
+    "text": "Leaves were made into rain capes, sandals, hula skirts, and house thatch."
+   },
+   {
+    "part": "leaf",
+    "text": "Ti leaves tied along the ropes of a hukilau net helped scare fish toward the net."
+   },
+   {
+    "part": "leaf",
+    "text": "Leaves were worn or carried for protection, and kahuna used them in ceremonies."
+   },
+   {
+    "part": "leaf",
+    "text": "A leaf wrapped around a warm stone made a hot pack for sore muscles."
+   },
+   {
+    "part": "root",
+    "text": "The thick root was baked until sweet and eaten as a treat or in times of famine."
+   },
+   {
+    "part": "root",
+    "text": "After Western contact, baked and mashed root was fermented and distilled into a liquor called ʻōkolehao."
+   }
+  ],
+  "useTags": [
+   "food",
+   "cloth-cordage",
+   "medicine",
+   "ceremony"
+  ],
+  "partTags": [
+   "leaf",
+   "root"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "The green ti of Hawaiʻi cannot make babies the usual way. A 2007 study crossed ti plants from across the Pacific and found that the Eastern Polynesian kind is sterile, so every plant grew from a cutting of a cutting, all the way back to the canoes.",
+    "source": "hinkle-2007"
+   },
+   {
+    "text": "Hukilau fishing gets its name from this plant. Huki means pull, and the lau was a long rope hung with ti leaves that fishers dragged through the water to herd fish into the net.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "Kids in old Hawaiʻi slid down steep grassy hills sitting on ti leaves. That is not the same as hōlua, the famous sport that used a wooden sled on a special course.",
+    "source": "canoeplants-com"
+   },
+   {
+    "text": "The name ʻōkolehao means iron bottom. It comes from the iron pots off sailing ships that were turned into stills for ti root liquor.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "Ti leaves have their own word. Lāʻī is short for lau kī, which simply means ti leaf.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "The Hawaiian dictionary says green ti leaves are still believed to protect people from spirits. Many families still plant kī around the house for that reason.",
+    "source": "wehewehe"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "The leaf that guards",
+   "text": "These are traditions and beliefs, shared here with respect. Kī is said to be sacred to Lono, a god of farming, and to Laka, the goddess of hula. It was a sign of high rank and divine power. Kahuna wore ti leaves as lei or clothing when they led ceremonies. People wore or carried the leaves to keep away harm and to call in good.\n\nOne belief is still told at swimming holes today. Before you jump into a quiet freshwater pool, lay a ti leaf on the water. If it floats, the pool is safe. If it sinks, a moʻo, a water guardian spirit, is home and you should stay out. Whether or not you believe it, it is a good habit to stop and look before you leap.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "Kī is everywhere in Hawaiʻi. It wraps laulau, decorates tables, and becomes lei and hula skirts. Many families still plant green ti by the house for good luck. Garden shops sell red, pink, and striped kinds too, but the plain green one is the canoe plant.",
+  "grow": {
+   "sun": "Sun or part shade.",
+   "water": "Regular water. It likes moist soil that drains.",
+   "planting": "Cut a piece of stem and plant it standing up or lying flat in the soil. It roots easily.",
+   "harvest": "Pick lower leaves as you need them once the plant is leafy. Leave the top to keep growing."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "ntbg",
+   "wehewehe",
+   "hinkle-2007",
+   "canoeplants-com",
+   "kapiolani-cc-ki",
+   "dartmouth-folklore-moo",
+   "wikipedia-okolehao"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "kou",
   "nameHaw": "Kou",
+  "pronunciation": "KOH-oo",
   "nameCommon": "Kou",
   "nameSci": "Cordia subcordata",
   "family": "Boraginaceae",
   "originRegion": "Indo Pacific coasts",
   "originMapKey": "indopacific",
-  "status": "reclassified",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The canoe plant that was already here",
+  "whyInCanoe": "For a long time everyone listed kou as a canoe plant, and it made sense. It grew around houses and villages, not deep in wild forest. It was useful, it grows across Polynesia, and nobody had found old kou pollen in Hawaiʻi. Then scientists dug into a cave on Kauaʻi and found kou that was thousands of years older than the first canoe. Voyagers may still have carried it too, but kou beat them here.",
+  "uses": [
+   {
+    "part": "wood",
+    "text": "The soft but lasting wood was carved into ʻumeke, the bowls that held poi, plus cups, dishes, and platters."
+   },
+   {
+    "part": "wood",
+    "text": "Special bowls for a firstborn child were made of kou."
+   },
+   {
+    "part": "flower",
+    "text": "The orange flowers were strung into lei."
+   },
+   {
+    "part": "seed",
+    "text": "The small seeds were eaten."
+   },
+   {
+    "part": "leaf",
+    "text": "Aged leaves gave a warm brown dye for kapa, and fishermen used it to dye their fishing lines."
+   }
+  ],
+  "useTags": [
+   "wood-tools",
+   "light-dye",
+   "food"
+  ],
+  "partTags": [
+   "wood",
+   "flower",
+   "seed",
+   "leaf"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "At Makauwahi Cave on Kauaʻi, scientists found kou fruits buried in mud and dated eight of them. They were between about 5,300 and 5,900 years old, thousands of years before any person reached Hawaiʻi.",
+    "source": "burney-2001"
+   },
+   {
+    "text": "A 1989 tree handbook said no fossil kou pollen had ever been found in Hawaiʻi, and counted that as evidence that people brought it. The cave study showed why. Kou makes very little pollen, so it left only traces, but its fruits were everywhere.",
+    "source": "burney-2001"
+   },
+   {
+    "text": "Kou was not the only surprise in that cave. The same dig showed that hala, another plant once credited to the voyagers, was also growing on Kauaʻi before people.",
+    "source": "burney-2001"
+   },
+   {
+    "text": "Kou bowls were prized because the wood adds no taste to food. Koa and other native woods can make poi taste bad.",
+    "source": "little-skolmen-kou"
+   },
+   {
+    "text": "How did it get here without a canoe? Kou fruits float, and ocean currents can carry them very far.",
+    "source": "wikipedia-cordia-subcordata"
+   },
+   {
+    "text": "In the 1800s a moth arrived whose caterpillars eat kou leaves. It killed so many trees that kou almost vanished from the islands.",
+    "source": "wikipedia-cordia-subcordata"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "The shade tree by the house",
+   "text": "No single famous story about kou has come down to us, so here is how people remember living with it. Kou has a wide, thick crown of big leaves, and it grows fast. Hawaiians planted it near their houses and along the shore for shade. It is said that women sat in that cool shade to beat kapa and string lei together while they talked through the day.\n\nThat habit of planting kou by the house is part of why people were so sure it came in a canoe. Most plants that grow right around a village were brought there by someone. Kou fooled everybody. It was native all along, and people simply loved it enough to plant it close to home.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "Kou is making a comeback as a shade tree in parks, along streets, and at beach parks, because it handles salt, wind, and drought. Woodworkers still treasure the striped wood, but it is in short supply. Look for the orange flowers, and do not mix it up with kou haole, the Geiger tree, which has rough leaves and darker flowers and arrived much later. Most plant lists now call kou indigenous, which means native to Hawaiʻi and to other places too.",
+  "grow": {
+   "sun": "Full sun. Happy near the beach.",
+   "water": "Water until it is established. After that it handles drought, wind, and salt.",
+   "planting": "Grows easily and quickly from seed. Give it room, about 25 to 30 feet tall and wide.",
+   "harvest": "A fast shade tree. Pick the orange flowers for lei once it starts to bloom."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "burney-2001",
+   "little-skolmen-kou",
+   "bishop-ethnobotany",
+   "wehewehe",
+   "mnbg",
+   "plant-pono",
+   "canoeplants-com",
+   "wikipedia-cordia-subcordata"
+  ],
+  "status": "reclassified"
  }
 ]

@@ -107,3 +107,15 @@
   background-color: var(--bg);
   color: var(--fg);
 }
+.ground-olena {
+  --bg: var(--olena);
+  --fg: var(--kukui);
+  --muted: #3A2E12;
+  --rule: #B07F0A;
+  --accent: var(--kukui);
+  --link: var(--kukui);
+  --focus: var(--kukui);
+  --panel: #E6B53A;
+  background-color: var(--bg);
+  color: var(--fg);
+}

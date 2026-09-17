@@ -1,0 +1,31 @@
+/* Printable plant fact sheets. One or two clean pages. */
+@page { margin: 14mm; }
+body { background: #fff !important; color: #000 !important; font-size: 10.5pt; line-height: 1.4; display: block; }
+.site-header, .site-footer, .skip-link, .search, .plant-foot, .plant-gallery, .link-btn, .say-popover,
+.kapa-band, .kapa-field::before, .credit a[rel~="license"] ~ a { display: none !important; }
+main, main * { background: none !important; color: #000 !important; }
+.wrap { width: 100%; }
+.section, .section--tight { padding-block: 0; }
+.plant section { margin-top: 5mm; break-inside: avoid; }
+.plant-hero { display: grid; grid-template-columns: 1fr 55mm; gap: 6mm; align-items: end; }
+.plant-hero__photo { order: 2; }
+.plant-hero__photo img { height: 40mm; }
+.plant-hero__label { margin: 0; padding: 0; }
+.plant-name { font-size: 40pt; }
+.plant-say { font-size: 12pt; margin-top: 2mm; }
+h2 { font-size: 14pt; margin-bottom: 2mm !important; }
+h3 { font-size: 11pt; }
+.lede, .facts p, .plant-moolelo .prose p, .plant-names dd { font-size: 10.5pt; line-height: 1.4; max-width: none; }
+.plant-names { border-top: 1pt solid #000; padding-top: 2mm; gap: 2mm 6mm; grid-template-columns: repeat(5, auto); }
+.uses { gap: 3mm 6mm; margin-top: 2mm; grid-template-columns: repeat(3, 1fr); }
+.uses > li { border-top: 0.5pt solid #000; padding-top: 1mm; }
+.uses .icon { width: 6mm; height: 6mm; }
+.uses h3 { margin-block: 0 1mm; }
+.facts { gap: 2mm 8mm; margin-top: 2mm; grid-template-columns: 1fr 1fr; }
+.facts li { border-top: 0.5pt solid #000; padding-top: 1mm; gap: 2mm; break-inside: avoid; }
+.facts li::before { font-size: 18pt; }
+.plant-now { grid-template-columns: 1fr 1fr; gap: 6mm; }
+.grow > div { padding-block: 1mm; grid-template-columns: 18mm 1fr; }
+.source-list { font-size: 8pt; }
+.source-list a { text-decoration: none; }
+.plant-sources::after { content: "Canoe plants of Hawaiʻi. olagon.github.io/canoe-plants"; display: block; margin-top: 4mm; font-size: 8pt; }
