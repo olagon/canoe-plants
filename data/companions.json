@@ -1,147 +1,174 @@
 [
-  {
-    "slug": "puaa",
-    "nameHaw": "Puaʻa",
-    "pronunciation": "poo-AH-ah",
-    "nameCommon": "Pig",
-    "nameSci": "Sus scrofa",
-    "hook": "The pig that became a god",
-    "intro": "Pigs crossed the Pacific in the canoes, right next to the plants. In Hawaiʻi the puaʻa was food for feasts, a gift for the gods, and the star of some of the wildest moʻolelo in the islands.",
-    "facts": [
-      {
-        "text": "The Polynesian pig was a small variety, usually kept in pens close to home. The bigger and rougher European pigs only showed up after 1778, when Captain Cook landed an English sow and boar on Niʻihau.",
-        "source": "nps-havo-invasive"
-      },
-      {
-        "text": "Are the wild pigs in the forest today just escaped farm pigs? A 2016 DNA study says no. Most Hawaiian feral pigs still descend from the pigs the voyagers brought, with some later mixing.",
-        "source": "linderholm-2016"
-      },
-      {
-        "text": "In tradition, Kamapuaʻa is a demigod who is half man and half hog. His name means hog child, and the moʻolelo tell of his stormy romance with the volcano goddess Pele.",
-        "source": "wehewehe"
-      },
-      {
-        "text": "A whole pig was one of the most serious offerings a person could make. One old saying, moe ka ihu o ka puaʻa, the snout of the pig has been laid down, means the full sacrifice has been given.",
-        "source": "wehewehe"
-      }
-    ],
-    "images": [],
-    "sources": ["nps-havo-invasive", "linderholm-2016", "wehewehe", "hdoa-ag-history"]
-  },
-  {
-    "slug": "ilio",
-    "nameHaw": "ʻĪlio",
-    "pronunciation": "EE-lee-oh",
-    "nameCommon": "Hawaiian poi dog",
-    "nameSci": "Canis familiaris",
-    "hook": "The dog that vanished",
-    "intro": "Dogs sailed with the voyagers as companions and, in old Hawaiʻi, as food too. The original Hawaiian dog is gone now. When people say poi dog today, they just mean a lovable mixed breed.",
-    "facts": [
-      {
-        "text": "The Hawaiian dictionary says it plainly. The ʻīlio was brought to Hawaiʻi by early Polynesians, and some families honored the dog as an ʻaumakua, a family guardian.",
-        "source": "wehewehe"
-      },
-      {
-        "text": "A Honolulu Zoo director described the old poi dog as long in the body with short bowed legs, pointed ears, and yellow, white, or brown hair. It stood about 14 inches tall.",
-        "source": "honolulu-magazine-poi-dog"
-      },
-      {
-        "text": "Around 1970 the Honolulu Zoo tried to breed the poi dog back using local dogs that looked the part. The project faded out. One of those dogs, named Hōkū, sailed on Hōkūleʻa in 1976.",
-        "source": "honolulu-magazine-poi-dog"
-      },
-      {
-        "text": "Ancient dog DNA shows that one family of dogs spread across the Pacific islands, all the way into Polynesia. Its trail leads back to the islands of Southeast Asia.",
-        "source": "greig-2018"
-      }
-    ],
-    "images": [],
-    "sources": ["wehewehe", "honolulu-magazine-poi-dog", "greig-2018"]
-  },
-  {
-    "slug": "moa",
-    "nameHaw": "Moa",
-    "pronunciation": "MOH-ah",
-    "nameCommon": "Chicken, red junglefowl",
-    "nameSci": "Gallus gallus",
-    "hook": "Ancient bird, modern traffic jam",
-    "intro": "The moa that rode in the canoes was the red junglefowl, the wild ancestor of every farm chicken on Earth. It was food that could walk itself onto the canoe. Some of its DNA may still be strutting around Kauaʻi.",
-    "facts": [
-      {
-        "text": "Ancient chicken bones from across the Pacific share a special DNA signature found nowhere else. Scientists think it marks the true voyaging chickens, carried from island to island by canoe.",
-        "source": "thomson-2014"
-      },
-      {
-        "text": "When Captain Cook reached Kauaʻi in 1778, he noted that the people there already kept chickens.",
-        "source": "hdoa-ag-history"
-      },
-      {
-        "text": "So are the famous wild chickens of Kauaʻi canoe chickens? Partly. A 2015 study found they are a mix. A rare DNA line matches ancient Kauaʻi bones from before Western contact, but the most common line comes from modern farm breeds.",
-        "source": "gering-2015"
-      },
-      {
-        "text": "Kauaʻi chicken numbers shot up after Hurricane Iwa in 1982 and Hurricane Iniki in 1992 smashed backyard coops. A later study dated the big mixing of farm birds and wild junglefowl to right around that time.",
-        "source": "cerezo-2023"
-      }
-    ],
-    "images": [],
-    "sources": ["thomson-2014", "hdoa-ag-history", "gering-2015", "cerezo-2023", "wehewehe"]
-  },
-  {
-    "slug": "iole",
-    "nameHaw": "ʻIole",
-    "pronunciation": "ee-OH-leh",
-    "nameCommon": "Polynesian rat",
-    "nameSci": "Rattus exulans",
-    "hook": "Small rat, giant footprint",
-    "intro": "The Polynesian rat reached almost every island the canoes did. Scientists still are not sure if it hid aboard as a stowaway or was carried on purpose, maybe as food. Either way, it changed Hawaiʻi more than any other passenger.",
-    "facts": [
-      {
-        "text": "On the ʻEwa Plain of Oʻahu, pollen buried in an old pond shows the native lowland forest crashing before people even lived there. Archaeologist Stephen Athens thinks hungry rats raced ahead of the settlers and ate the seeds.",
-        "source": "athens-2009"
-      },
-      {
-        "text": "Loulu, the native fan palms, were among the first trees to vanish from the lowlands. With almost nothing hunting them, rat numbers could explode. This is a leading idea, not a closed case, because people were also clearing and burning land.",
-        "source": "hess-2026"
-      },
-      {
-        "text": "Rats are living history books. Because they traveled only with people, scientists read rat DNA to trace the routes the canoes took across the Pacific.",
-        "source": "matisoo-smith-2004"
-      },
-      {
-        "text": "In Aotearoa, seeds with tiny rat tooth marks helped date the arrival of the first canoes to around 1280 CE. No people, no rats. So the oldest gnawed seed marks the landing.",
-        "source": "wilmshurst-2008"
-      }
-    ],
-    "images": [],
-    "sources": ["athens-2009", "hess-2026", "matisoo-smith-2004", "wilmshurst-2008", "wehewehe"]
-  },
-  {
-    "slug": "stowaways",
-    "nameHaw": "Moʻo",
-    "pronunciation": "MOH-oh",
-    "nameCommon": "Small stowaways",
-    "nameSci": "Several species",
-    "hook": "Nobody packed the geckos",
-    "intro": "Not every passenger was invited. Tucked into bundles of plants, thatch, and soil, a few small creatures and weeds likely made the crossing too. Moʻo is the Hawaiian word for lizard.",
-    "facts": [
-      {
-        "text": "The usual story is that eight kinds of small lizards stowed away in the voyaging canoes. The list includes mourning geckos, stump-toed geckos, tree geckos, Indo-Pacific geckos, and several skinks.",
-        "source": "strohecker-2016"
-      },
-      {
-        "text": "The story may need an update. Genetic work by a University of Hawaiʻi researcher suggests the snake-eyed skink could have rafted here on its own, long before any canoe. Science keeps checking its answers.",
-        "source": "maui-news-2024"
-      },
-      {
-        "text": "Two tiny land snails, Lamellidea oblonga and Allopeas gracile, were in Hawaiʻi before 1778. A Bishop Museum snail study lists both as possible accidental Polynesian arrivals.",
-        "source": "cowie-1998"
-      },
-      {
-        "text": "A few weeds likely hitchhiked as well. ʻIhi, the little yellow wood sorrel with clover leaves, probably started in Southeast Asia, and there is evidence it reached Polynesia before any European ship did.",
-        "source": "groom-2019"
-      }
-    ],
-    "images": [],
-    "sources": ["strohecker-2016", "maui-news-2024", "cowie-1998", "groom-2019", "wehewehe"]
-  }
+ {
+  "slug": "puaa",
+  "nameHaw": "Puaʻa",
+  "pronunciation": "poo-AH-ah",
+  "nameCommon": "Pig",
+  "nameSci": "Sus scrofa",
+  "hook": "The pig that became a god",
+  "intro": "Pigs crossed the Pacific in the canoes, right next to the plants. In Hawaiʻi the puaʻa was food for feasts, a gift for the gods, and the star of some of the wildest moʻolelo in the islands.",
+  "facts": [
+   {
+    "text": "The Polynesian pig was a small variety, usually kept in pens close to home. The bigger and rougher European pigs only showed up after 1778, when Captain Cook landed an English sow and boar on Niʻihau.",
+    "source": "nps-havo-invasive"
+   },
+   {
+    "text": "Are the wild pigs in the forest today just escaped farm pigs? A 2016 DNA study says no. Most Hawaiian feral pigs still descend from the pigs the voyagers brought, with some later mixing.",
+    "source": "linderholm-2016"
+   },
+   {
+    "text": "In tradition, Kamapuaʻa is a demigod who is half man and half hog. His name means hog child, and the moʻolelo tell of his stormy romance with the volcano goddess Pele.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "A whole pig was one of the most serious offerings a person could make. One old saying, moe ka ihu o ka puaʻa, the snout of the pig has been laid down, means the full sacrifice has been given.",
+    "source": "wehewehe"
+   }
+  ],
+  "images": [],
+  "sources": [
+   "nps-havo-invasive",
+   "linderholm-2016",
+   "wehewehe",
+   "hdoa-ag-history"
+  ]
+ },
+ {
+  "slug": "ilio",
+  "nameHaw": "ʻĪlio",
+  "pronunciation": "EE-lee-oh",
+  "nameCommon": "Hawaiian poi dog",
+  "nameSci": "Canis familiaris",
+  "hook": "The dog that vanished",
+  "intro": "Dogs sailed with the voyagers as companions and, in old Hawaiʻi, as food too. The original Hawaiian dog is gone now. When people say poi dog today, they just mean a lovable mixed breed.",
+  "facts": [
+   {
+    "text": "The Hawaiian dictionary says it plainly. The ʻīlio was brought to Hawaiʻi by early Polynesians, and some families honored the dog as an ʻaumakua, a family guardian.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "A Honolulu Zoo director described the old poi dog as long in the body with short bowed legs, pointed ears, and yellow, white, or brown hair. It stood about 14 inches tall.",
+    "source": "honolulu-magazine-poi-dog"
+   },
+   {
+    "text": "Around 1970 the Honolulu Zoo tried to breed the poi dog back using local dogs that looked the part. The project faded out. One of those dogs, named Hōkū, sailed on Hōkūleʻa in 1976.",
+    "source": "honolulu-magazine-poi-dog"
+   },
+   {
+    "text": "Ancient dog DNA shows that one family of dogs spread across the Pacific islands, all the way into Polynesia. Its trail leads back to the islands of Southeast Asia.",
+    "source": "greig-2018"
+   }
+  ],
+  "images": [],
+  "sources": [
+   "wehewehe",
+   "honolulu-magazine-poi-dog",
+   "greig-2018"
+  ]
+ },
+ {
+  "slug": "moa",
+  "nameHaw": "Moa",
+  "pronunciation": "MOH-ah",
+  "nameCommon": "Chicken, red junglefowl",
+  "nameSci": "Gallus gallus",
+  "hook": "Ancient bird, modern traffic jam",
+  "intro": "The moa that rode in the canoes was the red junglefowl, the wild ancestor of every farm chicken on Earth. It was food that could walk itself onto the canoe. Some of its DNA may still be strutting around Kauaʻi.",
+  "facts": [
+   {
+    "text": "Ancient chicken bones from across the Pacific share a special DNA signature found nowhere else. Scientists think it marks the true voyaging chickens, carried from island to island by canoe.",
+    "source": "thomson-2014"
+   },
+   {
+    "text": "When Captain Cook reached Kauaʻi in 1778, he noted that the people there already kept chickens.",
+    "source": "hdoa-ag-history"
+   },
+   {
+    "text": "So are the famous wild chickens of Kauaʻi canoe chickens? Partly. A 2015 study found they are a mix. A rare DNA line matches ancient Kauaʻi bones from before Western contact, but the most common line comes from modern farm breeds.",
+    "source": "gering-2015"
+   },
+   {
+    "text": "Kauaʻi chicken numbers shot up after Hurricane Iwa in 1982 and Hurricane Iniki in 1992 smashed backyard coops. A later study dated the big mixing of farm birds and wild junglefowl to right around that time.",
+    "source": "cerezo-2023"
+   }
+  ],
+  "images": [],
+  "sources": [
+   "thomson-2014",
+   "hdoa-ag-history",
+   "gering-2015",
+   "cerezo-2023",
+   "wehewehe"
+  ]
+ },
+ {
+  "slug": "iole",
+  "nameHaw": "ʻIole",
+  "pronunciation": "ee-OH-leh",
+  "nameCommon": "Polynesian rat",
+  "nameSci": "Rattus exulans",
+  "hook": "Small rat, giant footprint",
+  "intro": "The Polynesian rat reached almost every island the canoes did. Scientists still are not sure if it hid aboard as a stowaway or was carried on purpose, maybe as food. Either way, it changed Hawaiʻi more than any other passenger.",
+  "facts": [
+   {
+    "text": "On the ʻEwa Plain of Oʻahu, pollen buried in an old pond shows the native lowland forest crashing before people even lived there. Archaeologist Stephen Athens thinks hungry rats raced ahead of the settlers and ate the seeds.",
+    "source": "athens-2009"
+   },
+   {
+    "text": "Loulu, the native fan palms, were among the first trees to vanish from the lowlands. With almost nothing hunting them, rat numbers could explode. This is a leading idea, not a closed case, because people were also clearing and burning land.",
+    "source": "hess-2026"
+   },
+   {
+    "text": "Rats are living history books. Because they traveled only with people, scientists read rat DNA to trace the routes the canoes took across the Pacific.",
+    "source": "matisoo-smith-2004"
+   },
+   {
+    "text": "In Aotearoa, seeds with tiny rat tooth marks helped date the arrival of the first canoes to around 1280 CE. No people, no rats. So the oldest gnawed seed marks the landing.",
+    "source": "wilmshurst-2008"
+   }
+  ],
+  "images": [],
+  "sources": [
+   "athens-2009",
+   "hess-2026",
+   "matisoo-smith-2004",
+   "wilmshurst-2008",
+   "wehewehe"
+  ]
+ },
+ {
+  "slug": "stowaways",
+  "nameHaw": "Moʻo",
+  "pronunciation": "MOH-oh",
+  "nameCommon": "Small stowaways",
+  "nameSci": "Several species",
+  "hook": "Nobody packed the geckos",
+  "intro": "Not every passenger was invited. Tucked into bundles of plants, thatch, and soil, a few small creatures and weeds likely made the crossing too. Moʻo is the Hawaiian word for lizard.",
+  "facts": [
+   {
+    "text": "The usual story is that eight kinds of small lizards stowed away in the voyaging canoes. The list includes mourning geckos, stump-toed geckos, tree geckos, Indo-Pacific geckos, and several skinks.",
+    "source": "strohecker-2016"
+   },
+   {
+    "text": "The story may need an update. Genetic work by a University of Hawaiʻi researcher suggests the snake-eyed skink could have rafted here on its own, long before any canoe. Science keeps checking its answers.",
+    "source": "maui-news-2024"
+   },
+   {
+    "text": "Two tiny land snails, Lamellidea oblonga and Allopeas gracile, were in Hawaiʻi before 1778. A Bishop Museum snail study lists both as possible accidental Polynesian arrivals.",
+    "source": "cowie-1998"
+   },
+   {
+    "text": "A few weeds likely hitchhiked as well. ʻIhi, the little yellow wood sorrel with clover leaves, probably started in Southeast Asia, and there is evidence it reached Polynesia before any European ship did.",
+    "source": "groom-2019"
+   }
+  ],
+  "images": [],
+  "sources": [
+   "strohecker-2016",
+   "maui-news-2024",
+   "cowie-1998",
+   "groom-2019",
+   "wehewehe"
+  ]
+ }
 ]

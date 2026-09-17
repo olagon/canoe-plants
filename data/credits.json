@@ -1,1 +1,362 @@
-[]
+[
+ {
+  "creditId": "c-wauke-01",
+  "file": "wauke-01.webp",
+  "plantSlug": "wauke",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-130411-3954-Broussonetia_papyrifera-leaves-Pololei_Haiku-Maui_(24914358830).jpg",
+  "title": "Wauke leaves on Maui"
+ },
+ {
+  "creditId": "c-wauke-02",
+  "file": "wauke-02.webp",
+  "plantSlug": "wauke",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_061106-1467_Broussonetia_papyrifera.jpg",
+  "title": "Beating wauke bark into kapa"
+ },
+ {
+  "creditId": "c-wauke-03",
+  "file": "wauke-03.webp",
+  "plantSlug": "wauke",
+  "author": "National Park Service, Dave Boyle",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapa_display.jpg",
+  "title": "Finished kapa at Hawaiʻi Volcanoes National Park"
+ },
+ {
+  "creditId": "c-wauke-04",
+  "file": "wauke-04.webp",
+  "plantSlug": "wauke",
+  "author": "Wmpearl",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:I%CA%BBe_kuku_(wooden_beaters)_and_kua_l%C4%81%CA%BBau_(wood_anvil),_Hawaii_State_Art_Museum.jpg",
+  "title": "Iʻe kuku beaters and a kua lāʻau anvil"
+ },
+ {
+  "creditId": "c-ohe-01",
+  "file": "ohe-01.webp",
+  "plantSlug": "ohe",
+  "author": "Hectonichus",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poaceae_-_Schizostachyum_glaucifolium.jpg",
+  "title": "ʻOhe clump in French Polynesia"
+ },
+ {
+  "creditId": "c-ohe-02",
+  "file": "ohe-02.webp",
+  "plantSlug": "ohe",
+  "author": "Daderot",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapa_bamboo_printing_stamps,_Hawaii,_1872_-_Staatlichen_Museums_f%C3%BCr_V%C3%B6lkerkunde_M%C3%BCnchen_-_DSC08284.JPG",
+  "title": "ʻOhe kāpala stamps collected in 1872"
+ },
+ {
+  "creditId": "c-ohe-03",
+  "file": "ohe-03.webp",
+  "plantSlug": "ohe",
+  "author": "National Park Service",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Volunteer_Will_demonstrates_the_%E2%80%98Ohe_Hana_Ihu_(nose_flute)._(cf130a3a-155d-4519-3e4c-923fc9d4360e).jpg",
+  "title": "Playing the ʻohe hano ihu"
+ },
+ {
+  "creditId": "c-ohe-04",
+  "file": "ohe-04.webp",
+  "plantSlug": "ohe",
+  "author": "Wmpearl",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%CA%BBOhe_k%C4%81pala,_bamboo_stamps_used_to_apply_dye_to_kapa,_Hawaii_State_Art_Museum.jpg",
+  "title": "ʻOhe kāpala at the Hawaiʻi State Art Museum"
+ },
+ {
+  "creditId": "c-olena-01",
+  "file": "olena-01.webp",
+  "plantSlug": "olena",
+  "author": "T. R. Shankar Raman",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turmeric_farm_in_Chamarajanagar_District_IMG20170828084158.jpg",
+  "title": "A field of turmeric"
+ },
+ {
+  "creditId": "c-olena-02",
+  "file": "olena-02.webp",
+  "plantSlug": "olena",
+  "author": "Schlawensko",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turmeric_rhizome.jpg",
+  "title": "Fresh cut ʻōlena rhizome"
+ },
+ {
+  "creditId": "c-olena-03",
+  "file": "olena-03.webp",
+  "plantSlug": "olena",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-170114-6479-Curcuma_longa-harvest-Hawea_Pl_Olinda-Maui_(31654308183).jpg",
+  "title": "ʻŌlena harvest on Maui"
+ },
+ {
+  "creditId": "c-olena-04",
+  "file": "olena-04.webp",
+  "plantSlug": "olena",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-160909-5193-Curcuma_longa-flower-Hawea_Pl_Olinda-Maui_(29557631712).jpg",
+  "title": "ʻŌlena flower"
+ },
+ {
+  "creditId": "c-awapuhi-01",
+  "file": "awapuhi-01.webp",
+  "plantSlug": "awapuhi",
+  "author": "Renjusplace",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zingiber_zerumbet,_Shampoo_Ginger,_kathu-inshi-kua_3.jpg",
+  "title": "ʻAwapuhi cones on the forest floor"
+ },
+ {
+  "creditId": "c-awapuhi-02",
+  "file": "awapuhi-02.webp",
+  "plantSlug": "awapuhi",
+  "author": "V C balakrishnan",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zingiber_zerumbet_(2).JPG_-_Photo_by_V_C_Balakrishnan.jpg",
+  "title": "The red cone of ʻawapuhi"
+ },
+ {
+  "creditId": "c-awapuhi-03",
+  "file": "awapuhi-03.webp",
+  "plantSlug": "awapuhi",
+  "author": "Alexander Abair",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zingiber_zerumbet_inflorescences_1.jpg",
+  "title": "ʻAwapuhi cones from green to red"
+ },
+ {
+  "creditId": "c-awapuhi-04",
+  "file": "awapuhi-04.webp",
+  "plantSlug": "awapuhi",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-110722-7754-Zingiber_zerumbet-habit-Waihee_Ridge_Trail-Maui_(24474746563).jpg",
+  "title": "ʻAwapuhi along a Maui trail"
+ },
+ {
+  "creditId": "c-uhi-01",
+  "file": "uhi-01.webp",
+  "plantSlug": "uhi",
+  "author": "Tauʻolunga",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dioscorea_alata.jpg",
+  "title": "Uhi vine in Tonga"
+ },
+ {
+  "creditId": "c-uhi-02",
+  "file": "uhi-02.webp",
+  "plantSlug": "uhi",
+  "author": "Remi Tournebize",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kambar_wh.jpg",
+  "title": "A cut uhi tuber"
+ },
+ {
+  "creditId": "c-uhi-03",
+  "file": "uhi-03.webp",
+  "plantSlug": "uhi",
+  "author": "Obsidian Soul",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dioscorea_alata_-_Purple_yam_tuber_-_Mindanao,_Philippines.jpg",
+  "title": "A freshly dug yam"
+ },
+ {
+  "creditId": "c-uhi-04",
+  "file": "uhi-04.webp",
+  "plantSlug": "uhi",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_061106-1436_Dioscorea_alata.jpg",
+  "title": "Uhi leaves on Maui"
+ },
+ {
+  "creditId": "c-pia-five-leaf-yam-01",
+  "file": "pia-five-leaf-yam-01.webp",
+  "plantSlug": "pia-five-leaf-yam",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-090623-1515-Dioscorea_pentaphylla-leaves-Nahiku-Maui_(24336152114).jpg",
+  "title": "Piʻa leaves at Nāhiku, Maui"
+ },
+ {
+  "creditId": "c-pia-five-leaf-yam-02",
+  "file": "pia-five-leaf-yam-02.webp",
+  "plantSlug": "pia-five-leaf-yam",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-090623-1517-Dioscorea_pentaphylla-leaves-Nahiku-Maui_(24848769242).jpg",
+  "title": "The five leaflets of piʻa"
+ },
+ {
+  "creditId": "c-pia-five-leaf-yam-03",
+  "file": "pia-five-leaf-yam-03.webp",
+  "plantSlug": "pia-five-leaf-yam",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-090623-1514-Dioscorea_pentaphylla-habit-Nahiku-Maui_(24671253270).jpg",
+  "title": "Piʻa climbing through trees"
+ },
+ {
+  "creditId": "c-pia-five-leaf-yam-04",
+  "file": "pia-five-leaf-yam-04.webp",
+  "plantSlug": "pia-five-leaf-yam",
+  "author": "Dinesh Valke",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dioscorea_pentaphylla_L._(21850531802).jpg",
+  "title": "Piʻa flowers"
+ },
+ {
+  "creditId": "c-hoi-01",
+  "file": "hoi-01.webp",
+  "plantSlug": "hoi",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-090623-1450-Dioscorea_bulbifera-leaves-Nahiku-Maui_(24598939439).jpg",
+  "title": "Hoi leaves at Nāhiku, Maui"
+ },
+ {
+  "creditId": "c-hoi-02",
+  "file": "hoi-02.webp",
+  "plantSlug": "hoi",
+  "author": "Sridhar Rao",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bulbils_of_Dioscorea_bulbifera.jpg",
+  "title": "Air potatoes on the vine"
+ },
+ {
+  "creditId": "c-hoi-03",
+  "file": "hoi-03.webp",
+  "plantSlug": "hoi",
+  "author": "Gsgoes",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inhame-voador_(Dioscorea_bulbifera).jpg",
+  "title": "Harvested hoi bulbils"
+ },
+ {
+  "creditId": "c-hoi-04",
+  "file": "hoi-04.webp",
+  "plantSlug": "hoi",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-090623-1534-Dioscorea_bulbifera-bulbs_and_leaves-Nahiku-Maui_(24966795025).jpg",
+  "title": "Hoi bulbils among the leaves"
+ },
+ {
+  "creditId": "c-pia-01",
+  "file": "pia-01.webp",
+  "plantSlug": "pia",
+  "author": "Dinesh Valke",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dev-kanda_(Hindi-_%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6)_(2641108993).jpg",
+  "title": "Pia in flower"
+ },
+ {
+  "creditId": "c-pia-02",
+  "file": "pia-02.webp",
+  "plantSlug": "pia",
+  "author": "Ton Rulkens",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tacca_leontopetaloides_-_tuber_(6659237845).jpg",
+  "title": "A pia tuber"
+ },
+ {
+  "creditId": "c-pia-03",
+  "file": "pia-03.webp",
+  "plantSlug": "pia",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-121108-0896-Tacca_leontopetaloides-ground_into_powder_for_thickening_with_plant-Pali_o_Waipio-Maui_(24829009209).jpg",
+  "title": "Pia starch in the hand"
+ },
+ {
+  "creditId": "c-pia-04",
+  "file": "pia-04.webp",
+  "plantSlug": "pia",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-120504-5517-Tacca_leontopetaloides-flowers-Maui_Nui_Botanical_Garden-Maui_(24511502554).jpg",
+  "title": "Pia flower head on Maui"
+ },
+ {
+  "creditId": "c-ape-01",
+  "file": "ape-01.webp",
+  "plantSlug": "ape",
+  "author": "Daderot",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alocasia_macrorrhiza_-_Val_Rahmeh_-_DSC04449.JPG",
+  "title": "Sunlit ʻape leaves"
+ },
+ {
+  "creditId": "c-ape-02",
+  "file": "ape-02.webp",
+  "plantSlug": "ape",
+  "author": "Obsidian Soul",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alocasia_macrorrhizos_corm_(Philippines)_01.jpg",
+  "title": "The base of a young ʻape"
+ },
+ {
+  "creditId": "c-ape-03",
+  "file": "ape-03.webp",
+  "plantSlug": "ape",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-091104-8765-Alocasia_macrorrhizos-habit-Kahanu_Gardens_NTBG_Kaeleku_Hana-Maui_(24870037082).jpg",
+  "title": "ʻApe at Kahanu Garden, Maui"
+ },
+ {
+  "creditId": "c-ape-04",
+  "file": "ape-04.webp",
+  "plantSlug": "ape",
+  "author": "Krzysztof Ziarnek, Kenraiz",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alocasia_macrorrhizos_kz05.jpg",
+  "title": "A wild stand of ʻape"
+ }
+]

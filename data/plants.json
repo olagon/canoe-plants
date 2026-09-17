@@ -1030,7 +1030,44 @@
    "planting": "Dig up a root sucker and replant it. Give it a bed of its own, because suckers spread and are hard to dig out.",
    "harvest": "Snap off side shoots as it grows. Cut straight stalks at about 8 feet tall, usually within 2 years."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "wauke-01.webp",
+    "base": "assets/img/plants/wauke/wauke-01",
+    "alt": "Big, soft green wauke leaves, some with deep lobes and some heart shaped, spread out from a young stem on Maui.",
+    "creditId": "c-wauke-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "wauke-02.webp",
+    "base": "assets/img/plants/wauke/wauke-02",
+    "alt": "A hand holds a carved wooden beater over a strip of pale wauke inner bark that is being pounded flat into kapa.",
+    "creditId": "c-wauke-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "wauke-03.webp",
+    "base": "assets/img/plants/wauke/wauke-03",
+    "alt": "Sheets of finished kapa printed with black and brown geometric patterns are draped over a table at a cultural festival.",
+    "creditId": "c-wauke-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1067
+   },
+   {
+    "file": "wauke-04.webp",
+    "base": "assets/img/plants/wauke/wauke-04",
+    "alt": "Five four sided wooden kapa beaters, each carved with a different pattern, rest against a long wooden anvil.",
+    "creditId": "c-wauke-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1293
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "chang-2015",
@@ -1137,7 +1174,44 @@
    "planting": "Plant a division from an existing clump and give it room. It can spread about 20 feet wide.",
    "harvest": "Cut only older, hardened stems at the base and leave the young shoots to keep the clump going."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "ohe-01.webp",
+    "base": "assets/img/plants/ohe/ohe-01",
+    "alt": "A dense clump of tall, thin, dark green Polynesian bamboo stems with pale papery sheaths still clinging to the joints.",
+    "creditId": "c-ohe-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1067
+   },
+   {
+    "file": "ohe-02.webp",
+    "base": "assets/img/plants/ohe/ohe-02",
+    "alt": "Ten long strips of bamboo lie side by side, each with a small geometric pattern carved into one end for stamping kapa.",
+    "creditId": "c-ohe-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ohe-03.webp",
+    "base": "assets/img/plants/ohe/ohe-03",
+    "alt": "A park volunteer holds a short bamboo flute up to one nostril and plays it by breathing out through his nose.",
+    "creditId": "c-ohe-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1068
+   },
+   {
+    "file": "ohe-04.webp",
+    "base": "assets/img/plants/ohe/ohe-04",
+    "alt": "Nine slim bamboo stamps hang in a row, and each one has a different carved pattern of zigzags, diamonds, or lines at the top.",
+    "creditId": "c-ohe-04",
+    "role": "gallery",
+    "w": 1521,
+    "h": 2941
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "wehewehe",
@@ -1229,7 +1303,44 @@
    "planting": "Plant a sprouted piece of rhizome in spring under about half an inch of soil.",
    "harvest": "Dig the rhizomes in 6 months to a year, when the leaves die back in winter. Mark the spot so you do not lose it."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "olena-01.webp",
+    "base": "assets/img/plants/olena/olena-01",
+    "alt": "Rows of bright green turmeric plants with broad pointed leaves fill a field, with coconut palms on the horizon.",
+    "creditId": "c-olena-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "olena-02.webp",
+    "base": "assets/img/plants/olena/olena-02",
+    "alt": "A hand holds a freshly dug turmeric rhizome that has been cut open to show its deep orange inside.",
+    "creditId": "c-olena-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "olena-03.webp",
+    "base": "assets/img/plants/olena/olena-03",
+    "alt": "A plate is piled high with knobby orange brown turmeric rhizomes just harvested from a Maui garden.",
+    "creditId": "c-olena-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "olena-04.webp",
+    "base": "assets/img/plants/olena/olena-04",
+    "alt": "A white turmeric flower spike with a touch of yellow sits low among wide ribbed green leaves.",
+    "creditId": "c-olena-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "abbott-1992",
@@ -1332,7 +1443,44 @@
    "planting": "Plant a piece of rhizome with a bud on it. It spreads fast, so give it space.",
    "harvest": "Squeeze the cones in late summer when they turn red. Leaves die back in winter and return in spring."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "awapuhi-01.webp",
+    "base": "assets/img/plants/awapuhi/awapuhi-01",
+    "alt": "Two red and green shampoo ginger cones stand on short stalks above wet ground, and the taller one has white flowers at its tip.",
+    "creditId": "c-awapuhi-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "awapuhi-02.webp",
+    "base": "assets/img/plants/awapuhi/awapuhi-02",
+    "alt": "A close up of a shampoo ginger cone shows overlapping red scales that hold the slippery juice used to wash hair.",
+    "creditId": "c-awapuhi-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1067
+   },
+   {
+    "file": "awapuhi-03.webp",
+    "base": "assets/img/plants/awapuhi/awapuhi-03",
+    "alt": "Five shampoo ginger cones lie on a white background, ranging from young green ones to ripe red ones.",
+    "creditId": "c-awapuhi-03",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1067
+   },
+   {
+    "file": "awapuhi-04.webp",
+    "base": "assets/img/plants/awapuhi/awapuhi-04",
+    "alt": "A thick patch of leafy green shampoo ginger stems covers the ground beside the Waiheʻe Ridge Trail on Maui.",
+    "creditId": "c-awapuhi-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "abbott-1992",
@@ -1421,7 +1569,44 @@
    "planting": "Plant a piece of tuber with a bud in a mound of loose, deep soil that drains well.",
    "harvest": "Dig carefully after 7 to 10 months, when the vine dies back."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "uhi-01.webp",
+    "base": "assets/img/plants/uhi/uhi-01",
+    "alt": "A yam vine with many heart shaped green leaves climbs across a fallen coconut frond in Vavaʻu, Tonga.",
+    "creditId": "c-uhi-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "uhi-02.webp",
+    "base": "assets/img/plants/uhi/uhi-02",
+    "alt": "A thick brown yam tuber with rough hairy skin has been cut at one end to show its speckled purple inside.",
+    "creditId": "c-uhi-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1043
+   },
+   {
+    "file": "uhi-03.webp",
+    "base": "assets/img/plants/uhi/uhi-03",
+    "alt": "A round, dirt covered yam tuber with a bright purple stem sits in dark soil where it was just dug up.",
+    "creditId": "c-uhi-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1054
+   },
+   {
+    "file": "uhi-04.webp",
+    "base": "assets/img/plants/uhi/uhi-04",
+    "alt": "Large glossy heart shaped yam leaves with curved veins grow over rocks at Maui Nui Botanical Gardens.",
+    "creditId": "c-uhi-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "handy-handy-1972",
@@ -1503,7 +1688,44 @@
    "planting": "Start it from a small aerial tuber or a piece of tuber beside a tree or fence it can climb. Mind the spines.",
    "harvest": "Rarely grown for food today. Any tuber must be cooked before eating."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "pia-five-leaf-yam-01.webp",
+    "base": "assets/img/plants/pia-five-leaf-yam/pia-five-leaf-yam-01",
+    "alt": "A tangle of bright green yam vine leaves, each split into several pointed leaflets, climbs through a forest on Maui.",
+    "creditId": "c-pia-five-leaf-yam-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "pia-five-leaf-yam-02.webp",
+    "base": "assets/img/plants/pia-five-leaf-yam/pia-five-leaf-yam-02",
+    "alt": "A close up of one piʻa leaf shows five oval leaflets spreading from a single point like fingers on a hand.",
+    "creditId": "c-pia-five-leaf-yam-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "pia-five-leaf-yam-03.webp",
+    "base": "assets/img/plants/pia-five-leaf-yam/pia-five-leaf-yam-03",
+    "alt": "Piʻa vines twist up thin tree trunks and cover them in leaves in a wet Maui forest.",
+    "creditId": "c-pia-five-leaf-yam-03",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "pia-five-leaf-yam-04.webp",
+    "base": "assets/img/plants/pia-five-leaf-yam/pia-five-leaf-yam-04",
+    "alt": "A hanging string of tiny cream colored yam flower buds is seen close up against dark green leaves.",
+    "creditId": "c-pia-five-leaf-yam-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "krauss-1993",
@@ -1585,7 +1807,44 @@
    "planting": "Do not plant it carelessly. Every dropped air potato can start a new vine, and the plant is a serious invasive weed in other places. Learn it in the wild or in a managed garden collection.",
    "harvest": "Not for eating. The wild type is poisonous without expert preparation."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "hoi-01.webp",
+    "base": "assets/img/plants/hoi/hoi-01",
+    "alt": "Shiny heart shaped hoi leaves with deep curved veins overlap in a thick green blanket on Maui.",
+    "creditId": "c-hoi-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "hoi-02.webp",
+    "base": "assets/img/plants/hoi/hoi-02",
+    "alt": "Two rough, brown, potato like bulbils hang in the air from a dark twisting hoi vine.",
+    "creditId": "c-hoi-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "file": "hoi-03.webp",
+    "base": "assets/img/plants/hoi/hoi-03",
+    "alt": "Eight pale gray air potatoes of different sizes, from tiny to fist sized, are laid out on a black cloth.",
+    "creditId": "c-hoi-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "hoi-04.webp",
+    "base": "assets/img/plants/hoi/hoi-04",
+    "alt": "Round pale bulbils dangle along a hanging hoi vine between large heart shaped leaves on Maui.",
+    "creditId": "c-hoi-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 2133
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "abbott-1992",
@@ -1677,7 +1936,44 @@
    "planting": "Plant a small tuber a few inches deep. Mark the spot so nobody digs it up when the leaves vanish.",
    "harvest": "Dig tubers in winter when the leaves turn dry and yellow, about 8 to 10 months after they sprout."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "pia-01.webp",
+    "base": "assets/img/plants/pia/pia-01",
+    "alt": "A tall pia flower stalk topped with green buds and long thread like whiskers rises among deeply divided leaves.",
+    "creditId": "c-pia-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "pia-02.webp",
+    "base": "assets/img/plants/pia/pia-02",
+    "alt": "A round, tan pia tuber about the size of a potato has white roots spreading from the base of its pale stem.",
+    "creditId": "c-pia-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1551
+   },
+   {
+    "file": "pia-03.webp",
+    "base": "assets/img/plants/pia/pia-03",
+    "alt": "An open hand holds a small pile of fine white pia starch in front of the big green leaves of the plant.",
+    "creditId": "c-pia-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "pia-04.webp",
+    "base": "assets/img/plants/pia/pia-04",
+    "alt": "A cluster of green pia flowers and round young fruits sits at the top of a stalk, with long green threads hanging down all around it.",
+    "creditId": "c-pia-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "ntbg",
    "bishop-ethnobotany",
@@ -1765,7 +2061,44 @@
    "planting": "Plant a side shoot or a cutting of the thick stem. Wear gloves because the sap stings.",
    "harvest": "Grow it for the giant leaves, not for lunch. Never taste any part of it raw."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "ape-01.webp",
+    "base": "assets/img/plants/ape/ape-01",
+    "alt": "Huge upright ʻape leaves glow yellow green as sunlight shines through them, showing every vein.",
+    "creditId": "c-ape-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1171
+   },
+   {
+    "file": "ape-02.webp",
+    "base": "assets/img/plants/ape/ape-02",
+    "alt": "A close up shows the thick stem base of a young ʻape plant wrapped in brown papery layers where it meets dark stony soil.",
+    "creditId": "c-ape-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1769
+   },
+   {
+    "file": "ape-03.webp",
+    "base": "assets/img/plants/ape/ape-03",
+    "alt": "A tall ʻape plant with giant arrow shaped leaves that point upward grows under ʻulu trees at Kahanu Garden in Hāna.",
+    "creditId": "c-ape-03",
+    "role": "gallery",
+    "w": 1600,
+    "h": 2133
+   },
+   {
+    "file": "ape-04.webp",
+    "base": "assets/img/plants/ape/ape-04",
+    "alt": "Dozens of giant ʻape leaves crowd together in a lush green thicket at the edge of a forest.",
+    "creditId": "c-ape-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "ntbg",

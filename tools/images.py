@@ -80,8 +80,10 @@ def main():
                 if not raw.exists():
                     raw.write_bytes(fetch(url))
                     time.sleep(1.5)  # be polite to the image servers
+                # "crop": "3:2" in the manifest trims a tall photo to a wide one, from the center or from "gravity"
+                crop = ["-gravity", entry.get("gravity", "center"), "-crop", f"{entry['crop']}+0+0", "+repage"] if entry.get("crop") else []
                 for size in SIZES:
-                    base = ["magick", f"{raw}[0]", "-auto-orient", "-strip", "-colorspace", "sRGB", "-resize", f"{size}x>"]
+                    base = ["magick", f"{raw}[0]", "-auto-orient", "-strip", "-colorspace", "sRGB", *crop, "-resize", f"{size}x>"]
                     subprocess.run(base + ["-quality", "80", "-interlace", "Plane", "-background", "white", "-flatten", str(folder / f"{name}-{size}.jpg")], check=True)
                     subprocess.run(base + ["-quality", "76", "-define", "webp:method=6", str(folder / f"{name}-{size}.webp")], check=True)
             w, h = subprocess.run(["magick", "identify", "-format", "%w %h", str(folder / f"{name}-{SIZES[0]}.jpg")],
