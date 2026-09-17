@@ -1,0 +1,109 @@
+/* Design tokens. Every color is a material from the waʻa or the loʻi. */
+:root {
+  /* materials */
+  --kai: #0C1E33;
+  --kai-deep: #071424;
+  --kai-lift: #1B3553;
+  --wai: #1A7A8A;
+  --wai-deep: #0F5663;
+  --wai-pale: #9AD3DB;
+  --kapa: #EFE4CC;
+  --kapa-light: #F8F2E3;
+  --kapa-edge: #D3C19A;
+  --olena: #D9A21B;
+  --olena-deep: #7A5500;
+  --lau: #2F5D3A;
+  --lau-deep: #1E3F27;
+  --lau-pale: #CFE0C4;
+  --kukui: #1B1712;
+  --kukui-lift: #2E2820;
+  --alaea: #9A3324;
+
+  /* type */
+  --font-display: "Young Serif", "Source Serif 4", Georgia, serif;
+  --font-text: "Source Sans 3", "Noto Sans", system-ui, sans-serif;
+
+  --step--1: clamp(0.84rem, 0.81rem + 0.14vw, 0.92rem);
+  --step-0: clamp(1.06rem, 1.02rem + 0.2vw, 1.19rem);
+  --step-1: clamp(1.25rem, 1.17rem + 0.4vw, 1.5rem);
+  --step-2: clamp(1.5rem, 1.35rem + 0.75vw, 2rem);
+  --step-3: clamp(1.9rem, 1.6rem + 1.5vw, 2.9rem);
+  --step-4: clamp(2.4rem, 1.8rem + 3vw, 4.4rem);
+  --step-5: clamp(3.2rem, 1.6rem + 8vw, 8.5rem);
+  --step-name: clamp(3.4rem, 0.5rem + 14.5vw, 13rem);
+
+  --measure: 68ch;
+  --leading: 1.6;
+
+  /* space */
+  --s-1: 0.25rem;
+  --s-2: 0.5rem;
+  --s-3: 0.75rem;
+  --s-4: 1rem;
+  --s-5: 1.5rem;
+  --s-6: 2.5rem;
+  --s-7: 4rem;
+  --s-8: clamp(4rem, 3rem + 5vw, 8rem);
+
+  --gutter: clamp(1rem, 0.4rem + 3vw, 3rem);
+  --wrap: 78rem;
+  --nav-h: 3.5rem;
+  --edge: 1.5px;
+}
+
+/* Grounds. A view or section stands on one material. */
+.ground-kapa, .ground-kapa-light {
+  --bg: var(--kapa);
+  --fg: var(--kukui);
+  --muted: #4F4637;
+  --rule: var(--kapa-edge);
+  --accent: var(--olena-deep);
+  --link: var(--wai-deep);
+  --focus: var(--kai);
+  --panel: var(--kapa-light);
+}
+.ground-kapa-light { --bg: var(--kapa-light); --panel: var(--kapa); }
+.ground-kai {
+  --bg: var(--kai);
+  --fg: var(--kapa);
+  --muted: #B9C2CC;
+  --rule: var(--kai-lift);
+  --accent: var(--olena);
+  --link: var(--wai-pale);
+  --focus: var(--olena);
+  --panel: var(--kai-deep);
+}
+.ground-kukui {
+  --bg: var(--kukui);
+  --fg: var(--kapa);
+  --muted: #C2B8A3;
+  --rule: #4A4234;
+  --accent: var(--olena);
+  --link: var(--wai-pale);
+  --focus: var(--olena);
+  --panel: var(--kukui-lift);
+}
+.ground-lau {
+  --bg: var(--lau);
+  --fg: var(--kapa-light);
+  --muted: var(--lau-pale);
+  --rule: #4C7A57;
+  --accent: #F0C95A;
+  --link: #F0C95A;
+  --focus: var(--olena);
+  --panel: var(--lau-deep);
+}
+.ground-wai {
+  --bg: var(--wai-deep);
+  --fg: var(--kapa-light);
+  --muted: #CDE6EA;
+  --rule: #3F8D9A;
+  --accent: #F0C95A;
+  --link: #F0C95A;
+  --focus: var(--olena);
+  --panel: #0A424D;
+}
+.ground-kapa, .ground-kapa-light, .ground-kai, .ground-kukui, .ground-lau, .ground-wai {
+  background-color: var(--bg);
+  color: var(--fg);
+}

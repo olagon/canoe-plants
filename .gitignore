@@ -1,0 +1,5 @@
+_staging/
+.DS_Store
+__pycache__/
+tools/_cache/
+*.pyc
