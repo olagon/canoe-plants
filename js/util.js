@@ -78,3 +78,20 @@ export const ORIGIN_LABELS = {
   indopacific: 'Indo Pacific coasts',
   southamerica: 'South America',
 };
+
+// Libraries load from CDNs with pinned versions, only when a view needs them.
+const loaded = {};
+const script = src => loaded[src] ??= new Promise((ok, fail) => {
+  const el = Object.assign(document.createElement('script'), { src, defer: true, onload: ok, onerror: fail });
+  document.head.append(el);
+});
+const css = href => { loaded[href] ??= document.head.append(Object.assign(document.createElement('link'), { rel: 'stylesheet', href })); };
+const CDN = 'https://cdn.jsdelivr.net/npm/';
+// Each resolves to true when the library is ready and false when it could not load. The site works either way.
+export const libs = {
+  gsap: () => script('https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js')
+    .then(() => script('https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js')).then(() => true, () => false),
+  swiper: () => { css(`${CDN}swiper@11.1.14/swiper-bundle.min.css`); return script(`${CDN}swiper@11.1.14/swiper-bundle.min.js`).then(() => true, () => false); },
+  fuse: () => script(`${CDN}fuse.js@7.0.0/dist/fuse.min.js`).then(() => true, () => false),
+  confetti: () => script(`${CDN}canvas-confetti@1.9.3/dist/confetti.browser.min.js`).then(() => true, () => false),
+};

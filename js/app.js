@@ -2,7 +2,7 @@
 import { installPatterns } from './patterns.js';
 import { startRouter } from './router.js';
 import { load } from './data.js';
-import { esc, haw, plain, learnHawaiian } from './util.js';
+import { esc, haw, plain, learnHawaiian, libs } from './util.js';
 
 installPatterns();
 
@@ -56,7 +56,8 @@ async function openSearch() {
   input.value = '';
   results.innerHTML = '';
   if (!fuse) {
-    const [plants, glossary] = await Promise.all([load('plants'), load('glossary')]);
+    const [plants, glossary] = await Promise.all([load('plants'), load('glossary'), libs.fuse()]);
+    if (!window.Fuse) { results.innerHTML = '<li class="search__none">Search could not load. Check your connection.</li>'; return; }
     const items = [
       ...plants.map(p => ({
         kind: 'Plant', href: `#/plant/${p.slug}`, title: p.nameHaw, sub: p.nameCommon,

@@ -13,20 +13,23 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@800&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:wght@800&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:wght@800&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap"></noscript>
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11.1.14/swiper-bundle.min.css">
   <link rel="stylesheet" href="css/tokens.css">
   <link rel="stylesheet" href="css/base.css">
   <link rel="stylesheet" href="css/components.css">
   <link rel="stylesheet" href="css/views.css">
   <link rel="stylesheet" href="css/print.css" media="print">
 
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/swiper@11.1.14/swiper-bundle.min.js"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+  <!-- Start the downloads the first view will need. Libraries (GSAP, Swiper, Fuse, confetti) load later, only on the views that use them. See js/util.js -->
+  <link rel="modulepreload" href="js/util.js">
+  <link rel="modulepreload" href="js/data.js">
+  <link rel="modulepreload" href="js/router.js">
+  <link rel="modulepreload" href="js/patterns.js">
+  <link rel="modulepreload" href="js/progress.js">
+  <link rel="preload" href="data/plants.json" as="fetch" crossorigin>
+  <link rel="preload" href="data/glossary.json" as="fetch" crossorigin>
   <script type="module" src="js/app.js"></script>
 </head>
 <body>

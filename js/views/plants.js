@@ -1,6 +1,6 @@
 // The explorer: every plant on one wall, with filters, search, and sort kept in the URL.
 import { load } from '../data.js';
-import { esc, haw, plain, picture, heroImage, USE_LABELS, PART_LABELS, ORIGIN_LABELS } from '../util.js';
+import { esc, haw, plain, picture, heroImage, libs, USE_LABELS, PART_LABELS, ORIGIN_LABELS } from '../util.js';
 import { progress } from '../progress.js';
 import { chipGroup, wireChips } from '../components/chips.js';
 
@@ -8,7 +8,7 @@ const STATUS = { debated: 'Debated', reclassified: 'Reclassified by science' };
 const list = v => (v ? v.split(',').filter(Boolean) : []);
 
 export default async function plantsView({ query }) {
-  const plants = await load('plants');
+  const [plants] = await Promise.all([load('plants'), libs.fuse()]);
   const state = {
     use: list(query.get('use')), part: list(query.get('part')), origin: list(query.get('origin')),
     q: query.get('q') || '', sort: query.get('sort') === 'uses' ? 'uses' : 'name',

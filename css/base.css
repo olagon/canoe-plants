@@ -13,7 +13,7 @@ body {
   flex-direction: column;
   overflow-x: clip;
 }
-main { flex: 1; display: block; }
+main { flex: 1; display: block; min-height: 100vh; } /* keeps the footer from jumping while a view loads */
 main:focus { outline: none; }
 img, svg, picture, canvas { display: block; max-width: 100%; }
 img { height: auto; }

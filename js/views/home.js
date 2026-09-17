@@ -1,6 +1,6 @@
 // Home: the night crossing hero, then the way in to everything else.
 import { loadAll } from '../data.js';
-import { esc, haw, picture, heroImage, reducedMotion, seeded } from '../util.js';
+import { esc, haw, picture, heroImage, reducedMotion, seeded, libs } from '../util.js';
 import { progress } from '../progress.js';
 import { icon } from '../components/icon.js';
 
@@ -111,20 +111,30 @@ export default async function home() {
     title: '',
     ground: 'ground-kai',
     html,
-    mount(main) { cleanup = heroMotion(main.querySelector('.hero')); },
+    mount(main) {
+      const hero = main.querySelector('.hero');
+      const stopLayout = heroLayout(hero);
+      let stopMotion = () => {}, gone = false;
+      cleanup = () => { gone = true; stopLayout(); stopMotion(); };
+      // Names stay hidden until we know if they will rise or simply be there.
+      (reducedMotion() ? Promise.resolve(false) : libs.gsap()).then(ok => {
+        if (gone) return;
+        if (ok) stopMotion = heroMotion(hero);
+        else hero.classList.add('hero--still');
+        hero.classList.add('hero--ready');
+      });
+    },
     unmount() { cleanup(); },
   };
 }
 
 /* ---------- hero ---------- */
 
-function heroMotion(hero) {
+// Place the names on a loose grid across the sky, the same way every visit. Returns a cleanup function.
+function heroLayout(hero) {
   const stage = hero.querySelector('.hero__stage');
   const names = [...hero.querySelectorAll('.hero__names li')];
   const line = hero.querySelector('.hero__lines polyline');
-  const still = reducedMotion() || !window.gsap || !window.ScrollTrigger;
-
-  // Place the names on a loose grid across the sky, the same way every visit.
   function layout() {
     const w = stage.clientWidth, h = stage.clientHeight;
     const horizon = parseFloat(getComputedStyle(stage).getPropertyValue('--horizon')) / 100;
@@ -159,12 +169,13 @@ function heroMotion(hero) {
   let t;
   const onResize = () => { clearTimeout(t); t = setTimeout(layout, 150); };
   window.addEventListener('resize', onResize);
+  return () => window.removeEventListener('resize', onResize);
+}
 
-  if (still) {
-    hero.classList.add('hero--still');
-    return () => window.removeEventListener('resize', onResize);
-  }
-
+function heroMotion(hero) {
+  const stage = hero.querySelector('.hero__stage');
+  const names = [...hero.querySelectorAll('.hero__names li')];
+  const line = hero.querySelector('.hero__lines polyline');
   const { gsap, ScrollTrigger } = window;
   gsap.registerPlugin(ScrollTrigger);
   const ctx = gsap.context(() => {
@@ -172,8 +183,7 @@ function heroMotion(hero) {
     const len = line.getTotalLength();
     gsap.set(line, { strokeDasharray: len, strokeDashoffset: len });
     gsap.timeline({ delay: 0.3 })
-      .from('.hero__copy > *', { opacity: 0, y: 12, duration: 1, stagger: 0.15, ease: 'power2.out' })
-      .from(names, { y: i => parseFloat(names[i].style.getPropertyValue('--rise')), opacity: 0, duration: 2.6, stagger: 0.11, ease: 'power2.out' }, 0.4)
+      .from(names, { y: i => parseFloat(names[i].style.getPropertyValue('--rise')), opacity: 0, duration: 2.6, stagger: 0.11, ease: 'power2.out' })
       .to(line, { strokeDashoffset: 0, duration: 3, ease: 'power1.inOut' }, '-=1.2');
 
     // 2. The waʻa crosses, slowly, forever.
@@ -193,7 +203,7 @@ function heroMotion(hero) {
       .to('.hero__kapa', { opacity: 1, duration: 0.25 }, 0.75);
   }, hero);
 
-  return () => { window.removeEventListener('resize', onResize); ctx.revert(); };
+  return () => ctx.revert();
 }
 
 function drawStars(canvas, w, h) {

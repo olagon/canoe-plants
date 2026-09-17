@@ -1,6 +1,6 @@
 // A field guide page for one plant. The same structure for every plant, built from plants.json.
 import { load, plantBySlug } from '../data.js';
-import { esc, haw, paras, picture, heroImage, PART_LABELS, USE_LABELS } from '../util.js';
+import { esc, haw, paras, picture, heroImage, libs, PART_LABELS, USE_LABELS } from '../util.js';
 import { progress } from '../progress.js';
 import { icon } from '../components/icon.js';
 import { creditLine, creditMap } from '../components/credit.js';
@@ -166,14 +166,16 @@ export default async function plantView({ params, query }) {
     // fact sheet links from the teachers page open straight into printing
     if (query.get('print')) setTimeout(() => window.print(), 1200);
 
-    if (window.Swiper && main.querySelector('.gallery')) {
-      swiper = new Swiper(main.querySelector('.gallery'), {
+    const gallery = main.querySelector('.gallery');
+    if (gallery) libs.swiper().then(ok => {
+      if (!ok || !gallery.isConnected) return; // without Swiper the gallery is a plain scrolling row
+      swiper = new Swiper(gallery, {
         slidesPerView: 1.08, spaceBetween: 12, keyboard: { enabled: true }, a11y: true,
         breakpoints: { 960: { slidesPerView: 2.15, spaceBetween: 20 } },
         navigation: { prevEl: '.swiper-button-prev', nextEl: '.swiper-button-next' },
         pagination: { el: '.swiper-pagination', clickable: true },
       });
-    }
+    });
   }
 
   return {
