@@ -126,13 +126,24 @@ export default async function voyageView() {
       const r = map.routes.find(x => x.key === key);
       clearMarks(); press('[data-route-btn]', key);
       draw([key]);
+      bringIntoView(main.querySelector(`.route[data-route="${key}"]`));
       detail.innerHTML = `<p class="small muted">${esc(r.when)}</p><h2>${haw(r.title)}</h2><p>${haw(r.text)}</p>`;
+    }
+
+    // on phones the map is wider than the screen, so pan to the thing that was picked
+    function bringIntoView(el) {
+      const scroller = main.querySelector('.map-scroll');
+      const box = el.getBoundingClientRect(), frame = scroller.getBoundingClientRect();
+      scroller.scrollLeft += box.left + box.width / 2 - (frame.left + frame.width / 2);
+      if (frame.bottom < 160) scroller.scrollIntoView({ block: 'start', behavior: reducedMotion() ? 'auto' : 'smooth' });
     }
 
     function showOrigin(key) {
       const o = map.origins.find(x => x.key === key);
       clearMarks(); press('[data-origin-btn]', key);
-      main.querySelector(`.origin[data-origin="${key}"]`).classList.add('is-on');
+      const dot = main.querySelector(`.origin[data-origin="${key}"]`);
+      dot.classList.add('is-on');
+      bringIntoView(dot);
       const list = plantsAt(key);
       detail.innerHTML = `<p class="small muted">${list.length} ${list.length === 1 ? 'plant' : 'plants'} started here</p>
         <h2>${esc(ORIGIN_LABELS[key])}</h2><p>${haw(o.blurb)}</p>

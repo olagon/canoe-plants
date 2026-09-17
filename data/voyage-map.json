@@ -1,7 +1,7 @@
 {
   "intro": "No plant got to Hawaiʻi by accident. Each one was handed from island to island, generation to generation, across the biggest ocean on Earth. Tap a leg of the journey to watch it happen.",
   "places": [
-    { "name": "Taiwan", "lon": 121, "lat": 23.7, "dx": 8, "dy": -8 },
+    { "name": "Taiwan", "lon": 121, "lat": 23.7, "dx": 9, "dy": 12 },
     { "name": "Bismarck Archipelago", "lon": 150, "lat": -4, "dx": 8, "dy": -10 },
     { "name": "Vanuatu", "lon": 168, "lat": -16, "dx": -8, "dy": 18, "anchor": "end" },
     { "name": "Fiji", "lon": 178, "lat": -18, "dx": 0, "dy": 20, "anchor": "middle" },
@@ -12,7 +12,7 @@
     { "name": "Hawaiʻi", "lon": -157, "lat": 20.8, "dx": 0, "dy": -16, "anchor": "middle", "star": true },
     { "name": "Rapa Nui", "lon": -109.4, "lat": -27.1, "dx": 0, "dy": 22, "anchor": "middle" },
     { "name": "Aotearoa", "lon": 174, "lat": -41, "dx": 22, "dy": 8 },
-    { "name": "South America", "lon": -78, "lat": -12, "dx": 30, "dy": -30, "anchor": "start", "noDot": true }
+    { "name": "South America", "lon": -70, "lat": -18, "dx": 0, "dy": 0, "anchor": "middle", "noDot": true }
   ],
   "routes": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "origins": [
-    { "key": "taiwan", "lon": 120.2, "lat": 26.5, "blurb": "Wauke, the paper mulberry, traces back here. Its DNA matches plants in Taiwan." },
+    { "key": "taiwan", "lon": 124.5, "lat": 27, "blurb": "Wauke, the paper mulberry, traces back here. Its DNA matches plants in Taiwan." },
     { "key": "sea", "lon": 103, "lat": 14, "blurb": "The biggest group. Spices, medicines, yams, and gourds from mainland and island Southeast Asia, some first grown as far away as India." },
     { "key": "indopacific", "lon": 125, "lat": -2.5, "blurb": "Shoreline trees with seeds that float. They grow on coasts from East Africa to Polynesia, which is why scientists argue about which ones needed a canoe at all." },
     { "key": "newguinea", "lon": 141, "lat": -5.5, "blurb": "One of the places where farming was invented. Sugarcane, bananas, and breadfruit were all first grown in and around New Guinea." },
