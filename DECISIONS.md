@@ -28,8 +28,8 @@ Named for the materials of the waʻa and the loʻi. Every view stands on one mat
 
 ### Type
 
-- Display: **Young Serif**. Text: **Source Sans 3**.
-- The brief suggested Fraunces, Newsreader, or Gloock for display and Figtree or Instrument Sans for text. I checked the actual font files from Google Fonts with fontTools. None of those five contain the ʻokina (U+02BB), so every ʻokina would have dropped to a fallback font. Source Sans 3 passed. For display I tested about forty faces. Young Serif has the ʻokina and all ten macron vowels, and it has a heavy, carved, slightly soft shape that feels like a stamped ʻohe kāpala mark. It comes in one weight, which suits a site where the display face is only used big. **(review)**
+- Display: **Alegreya** at weight 800. Text: **Source Sans 3**.
+- The brief suggested Fraunces, Newsreader, or Gloock for display and Figtree or Instrument Sans for text. I checked the actual font files from Google Fonts with fontTools. None of those five contain the ʻokina (U+02BB), so every ʻokina would have dropped to a fallback font. Source Sans 3 passed. For display I tested about forty faces for coverage, then rendered the thirteen that passed with the test string and looked at them. Young Serif has the glyph but sets it tiny with a wide gap on both sides, so Maiʻa read as three pieces. Literata crashes the ʻokina into the next letter. Alegreya draws a clear, well spaced ʻokina and strong kahakō, and its calligraphic, slightly hand cut shapes suit a site about things made by hand. **(review)**
 - The Hawaiian plant name is set as large as the screen allows on plant pages. It is the main visual on the page along with the photo.
 - Body text is capped at 68 characters per line with a 1.6 line height.
 
@@ -59,3 +59,5 @@ The site opens at night on the ocean and ends each visit on land. The hero is th
 - Use filter tags are `food`, `medicine`, `cloth-cordage`, `wood-tools`, `light-dye`, `ceremony`. Part tags are `root`, `stem`, `leaf`, `flower`, `fruit`, `seed`, `bark`, `wood`, `sap`. Corms, tubers, and rhizomes count as root. Nuts count as seed.
 - Hawaiian words in running text are wrapped in `<span lang="haw">` automatically. Any word with an ʻokina or a kahakō is wrapped, plus every plant name and glossary term. Words that look like English (like "hale" inside an English sentence) are covered by the glossary list.
 - Extra data files beyond the brief's list: `data/sources.json` (in the brief's schema section), `data/pack-the-canoe.json` (game scoring), `data/teachers.json` (lesson ideas). All content stays in JSON.
+- The project folder is owned by root (it sits in the macOS web server root), so git refused to run in it. I added this one folder to git's `safe.directory` list in the global git config. Nothing else in the global config was touched.
+- Added an empty `.nojekyll` file so GitHub Pages serves the files as they are and skips the Jekyll build.

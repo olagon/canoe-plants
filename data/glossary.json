@@ -1,0 +1,596 @@
+[
+  {
+    "term": "ʻaha",
+    "pronunciation": "AH-hah",
+    "definition": "Cord braided from coconut husk fiber, also called sennit. It tied canoes and houses together with no nails at all.",
+    "category": "craft"
+  },
+  {
+    "term": "ahupuaʻa",
+    "pronunciation": "ah-hoo-poo-AH-ah",
+    "definition": "A slice of land that usually runs from the uplands down to the sea. The name joins ahu (a heap of stones) and puaʻa (pig), because a stone pile with a pig image marked the border.",
+    "category": "farming"
+  },
+  {
+    "term": "ʻai kapu",
+    "pronunciation": "AI KAH-poo",
+    "definition": "To eat under the old sacred eating rules. The opposite is ʻai noa, to eat freely.",
+    "category": "ceremony"
+  },
+  {
+    "term": "ʻāina",
+    "pronunciation": "AI-nah",
+    "definition": "Land, earth. The word is related to ʻai, to eat. The land is what feeds you.",
+    "category": "values"
+  },
+  {
+    "term": "aliʻi",
+    "pronunciation": "ah-LEE-ee",
+    "definition": "A chief or chiefess, a ruler.",
+    "category": "people"
+  },
+  {
+    "term": "aloha ʻāina",
+    "pronunciation": "ah-LOH-hah AI-nah",
+    "definition": "Love of the land. It is a very old idea in Hawaiʻi, found in a huge number of old sayings.",
+    "category": "values"
+  },
+  {
+    "term": "ama",
+    "pronunciation": "AH-mah",
+    "definition": "The float on the side of an outrigger canoe. It keeps the canoe from tipping over.",
+    "category": "voyaging"
+  },
+  {
+    "term": "ʻauwai",
+    "pronunciation": "OW-wai",
+    "definition": "A ditch or canal. ʻAuwai carried stream water into the loʻi.",
+    "category": "farming"
+  },
+  {
+    "term": "hā",
+    "pronunciation": "HAH",
+    "definition": "Breath, life. To breathe out. The same word also names the stalk that holds up a kalo leaf.",
+    "category": "values"
+  },
+  {
+    "term": "hale",
+    "pronunciation": "HAH-leh",
+    "definition": "A house or building.",
+    "category": "craft"
+  },
+  {
+    "term": "Hāloa",
+    "pronunciation": "hah-LOH-ah",
+    "definition": "A son of Wākea. In tradition the first Hāloa was stillborn and kalo grew from his grave. The second Hāloa became the ancestor of the Hawaiian people. The name means long breath.",
+    "category": "gods"
+  },
+  {
+    "term": "haumāna",
+    "pronunciation": "how-MAH-nah",
+    "definition": "A student, pupil, or apprentice. Also spelled haumana.",
+    "category": "people"
+  },
+  {
+    "term": "haupia",
+    "pronunciation": "how-PEE-ah",
+    "definition": "Coconut pudding. It was once thickened with pia (arrowroot) starch. Now most cooks use cornstarch.",
+    "category": "food"
+  },
+  {
+    "term": "heiau",
+    "pronunciation": "HAY-ow",
+    "definition": "A place of worship from before Christian times. Some were big stone platforms and others were simple earth terraces.",
+    "category": "ceremony"
+  },
+  {
+    "term": "hoe",
+    "pronunciation": "HOH-eh",
+    "definition": "A paddle. Also to paddle.",
+    "category": "voyaging"
+  },
+  {
+    "term": "hōkū",
+    "pronunciation": "hoh-KOO",
+    "definition": "A star.",
+    "category": "voyaging"
+  },
+  {
+    "term": "Hōkūleʻa",
+    "pronunciation": "hoh-koo-LEH-ah",
+    "definition": "A navigation star, probably Arcturus, that passes straight over Hawaiʻi. The name means clear or happy star. It is also the name of the famous voyaging canoe launched in 1975.",
+    "category": "voyaging"
+  },
+  {
+    "term": "hola",
+    "pronunciation": "HOH-lah",
+    "definition": "To stun fish with the ʻauhuhu plant so they are easy to catch. Hola is also another name for the plant itself.",
+    "category": "craft"
+  },
+  {
+    "term": "hōlua",
+    "pronunciation": "hoh-LOO-ah",
+    "definition": "An ancient sled for racing down grassy slopes. The word also means the sled course.",
+    "category": "craft"
+  },
+  {
+    "term": "Hoʻohōkūkalani",
+    "pronunciation": "hoh-oh-hoh-koo-kah-LAH-nee",
+    "definition": "The daughter of Wākea and Papa, and the mother of Hāloa in tradition. The Hawaiian Dictionary spells her name Hoʻohokuikalani.",
+    "category": "gods"
+  },
+  {
+    "term": "hoʻokele",
+    "pronunciation": "hoh-oh-KEH-leh",
+    "definition": "A steersman or navigator. Also to steer or to sail a canoe.",
+    "category": "voyaging"
+  },
+  {
+    "term": "hoʻokupu",
+    "pronunciation": "hoh-oh-KOO-poo",
+    "definition": "A gift given in ceremony as a sign of honor and respect. Long ago it was tribute given to a chief.",
+    "category": "ceremony"
+  },
+  {
+    "term": "hula",
+    "pronunciation": "HOO-lah",
+    "definition": "The dance of Hawaiʻi. Also a hula dancer, or to dance hula.",
+    "category": "ceremony"
+  },
+  {
+    "term": "huli",
+    "pronunciation": "HOO-lee",
+    "definition": "The top of a kalo plant, cut off and saved for replanting. The same word means to turn.",
+    "category": "farming"
+  },
+  {
+    "term": "ʻiako",
+    "pronunciation": "ee-AH-koh",
+    "definition": "The curved boom that connects the canoe hull to the ama, its float.",
+    "category": "voyaging"
+  },
+  {
+    "term": "iʻe kuku",
+    "pronunciation": "EE-eh KOO-koo",
+    "definition": "A wooden beater used to pound bark into kapa.",
+    "category": "craft"
+  },
+  {
+    "term": "ihoiho kukui",
+    "pronunciation": "ee-hoh-EE-hoh koo-KOO-ee",
+    "definition": "A candle made of kukui nuts.",
+    "category": "craft"
+  },
+  {
+    "term": "ʻike",
+    "pronunciation": "EE-keh",
+    "definition": "To see, know, and understand. Also knowledge itself.",
+    "category": "values"
+  },
+  {
+    "term": "imu",
+    "pronunciation": "EE-moo",
+    "definition": "An underground oven. Also the food cooked in one.",
+    "category": "food"
+  },
+  {
+    "term": "ʻinamona",
+    "pronunciation": "ee-nah-MOH-nah",
+    "definition": "A relish made of cooked kukui nut kernels mashed with salt.",
+    "category": "food"
+  },
+  {
+    "term": "ipu heke",
+    "pronunciation": "EE-poo HEH-keh",
+    "definition": "A gourd drum with a top section, called the heke, joined onto the bottom gourd.",
+    "category": "craft"
+  },
+  {
+    "term": "kāʻekeʻeke",
+    "pronunciation": "kah-eh-keh-EH-keh",
+    "definition": "Bamboo pipes of different lengths. A player holds one in each hand and taps them down on a mat or the ground. Each size makes its own tone.",
+    "category": "craft"
+  },
+  {
+    "term": "kahakō",
+    "pronunciation": "kah-hah-KOH",
+    "definition": "The macron, a line over a vowel as in ā. It tells you to hold that vowel a little longer.",
+    "category": "values"
+  },
+  {
+    "term": "Kahiki",
+    "pronunciation": "kah-HEE-kee",
+    "definition": "Tahiti. The word can also mean any faraway foreign land.",
+    "category": "voyaging"
+  },
+  {
+    "term": "kahuna",
+    "pronunciation": "kah-HOO-nah",
+    "definition": "A priest, or an expert in any skilled profession. A kahuna could be a man or a woman.",
+    "category": "people"
+  },
+  {
+    "term": "kai",
+    "pronunciation": "KAI",
+    "definition": "The sea, sea water. Also the lowlands near the sea.",
+    "category": "voyaging"
+  },
+  {
+    "term": "kālai waʻa",
+    "pronunciation": "kah-LAI WAH-ah",
+    "definition": "A canoe carver. Also to build a canoe.",
+    "category": "voyaging"
+  },
+  {
+    "term": "Kamapuaʻa",
+    "pronunciation": "kah-mah-poo-AH-ah",
+    "definition": "The pig demigod of many moʻolelo.",
+    "category": "gods"
+  },
+  {
+    "term": "Kanaloa",
+    "pronunciation": "kah-nah-LOH-ah",
+    "definition": "One of the major Hawaiian gods, linked with the deep ocean.",
+    "category": "gods"
+  },
+  {
+    "term": "Kāne",
+    "pronunciation": "KAH-neh",
+    "definition": "The leading of the four great Hawaiian gods. The word kāne also means man or husband.",
+    "category": "gods"
+  },
+  {
+    "term": "kanu",
+    "pronunciation": "KAH-noo",
+    "definition": "To plant. The same word means to bury.",
+    "category": "farming"
+  },
+  {
+    "term": "kapa",
+    "pronunciation": "KAH-pah",
+    "definition": "Bark cloth, made by beating the inner bark of wauke or māmaki. Long ago it was clothing and bedding.",
+    "category": "craft"
+  },
+  {
+    "term": "kapu",
+    "pronunciation": "KAH-poo",
+    "definition": "Forbidden, or sacred. A kapu was a sacred rule that set something apart.",
+    "category": "ceremony"
+  },
+  {
+    "term": "kaula",
+    "pronunciation": "KOW-lah",
+    "definition": "Rope, cord, or string.",
+    "category": "craft"
+  },
+  {
+    "term": "kaulua",
+    "pronunciation": "kow-LOO-ah",
+    "definition": "A double canoe, two hulls joined side by side. The word also means a pair.",
+    "category": "voyaging"
+  },
+  {
+    "term": "keiki",
+    "pronunciation": "KAY-kee",
+    "definition": "A child. The word also means a young shoot or sucker of a plant like kalo.",
+    "category": "people"
+  },
+  {
+    "term": "kilo",
+    "pronunciation": "KEE-loh",
+    "definition": "A stargazer or reader of signs. Also to watch very closely and observe.",
+    "category": "voyaging"
+  },
+  {
+    "term": "kinolau",
+    "pronunciation": "kee-noh-LAU (lau rhymes with cow)",
+    "definition": "The many body forms a god can take, such as a plant, an animal, or a cloud. The Hawaiian Dictionary writes it as two words, kino lau.",
+    "category": "gods"
+  },
+  {
+    "term": "Kū",
+    "pronunciation": "KOO",
+    "definition": "One of the major Hawaiian gods. The Hawaiian Dictionary calls him the ancient god of war. The word kū also means to stand.",
+    "category": "gods"
+  },
+  {
+    "term": "kua",
+    "pronunciation": "KOO-ah",
+    "definition": "The anvil for beating kapa. The same word means back, and to chop.",
+    "category": "craft"
+  },
+  {
+    "term": "kuleana",
+    "pronunciation": "koo-leh-AH-nah",
+    "definition": "Responsibility, and also a right or privilege. The word can also mean a small family piece of land inside an ahupuaʻa.",
+    "category": "values"
+  },
+  {
+    "term": "kūlolo",
+    "pronunciation": "koo-LOH-loh",
+    "definition": "A pudding of grated kalo and coconut cream, baked or steamed.",
+    "category": "food"
+  },
+  {
+    "term": "kumu",
+    "pronunciation": "KOO-moo",
+    "definition": "A teacher. Also the base or trunk of a tree, a source or beginning.",
+    "category": "people"
+  },
+  {
+    "term": "kupuna",
+    "pronunciation": "koo-POO-nah",
+    "definition": "A grandparent or ancestor. For more than one, say kūpuna.",
+    "category": "people"
+  },
+  {
+    "term": "lāʻau lapaʻau",
+    "pronunciation": "LAH-ow lah-pah-OW",
+    "definition": "Medicine. Word for word it means curing medicine. Lāʻau alone means plant, tree, or wood.",
+    "category": "plants"
+  },
+  {
+    "term": "Laka",
+    "pronunciation": "LAH-kah",
+    "definition": "The goddess of hula.",
+    "category": "gods"
+  },
+  {
+    "term": "lau",
+    "pronunciation": "LAU (rhymes with cow)",
+    "definition": "A leaf. Sometimes it shortens to lā, as in lāʻī, a kī (ti) leaf.",
+    "category": "plants"
+  },
+  {
+    "term": "lau hala",
+    "pronunciation": "LAU HAH-lah (lau rhymes with cow)",
+    "definition": "The leaf of the hala (pandanus) tree, plaited into mats and baskets.",
+    "category": "craft"
+  },
+  {
+    "term": "laulau",
+    "pronunciation": "LAU-lau (lau rhymes with cow)",
+    "definition": "A bundle of food wrapped in kī or banana leaves and cooked in the imu or steamed. The word also means any wrapped package.",
+    "category": "food"
+  },
+  {
+    "term": "lei",
+    "pronunciation": "LAY",
+    "definition": "A garland of flowers, leaves, shells, or feathers, given as a sign of affection.",
+    "category": "craft"
+  },
+  {
+    "term": "loʻi",
+    "pronunciation": "LOH-ee",
+    "definition": "A flooded terrace for growing kalo.",
+    "category": "farming"
+  },
+  {
+    "term": "Lono",
+    "pronunciation": "LOH-noh",
+    "definition": "One of the four major Hawaiian gods, said to have been brought from Kahiki.",
+    "category": "gods"
+  },
+  {
+    "term": "lūʻau",
+    "pronunciation": "LOO-ow",
+    "definition": "Young kalo leaves, often baked with coconut cream. The feast got its name from this dish.",
+    "category": "food"
+  },
+  {
+    "term": "mahi ʻai",
+    "pronunciation": "MAH-hee AI",
+    "definition": "A farmer. Also to farm.",
+    "category": "farming"
+  },
+  {
+    "term": "makaʻāinana",
+    "pronunciation": "mah-kah-ai-NAH-nah",
+    "definition": "The common people. Word for word, the people who tend the land.",
+    "category": "people"
+  },
+  {
+    "term": "makahiki",
+    "pronunciation": "mah-kah-HEE-kee",
+    "definition": "A year. Also the ancient festival that began around the middle of October and lasted about four months, with sports, religious ceremonies, and no war allowed.",
+    "category": "ceremony"
+  },
+  {
+    "term": "makai",
+    "pronunciation": "mah-KAI",
+    "definition": "Toward the sea. People in Hawaiʻi still use it to give directions.",
+    "category": "farming"
+  },
+  {
+    "term": "māla",
+    "pronunciation": "MAH-lah",
+    "definition": "A garden or planted patch. A māla kō is a sugarcane patch.",
+    "category": "farming"
+  },
+  {
+    "term": "mālama",
+    "pronunciation": "mah-LAH-mah",
+    "definition": "To take care of, protect, and tend.",
+    "category": "values"
+  },
+  {
+    "term": "mālama honua",
+    "pronunciation": "mah-LAH-mah hoh-NOO-ah",
+    "definition": "To care for the Earth. Honua means land, earth, world. It is the message Hōkūleʻa carried around the world.",
+    "category": "values"
+  },
+  {
+    "term": "malo",
+    "pronunciation": "MAH-loh",
+    "definition": "A loincloth worn by men. In old Hawaiʻi clothing was made of kapa.",
+    "category": "craft"
+  },
+  {
+    "term": "mana",
+    "pronunciation": "MAH-nah",
+    "definition": "Spiritual or divine power.",
+    "category": "ceremony"
+  },
+  {
+    "term": "mauka",
+    "pronunciation": "MAU-kah (mau rhymes with cow)",
+    "definition": "Inland, toward the mountains. The opposite of makai.",
+    "category": "farming"
+  },
+  {
+    "term": "mea kanu",
+    "pronunciation": "MEH-ah KAH-noo",
+    "definition": "Plants, crops. Word for word, things that are planted.",
+    "category": "plants"
+  },
+  {
+    "term": "Moananuiākea",
+    "pronunciation": "moh-ah-nah-noo-ee-ah-KEH-ah",
+    "definition": "A Hawaiian name for the Pacific Ocean, the great wide sea. It is also the name of the voyage around the Pacific that Hōkūleʻa began in 2023.",
+    "category": "voyaging"
+  },
+  {
+    "term": "moʻolelo",
+    "pronunciation": "moh-oh-LEH-loh",
+    "definition": "A story, history, or tradition. It comes from moʻo ʻōlelo, a succession of talk, because all stories were once passed on by voice.",
+    "category": "values"
+  },
+  {
+    "term": "ʻohā",
+    "pronunciation": "oh-HAH",
+    "definition": "A small kalo corm that sprouts from the side of the older one. It is linked to the word ʻohana.",
+    "category": "farming"
+  },
+  {
+    "term": "ʻohana",
+    "pronunciation": "oh-HAH-nah",
+    "definition": "Family, relatives. Like ʻohā shoots around a parent kalo plant, a family grows from one source.",
+    "category": "people"
+  },
+  {
+    "term": "ʻohe hano ihu",
+    "pronunciation": "OH-heh HAH-noh EE-hoo",
+    "definition": "The bamboo nose flute.",
+    "category": "craft"
+  },
+  {
+    "term": "ʻohe kāpala",
+    "pronunciation": "OH-heh kah-PAH-lah",
+    "definition": "A piece of bamboo carved into a stamp for printing designs on kapa. The name means printing bamboo.",
+    "category": "craft"
+  },
+  {
+    "term": "ʻokina",
+    "pronunciation": "oh-KEE-nah",
+    "definition": "The glottal stop, written ʻ. It is a quick catch in the throat, like the break in the middle of uh-oh. The word means a cutting off.",
+    "category": "values"
+  },
+  {
+    "term": "ʻōkolehao",
+    "pronunciation": "oh-koh-leh-HOW",
+    "definition": "Liquor distilled from the root of the kī plant. The name means iron bottom, after the iron pot used as a still.",
+    "category": "food"
+  },
+  {
+    "term": "olonā",
+    "pronunciation": "oh-loh-NAH",
+    "definition": "A native Hawaiian shrub. Its bark gives a very strong fiber that was prized for fishing nets and cord. It is not a canoe plant.",
+    "category": "plants"
+  },
+  {
+    "term": "ʻōʻō",
+    "pronunciation": "oh-OH",
+    "definition": "A digging stick, the main farming tool. It is also the name of a native forest bird.",
+    "category": "farming"
+  },
+  {
+    "term": "pahu",
+    "pronunciation": "PAH-hoo",
+    "definition": "A drum. The same word means box.",
+    "category": "craft"
+  },
+  {
+    "term": "paʻi ʻai",
+    "pronunciation": "PAH-ee AI",
+    "definition": "Kalo pounded hard with no water added yet. Thin it with water and it becomes poi.",
+    "category": "food"
+  },
+  {
+    "term": "Papa",
+    "pronunciation": "PAH-pah",
+    "definition": "The wife of Wākea. Tradition calls her the mother of the islands.",
+    "category": "gods"
+  },
+  {
+    "term": "papa kuʻi ʻai",
+    "pronunciation": "PAH-pah KOO-ee AI",
+    "definition": "The wooden board that kalo is pounded on to make poi.",
+    "category": "food"
+  },
+  {
+    "term": "pāʻū",
+    "pronunciation": "pah-OO",
+    "definition": "A skirt worn by women. A pāʻū lāʻī is a skirt of kī leaves.",
+    "category": "craft"
+  },
+  {
+    "term": "peʻa",
+    "pronunciation": "PEH-ah",
+    "definition": "A canoe sail.",
+    "category": "voyaging"
+  },
+  {
+    "term": "pī kai",
+    "pronunciation": "PEE KAI",
+    "definition": "To sprinkle sea water, or fresh water with salt, to purify a person or a place.",
+    "category": "ceremony"
+  },
+  {
+    "term": "pōhaku kuʻi ʻai",
+    "pronunciation": "poh-HAH-koo KOO-ee AI",
+    "definition": "A stone poi pounder.",
+    "category": "food"
+  },
+  {
+    "term": "poi",
+    "pronunciation": "POY",
+    "definition": "The Hawaiian staff of life. Cooked kalo corms pounded smooth and thinned with water.",
+    "category": "food"
+  },
+  {
+    "term": "pono",
+    "pronunciation": "POH-noh",
+    "definition": "Goodness, rightness, things in proper balance.",
+    "category": "values"
+  },
+  {
+    "term": "ʻulīʻulī",
+    "pronunciation": "oo-lee-oo-LEE",
+    "definition": "A gourd rattle with seeds inside and feathers on top, shaken in hula.",
+    "category": "craft"
+  },
+  {
+    "term": "ʻumeke",
+    "pronunciation": "oo-MEH-keh",
+    "definition": "A bowl or calabash, made of wood or gourd.",
+    "category": "craft"
+  },
+  {
+    "term": "waʻa",
+    "pronunciation": "WAH-ah",
+    "definition": "A canoe.",
+    "category": "voyaging"
+  },
+  {
+    "term": "wai",
+    "pronunciation": "WAI",
+    "definition": "Fresh water. Also any liquid other than sea water, such as juice or sap.",
+    "category": "farming"
+  },
+  {
+    "term": "Wākea",
+    "pronunciation": "wah-KEH-ah",
+    "definition": "In tradition, the ancestor of all Hawaiians. He is the husband of Papa and the father of Hāloa.",
+    "category": "gods"
+  }
+]

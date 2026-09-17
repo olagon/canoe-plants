@@ -1,0 +1,262 @@
+[
+  {
+    "slug": "kalo",
+    "nameHaw": "Kalo",
+    "nameCommon": "Taro",
+    "nameSci": "Colocasia esculenta",
+    "family": "Araceae",
+    "originRegion": "Southeast Asia and Near Oceania",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "uala",
+    "nameHaw": "ʻUala",
+    "nameCommon": "Sweet potato",
+    "nameSci": "Ipomoea batatas",
+    "family": "Convolvulaceae",
+    "originRegion": "South America",
+    "originMapKey": "southamerica",
+    "status": "canoe"
+  },
+  {
+    "slug": "ulu",
+    "nameHaw": "ʻUlu",
+    "nameCommon": "Breadfruit",
+    "nameSci": "Artocarpus altilis",
+    "family": "Moraceae",
+    "originRegion": "New Guinea and Melanesia",
+    "originMapKey": "newguinea",
+    "status": "canoe"
+  },
+  {
+    "slug": "niu",
+    "nameHaw": "Niu",
+    "nameCommon": "Coconut",
+    "nameSci": "Cocos nucifera",
+    "family": "Arecaceae",
+    "originRegion": "Indo Pacific",
+    "originMapKey": "indopacific",
+    "status": "canoe"
+  },
+  {
+    "slug": "maia",
+    "nameHaw": "Maiʻa",
+    "nameCommon": "Banana",
+    "nameSci": "Musa species (Musa acuminata × balbisiana hybrids)",
+    "family": "Musaceae",
+    "originRegion": "Southeast Asia and New Guinea",
+    "originMapKey": "newguinea",
+    "status": "canoe"
+  },
+  {
+    "slug": "ko",
+    "nameHaw": "Kō",
+    "nameCommon": "Sugarcane",
+    "nameSci": "Saccharum officinarum",
+    "family": "Poaceae",
+    "originRegion": "New Guinea",
+    "originMapKey": "newguinea",
+    "status": "canoe"
+  },
+  {
+    "slug": "awa",
+    "nameHaw": "ʻAwa",
+    "nameCommon": "Kava",
+    "nameSci": "Piper methysticum",
+    "family": "Piperaceae",
+    "originRegion": "Vanuatu region",
+    "originMapKey": "vanuatu",
+    "status": "canoe"
+  },
+  {
+    "slug": "kukui",
+    "nameHaw": "Kukui",
+    "nameCommon": "Candlenut",
+    "nameSci": "Aleurites moluccanus",
+    "family": "Euphorbiaceae",
+    "originRegion": "Southeast Asia",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "noni",
+    "nameHaw": "Noni",
+    "nameCommon": "Indian mulberry",
+    "nameSci": "Morinda citrifolia",
+    "family": "Rubiaceae",
+    "originRegion": "Southeast Asia and Australia",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "wauke",
+    "nameHaw": "Wauke",
+    "nameCommon": "Paper mulberry",
+    "nameSci": "Broussonetia papyrifera",
+    "family": "Moraceae",
+    "originRegion": "Taiwan and East Asia",
+    "originMapKey": "taiwan",
+    "status": "canoe"
+  },
+  {
+    "slug": "ohe",
+    "nameHaw": "ʻOhe",
+    "nameCommon": "Polynesian bamboo",
+    "nameSci": "Schizostachyum glaucifolium",
+    "family": "Poaceae",
+    "originRegion": "Melanesia and Polynesia",
+    "originMapKey": "newguinea",
+    "status": "canoe"
+  },
+  {
+    "slug": "olena",
+    "nameHaw": "ʻŌlena",
+    "nameCommon": "Turmeric",
+    "nameSci": "Curcuma longa",
+    "family": "Zingiberaceae",
+    "originRegion": "South Asia and Southeast Asia",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "awapuhi",
+    "nameHaw": "ʻAwapuhi",
+    "nameCommon": "Shampoo ginger",
+    "nameSci": "Zingiber zerumbet",
+    "family": "Zingiberaceae",
+    "originRegion": "South Asia and Southeast Asia",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "uhi",
+    "nameHaw": "Uhi",
+    "nameCommon": "Greater yam",
+    "nameSci": "Dioscorea alata",
+    "family": "Dioscoreaceae",
+    "originRegion": "Southeast Asia",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "pia-five-leaf-yam",
+    "nameHaw": "Piʻa",
+    "nameCommon": "Five leaf yam",
+    "nameSci": "Dioscorea pentaphylla",
+    "family": "Dioscoreaceae",
+    "originRegion": "South and Southeast Asia",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "hoi",
+    "nameHaw": "Hoi",
+    "nameCommon": "Bitter yam, air potato",
+    "nameSci": "Dioscorea bulbifera",
+    "family": "Dioscoreaceae",
+    "originRegion": "Asia and Africa",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "pia",
+    "nameHaw": "Pia",
+    "nameCommon": "Polynesian arrowroot",
+    "nameSci": "Tacca leontopetaloides",
+    "family": "Dioscoreaceae (formerly Taccaceae)",
+    "originRegion": "Southeast Asia and Pacific",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "ape",
+    "nameHaw": "ʻApe",
+    "nameCommon": "Giant taro",
+    "nameSci": "Alocasia macrorrhizos",
+    "family": "Araceae",
+    "originRegion": "Southeast Asia",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "kamani",
+    "nameHaw": "Kamani",
+    "nameCommon": "Tamanu, Alexandrian laurel",
+    "nameSci": "Calophyllum inophyllum",
+    "family": "Calophyllaceae",
+    "originRegion": "Indo Pacific coasts",
+    "originMapKey": "indopacific",
+    "status": "canoe"
+  },
+  {
+    "slug": "milo",
+    "nameHaw": "Milo",
+    "nameCommon": "Portia tree",
+    "nameSci": "Thespesia populnea",
+    "family": "Malvaceae",
+    "originRegion": "Indo Pacific coasts",
+    "originMapKey": "indopacific",
+    "status": "debated"
+  },
+  {
+    "slug": "ipu",
+    "nameHaw": "Ipu",
+    "nameCommon": "Bottle gourd",
+    "nameSci": "Lagenaria siceraria",
+    "family": "Cucurbitaceae",
+    "originRegion": "Africa originally, then Asia and the Americas",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "ohia-ai",
+    "nameHaw": "ʻŌhiʻa ʻai",
+    "nameCommon": "Mountain apple",
+    "nameSci": "Syzygium malaccense",
+    "family": "Myrtaceae",
+    "originRegion": "Malesia",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "hau",
+    "nameHaw": "Hau",
+    "nameCommon": "Sea hibiscus",
+    "nameSci": "Hibiscus tiliaceus",
+    "family": "Malvaceae",
+    "originRegion": "Pantropical coasts",
+    "originMapKey": "indopacific",
+    "status": "debated"
+  },
+  {
+    "slug": "auhuhu",
+    "nameHaw": "ʻAuhuhu",
+    "nameCommon": "Fish poison plant",
+    "nameSci": "Tephrosia purpurea",
+    "family": "Fabaceae",
+    "originRegion": "Tropical Asia and Pacific",
+    "originMapKey": "sea",
+    "status": "canoe"
+  },
+  {
+    "slug": "ki",
+    "nameHaw": "Kī",
+    "nameCommon": "Ti",
+    "nameSci": "Cordyline fruticosa",
+    "family": "Asparagaceae",
+    "originRegion": "Southeast Asia and Melanesia",
+    "originMapKey": "newguinea",
+    "status": "canoe"
+  },
+  {
+    "slug": "kou",
+    "nameHaw": "Kou",
+    "nameCommon": "Kou",
+    "nameSci": "Cordia subcordata",
+    "family": "Boraginaceae",
+    "originRegion": "Indo Pacific coasts",
+    "originMapKey": "indopacific",
+    "status": "reclassified"
+  }
+]

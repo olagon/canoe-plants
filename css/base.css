@@ -26,8 +26,8 @@ dialog { padding: 0; border: 0; }
 
 h1, h2, h3, .display {
   font-family: var(--font-display);
-  font-weight: 400;
-  line-height: 1.08;
+  font-weight: 800;
+  line-height: 1.05;
   text-wrap: balance;
 }
 h1 { font-size: var(--step-4); }

@@ -20,7 +20,7 @@
   --alaea: #9A3324;
 
   /* type */
-  --font-display: "Young Serif", "Source Serif 4", Georgia, serif;
+  --font-display: "Alegreya", "Source Serif 4", Georgia, serif;
   --font-text: "Source Sans 3", "Noto Sans", system-ui, sans-serif;
 
   --step--1: clamp(0.84rem, 0.81rem + 0.14vw, 0.92rem);

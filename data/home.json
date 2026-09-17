@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "title": "They packed a world into a canoe.",
+    "sub": "Polynesian voyagers crossed more than two thousand miles of open ocean to reach Hawaiʻi. These are the plants they carried. Meet all twenty six."
+  },
+  "what": {
+    "title": "What is a canoe plant?",
+    "text": [
+      "The voyagers who found Hawaiʻi could not know what grew on an island nobody had ever seen. So they did not leave it to luck.",
+      "They packed a living toolkit into their waʻa. Food to plant. Medicine for wounds and fevers. Bark for cloth, fiber for rope, wood for bowls, nuts for light, and the plants they needed for ceremony.",
+      "We call them canoe plants. Every one of them crossed the Pacific as a cutting, a root, a nut, or a seed, kept alive by people who knew exactly what they were doing."
+    ]
+  },
+  "reasons": [
+    { "icon": "eat", "title": "To eat", "text": "Kalo, ʻulu, ʻuala, maiʻa, niu. Crops that could feed a whole island, plus backup foods for hard times." },
+    { "icon": "heal", "title": "To heal", "text": "Noni for wounds, ʻōlena for earaches, ʻawa to calm the body. A full medicine chest that grows back." },
+    { "icon": "make", "title": "To make", "text": "Wauke for kapa cloth, niu for rope, kukui for lamplight, ipu for bottles, ʻohe for tools and music." },
+    { "icon": "honor", "title": "To honor", "text": "Kī to bless and protect, ʻawa to offer to the gods. Some plants carried the sacred across the sea." }
+  ],
+  "doorways": [
+    { "href": "#/voyage", "ground": "ground-kai", "title": "The voyage", "text": "Trace the routes across the Pacific, from Taiwan to Tahiti to Hawaiʻi. See where each plant started.", "cta": "See the voyage" },
+    { "href": "#/plants", "ground": "ground-kukui", "title": "The plants", "text": "All twenty six, with photos, stories, and the facts your friends will not believe.", "cta": "Explore the plants" },
+    { "href": "#/pack-the-canoe", "ground": "ground-wai", "title": "Pack the canoe", "text": "You are leaving Tahiti for an island no one has seen. There is room for eight plants. Choose well.", "cta": "Pack the canoe" },
+    { "href": "#/quiz", "ground": "ground-lau", "title": "Test yourself", "text": "Ten questions. Photos, myths, and tricky ones. Can you get a perfect score?", "cta": "Start the quiz" }
+  ]
+}

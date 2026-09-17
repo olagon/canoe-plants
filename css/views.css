@@ -1,0 +1,114 @@
+/* Per view styles */
+
+.icon {
+  width: 2rem; height: 2rem; flex: none;
+  fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+}
+
+/* ---------- home: the night crossing ---------- */
+.hero { height: 260vh; position: relative; background: var(--kapa); }
+.hero__stage {
+  --horizon: 58%;
+  position: sticky; top: var(--nav-h);
+  height: calc(100vh - var(--nav-h)); height: calc(100svh - var(--nav-h));
+  min-height: 34rem; overflow: hidden; color: var(--kapa);
+}
+.hero__stage > * { position: absolute; }
+.hero__sky { inset: 0 0 calc(100% - var(--horizon)) 0; }
+.hero__sky--night { background: linear-gradient(#040A15 0%, #081528 45%, #10294A 82%, #214468 100%); }
+.hero__sky--dawn { opacity: 0; background: linear-gradient(#2B5C7E 0%, #6FA3AE 38%, #E9C98A 76%, #F1B04C 100%); }
+.hero__stars { left: 0; top: 0; width: 100%; }
+.hero__compass { left: 0; top: 0; width: 100%; height: var(--horizon); stroke: var(--kapa); stroke-width: 1; fill: none; opacity: 0.07; }
+.hero__sun {
+  left: 50%; top: var(--horizon); width: min(30vw, 16rem); aspect-ratio: 1; margin: calc(min(30vw, 16rem) / -2);
+  margin-top: calc(min(30vw, 16rem) / -2); border-radius: 50%; background: #FFF3D2;
+  transform: translateY(60%);
+}
+.hero__water { inset: var(--horizon) 0 0 0; background: linear-gradient(#0E2748 0%, var(--kai-deep) 55%); border-top: 1px solid rgb(255 255 255 / 0.22); }
+.hero__water > * { position: absolute; inset: 0; }
+.hero__water-dawn { opacity: 0; background: linear-gradient(#E7B65C 0%, #3F8C99 22%, #175566 100%); }
+.hero__water-stamp {
+  background: var(--kapa); opacity: 0.05;
+  -webkit-mask: var(--pat-chevron) repeat 0 0 / 36px; mask: var(--pat-chevron) repeat 0 0 / 36px;
+}
+.hero__waa-track { left: 0; right: 0; top: var(--horizon); height: 0; }
+.hero__waa { width: clamp(5.5rem, 9vw, 9rem); color: #02060C; position: absolute; left: 0; bottom: -0.55rem; }
+.hero__copy {
+  left: 0; right: 0; top: var(--horizon); bottom: 0; z-index: 3;
+  width: min(100% - 2 * var(--gutter), var(--wrap)); margin-inline: auto;
+  display: flex; flex-direction: column; justify-content: center; gap: var(--s-4);
+  padding-block: var(--s-4); --fg: var(--kapa); --bg: var(--kai-deep); --accent: var(--olena);
+}
+.hero__copy h1 { font-size: clamp(2.1rem, 1.2rem + 3.6vw, 4.2rem); max-width: 18ch; }
+.hero__copy p { max-width: 56ch; color: #D5DBE2; }
+
+.hero__names { inset: 0; z-index: 2; pointer-events: none; }
+.hero__lines { position: absolute; inset: 0; width: 100%; height: 100%; }
+.hero__lines polyline { fill: none; stroke: var(--olena); stroke-width: 1; opacity: 0.28; }
+.hero__names ul { list-style: none; margin: 0; padding: 0; }
+.hero__names li { position: absolute; transform: translate(-0.3em, -50%); white-space: nowrap; }
+.hero__names a {
+  pointer-events: auto; display: flex; align-items: center; gap: 0.45em;
+  font-family: var(--font-display); font-weight: 800; font-size: clamp(0.78rem, 0.6rem + 0.62vw, 1.2rem);
+  color: var(--kapa); text-decoration: none; padding: 0.35em 0.2em;
+}
+.hero__names a::before {
+  content: ""; width: 0.42em; height: 0.42em; border-radius: 50%; background: var(--olena); flex: none;
+  animation: twinkle 5s ease-in-out var(--tw, 0s) infinite;
+}
+.hero__names a:hover, .hero__names a:focus-visible { color: var(--olena); }
+@keyframes twinkle { 50% { opacity: 0.35; } }
+.hero__kapa { inset: 0; z-index: 4; background: var(--kapa); opacity: 0; pointer-events: none; }
+
+/* still version: reduced motion, or the animation library did not load */
+.hero--still { height: auto; }
+.hero--still .hero__stage { position: relative; top: 0; }
+.hero--still .hero__waa-track { transform: translateX(12%); }
+.hero--still .hero__names a::before { animation: none; }
+
+@media (max-width: 40rem) {
+  .hero__stage { --horizon: 50%; }
+  .hero__copy p { font-size: 1rem; line-height: 1.45; }
+  .hero__copy .btn { padding: 0.7em 1em; }
+}
+@media (max-height: 40rem) and (min-width: 40rem) {
+  .hero__copy p { display: none; }
+}
+
+/* what is a canoe plant */
+.what { display: grid; gap: var(--s-7); }
+.reasons { display: grid; gap: var(--s-5) var(--s-6); grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); }
+.reasons li { border-top: 3px solid var(--kukui); padding-top: var(--s-4); }
+.reasons .icon { width: 2.6rem; height: 2.6rem; color: var(--lau); margin-bottom: var(--s-3); }
+.reasons h3 { font-size: var(--step-2); margin-bottom: var(--s-2); }
+@media (min-width: 64rem) {
+  .what { grid-template-columns: 5fr 6fr; align-items: start; }
+  .reasons { grid-template-columns: 1fr 1fr; }
+}
+
+.progress-strip { padding-bottom: var(--s-7); display: grid; gap: var(--s-3); }
+.progress-strip__bar { display: flex; gap: 3px; max-width: 40rem; }
+.progress-strip__bar i { flex: 1; height: 0.9rem; border: var(--edge) solid var(--kukui); }
+.progress-strip__bar i.is-met { background: var(--olena); }
+
+/* plant of the day */
+.featured { display: grid; }
+.featured__photo img { width: 100%; height: 100%; min-height: 18rem; max-height: 80vh; object-fit: cover; }
+.featured__text { padding: var(--s-7) var(--gutter); display: flex; flex-direction: column; justify-content: center; align-items: flex-start; gap: var(--s-3); }
+.featured__text h2 { font-size: var(--step-5); line-height: 0.95; }
+.featured__common { font-size: var(--step-1); color: var(--muted); }
+.featured__fact { font-size: var(--step-1); line-height: 1.4; max-width: 34ch; margin-block: var(--s-3) var(--s-4); }
+@media (min-width: 60rem) { .featured { grid-template-columns: 55fr 45fr; } }
+
+/* doorways */
+.doorways { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); }
+.doorway {
+  display: flex; flex-direction: column; gap: var(--s-3); min-height: 20rem;
+  padding: var(--s-7) var(--gutter); text-decoration: none; color: var(--fg);
+}
+.doorway h2 { font-size: var(--step-4); }
+.doorway p { max-width: 32ch; color: var(--muted); flex: 1; }
+.doorway__cta { font-weight: 600; text-decoration: underline; text-underline-offset: 0.25em; text-decoration-thickness: 2px; color: var(--accent); }
+.doorway:hover .doorway__cta { text-decoration-thickness: 4px; }
+.doorway:focus-visible { outline-offset: -6px; }
+@media (min-width: 84rem) { .doorways { grid-template-columns: repeat(4, 1fr); } }
