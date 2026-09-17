@@ -358,5 +358,385 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alocasia_macrorrhizos_kz05.jpg",
   "title": "A wild stand of ʻape"
+ },
+ {
+  "creditId": "c-kamani-01",
+  "file": "kamani-01.webp",
+  "plantSlug": "kamani",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-091104-0804-Calophyllum_inophyllum-habit-Kahanu_Gardens_NTBG_Kaeleku_Hana-Maui_(24357029784).jpg",
+  "title": "Kamani tree at Kahanu Garden, Maui"
+ },
+ {
+  "creditId": "c-kamani-02",
+  "file": "kamani-02.webp",
+  "plantSlug": "kamani",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_080604-6238_Calophyllum_inophyllum.jpg",
+  "title": "Kamani nuts on the ground"
+ },
+ {
+  "creditId": "c-kamani-03",
+  "file": "kamani-03.webp",
+  "plantSlug": "kamani",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-090806-3893-Calophyllum_inophyllum-flowers-Maui_Arts_and_Cultural_Center_Kahului-Maui_(24603916519).jpg",
+  "title": "Kamani flowers"
+ },
+ {
+  "creditId": "c-kamani-04",
+  "file": "kamani-04.webp",
+  "plantSlug": "kamani",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_061106-1464_Calophyllum_inophyllum.jpg",
+  "title": "Kamani leaves and ripe fruit"
+ },
+ {
+  "creditId": "c-milo-01",
+  "file": "milo-01.webp",
+  "plantSlug": "milo",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_060622-8191_Thespesia_populnea.jpg",
+  "title": "Milo grove at Kanahā Beach, Maui"
+ },
+ {
+  "creditId": "c-milo-02",
+  "file": "milo-02.webp",
+  "plantSlug": "milo",
+  "author": "David Eickhoff",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thespesia_populnea_(5187957327).jpg",
+  "title": "Milo flower"
+ },
+ {
+  "creditId": "c-milo-03",
+  "file": "milo-03.webp",
+  "plantSlug": "milo",
+  "author": "Hankster333",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Milo%E2%80%9BUmeke(Bowl)byWilliamKeb(1937%E2%80%932023).jpg",
+  "title": "ʻUmeke turned from milo wood"
+ },
+ {
+  "creditId": "c-milo-04",
+  "file": "milo-04.webp",
+  "plantSlug": "milo",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_010203-0205_Thespesia_populnea.jpg",
+  "title": "Milo fruits and leaves"
+ },
+ {
+  "creditId": "c-milo-05",
+  "file": "milo-05.webp",
+  "plantSlug": "milo",
+  "author": "David Eickhoff",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thespesia_populnea_(5188560264).jpg",
+  "title": "Milo tree"
+ },
+ {
+  "creditId": "c-ipu-01",
+  "file": "ipu-01.webp",
+  "plantSlug": "ipu",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-090519-8072-Lagenaria_siceraria-fruiting_habit-Native_Nursery_Kula-Maui_(24327132953).jpg",
+  "title": "Ipu vines with young gourds in Kula, Maui"
+ },
+ {
+  "creditId": "c-ipu-02",
+  "file": "ipu-02.webp",
+  "plantSlug": "ipu",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-090519-8075-Lagenaria_siceraria-fruiting_habit-Native_Nursery_Kula-Maui_(24658498460).jpg",
+  "title": "Young ipu gourd"
+ },
+ {
+  "creditId": "c-ipu-03",
+  "file": "ipu-03.webp",
+  "plantSlug": "ipu",
+  "author": "Troy McKaskle",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hula_calabash.jpg",
+  "title": "Ipu heke"
+ },
+ {
+  "creditId": "c-ipu-04",
+  "file": "ipu-04.webp",
+  "plantSlug": "ipu",
+  "author": "John Webber",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Canoe_of_the_Sandwich_Islands,_the_Rowers_Masked_by_John_Webber.jpg",
+  "title": "A canoe of the Sandwich Islands, the rowers masked"
+ },
+ {
+  "creditId": "c-ipu-05",
+  "file": "ipu-05.webp",
+  "plantSlug": "ipu",
+  "author": "Hiart",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ipu_pawehe,_gourd_container,_Bernice_Pauahi_Bishop_Museum_01071.JPG",
+  "title": "Ipu pāwehe, a decorated gourd container"
+ },
+ {
+  "creditId": "c-ohia-ai-01",
+  "file": "ohia-ai-01.webp",
+  "plantSlug": "ohia-ai",
+  "author": "Cun Cun",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bunga_jambu_jakarta_sept_18.jpg",
+  "title": "Mountain apple tree in full bloom"
+ },
+ {
+  "creditId": "c-ohia-ai-02",
+  "file": "ohia-ai-02.webp",
+  "plantSlug": "ohia-ai",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_070321-6134_Syzygium_malaccense.jpg",
+  "title": "ʻŌhiʻa ʻai fruit along the Hāna Highway"
+ },
+ {
+  "creditId": "c-ohia-ai-03",
+  "file": "ohia-ai-03.webp",
+  "plantSlug": "ohia-ai",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-110330-4287-Syzygium_malaccense-flowers-Keanae-Maui_(24988206901).jpg",
+  "title": "ʻŌhiʻa ʻai flowers at Keʻanae, Maui"
+ },
+ {
+  "creditId": "c-ohia-ai-04",
+  "file": "ohia-ai-04.webp",
+  "plantSlug": "ohia-ai",
+  "author": "Kristof Zyskowski and Yulia Bereshpolova",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Myrtaceae-_Syzygium_malaccense_(Malay_rose-apple).jpg",
+  "title": "Mountain apple cut open"
+ },
+ {
+  "creditId": "c-hau-01",
+  "file": "hau-01.webp",
+  "plantSlug": "hau",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_010309-0530_Hibiscus_tiliaceus.jpg",
+  "title": "Twisted hau branches in Kīhei, Maui"
+ },
+ {
+  "creditId": "c-hau-02",
+  "file": "hau-02.webp",
+  "plantSlug": "hau",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_051019-4917_Hibiscus_tiliaceus.jpg",
+  "title": "Hau flower in the morning"
+ },
+ {
+  "creditId": "c-hau-03",
+  "file": "hau-03.webp",
+  "plantSlug": "hau",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_081230-0744_Hibiscus_tiliaceus.jpg",
+  "title": "Hau flower at the end of the day"
+ },
+ {
+  "creditId": "c-auhuhu-01",
+  "file": "auhuhu-01.webp",
+  "plantSlug": "auhuhu",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_050419-0326_Tephrosia_purpurea_var._purpurea.jpg",
+  "title": "ʻAuhuhu on Mokoliʻi, Oʻahu"
+ },
+ {
+  "creditId": "c-auhuhu-02",
+  "file": "auhuhu-02.webp",
+  "plantSlug": "auhuhu",
+  "author": "Dinesh Valke",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tephrosia_purpurea_(L.)_Pers._(51364112392).jpg",
+  "title": "ʻAuhuhu flower and leaves"
+ },
+ {
+  "creditId": "c-auhuhu-03",
+  "file": "auhuhu-03.webp",
+  "plantSlug": "auhuhu",
+  "author": "Krzysztof Ziarnek",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tephrosia_purpurea_kz02.jpg",
+  "title": "Whole ʻauhuhu shrub"
+ },
+ {
+  "creditId": "c-ki-01",
+  "file": "ki-01.webp",
+  "plantSlug": "ki",
+  "author": "Jackie Frost, National Park Service",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ti_plant.jpg",
+  "title": "Green kī at Haleakalā National Park"
+ },
+ {
+  "creditId": "c-ki-02",
+  "file": "ki-02.webp",
+  "plantSlug": "ki",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_060928-0424_Cordyline_fruticosa.jpg",
+  "title": "Green kī leaves"
+ },
+ {
+  "creditId": "c-ki-03",
+  "file": "ki-03.webp",
+  "plantSlug": "ki",
+  "author": "J. Ferracane, National Park Service",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_festival-goer_gets_a_toe-hold_on_lei_la%CA%BBi_and_twists_a_lei_from_fresh_t%C4%AB_leaf_(53066390160).jpg",
+  "title": "Twisting a lei lāʻī from fresh ti leaf"
+ },
+ {
+  "creditId": "c-ki-04",
+  "file": "ki-04.webp",
+  "plantSlug": "ki",
+  "author": "H. W. Henshaw",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hawaiian_calabash_carrier.jpg",
+  "title": "Man in a ti leaf rain cape, around 1895"
+ },
+ {
+  "creditId": "c-ki-05",
+  "file": "ki-05.webp",
+  "plantSlug": "ki",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr_030729-0114_Cordyline_fruticosa.jpg",
+  "title": "Kī growing wild at Hanawī stream, Maui"
+ },
+ {
+  "creditId": "c-kou-01",
+  "file": "kou-01.webp",
+  "plantSlug": "kou",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-100909-4270-Cordia_subcordata-habit-Waipuilani_Park_Kihei-Maui_(24756693490).jpg",
+  "title": "Kou tree by the ocean in Kīhei, Maui"
+ },
+ {
+  "creditId": "c-kou-02",
+  "file": "kou-02.webp",
+  "plantSlug": "kou",
+  "author": "David Eickhoff",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cordia_subcordata_(4822100731).jpg",
+  "title": "Kou flowers and seeds"
+ },
+ {
+  "creditId": "c-kou-03",
+  "file": "kou-03.webp",
+  "plantSlug": "kou",
+  "author": "Hiart",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calabash_from_Hawaii,_carved_kou_wood,_18th-19th_century,_Honolulu_Museum_of_Art_accession_3061_.JPG",
+  "title": "ʻUmeke carved from kou wood"
+ },
+ {
+  "creditId": "c-kou-04",
+  "file": "kou-04.webp",
+  "plantSlug": "kou",
+  "author": "David Eickhoff",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cordia_subcordata_(4822718744).jpg",
+  "title": "Kou flower close up"
+ },
+ {
+  "creditId": "c-puaa-01",
+  "file": "puaa-01.webp",
+  "plantSlug": "companion-puaa",
+  "author": "dronepicr",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pigs_on_Road_to_Hana_Maui_Hawaii_(45690634462).jpg",
+  "title": "Pigs along the road to Hāna, Maui"
+ },
+ {
+  "creditId": "c-ilio-01",
+  "file": "ilio-01.webp",
+  "plantSlug": "companion-ilio",
+  "author": "Louis Choris",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hawaiian_natives_wearing_kihei,_with_animals,_sketch_by_Louis_Choris.jpg",
+  "title": "Hawaiians with dogs and a pig, sketch by Louis Choris, 1816 or 1817"
+ },
+ {
+  "creditId": "c-moa-01",
+  "file": "moa-01.webp",
+  "plantSlug": "companion-moa",
+  "author": "Frank Schulenburg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Feral_rooster_on_Kaua%CA%BBi.jpg",
+  "title": "Feral rooster on Kauaʻi"
+ },
+ {
+  "creditId": "c-iole-01",
+  "file": "iole-01.webp",
+  "plantSlug": "companion-iole",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-141030-2689-Eucalyptus_globulus-habitat_with_Polynesian_rat_in_parking_lot-Hosmers_Grove_HNP-Maui_(24617566094).jpg",
+  "title": "Polynesian rat at Hosmer Grove, Maui"
+ },
+ {
+  "creditId": "c-stowaways-01",
+  "file": "stowaways-01.webp",
+  "plantSlug": "companion-stowaways",
+  "author": "Donald Hobern",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lepidodactylus_lugubris_(13399422443).jpg",
+  "title": "Mourning gecko in Honolulu"
  }
 ]

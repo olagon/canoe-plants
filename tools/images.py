@@ -71,7 +71,7 @@ def main():
                 print(f"{name}: {entry.get('commonsFile') or entry['downloadUrl']}")
                 url = entry.get("downloadUrl")
                 if entry.get("commonsFile"):
-                    info = commons_info(entry["commonsFile"])
+                    info = commons_info(urllib.parse.unquote(entry["commonsFile"]))  # names may be percent encoded
                     lic = info["extmetadata"].get("LicenseShortName", {}).get("value", "")
                     if not ALLOWED.match(lic):
                         raise RuntimeError(f"license not allowed: {lic!r}")

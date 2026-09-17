@@ -2202,7 +2202,44 @@
    "planting": "Grow from seed. Crack or remove the hard shell first so it sprouts faster. Give it room, because it casts heavy shade.",
    "harvest": "A slow tree that needs years before it flowers. In Hawaiʻi it fruits from April to June and again from October to December."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "kamani-01.webp",
+    "base": "assets/img/plants/kamani/kamani-01",
+    "alt": "A wide kamani tree spreads its glossy dark green branches over a sunny lawn at Kahanu Garden in Hāna, Maui.",
+    "creditId": "c-kamani-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "kamani-02.webp",
+    "base": "assets/img/plants/kamani/kamani-02",
+    "alt": "Round, wrinkled kamani nuts the size of golf balls lie scattered on the ground among dry twigs and needles.",
+    "creditId": "c-kamani-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "kamani-03.webp",
+    "base": "assets/img/plants/kamani/kamani-03",
+    "alt": "Small white kamani flowers with bright yellow centers hang in a cluster in front of shiny green leaves.",
+    "creditId": "c-kamani-03",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "kamani-04.webp",
+    "base": "assets/img/plants/kamani/kamani-04",
+    "alt": "Three brown, wrinkled kamani fruits hang below stiff oval leaves with bright yellow midribs against a blue sky.",
+    "creditId": "c-kamani-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "ntbg",
@@ -2297,7 +2334,53 @@
    "planting": "Nick or sand the seed coat, then plant. Seeds sprout in 2 to 4 weeks. Cuttings also work.",
    "harvest": "Grows fast when young and can flower at about two years. It drops leaves and seed pods all year, so plan for raking."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "milo-01.webp",
+    "base": "assets/img/plants/milo/milo-01",
+    "alt": "A grove of low, rounded milo trees leans together behind the beach at Kanahā, Maui, with the blue ocean showing between the trunks.",
+    "creditId": "c-milo-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "milo-02.webp",
+    "base": "assets/img/plants/milo/milo-02",
+    "alt": "A pale yellow milo flower with crinkled petals and a dark red center opens among heart shaped leaves.",
+    "creditId": "c-milo-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "milo-03.webp",
+    "base": "assets/img/plants/milo/milo-03",
+    "alt": "A low, wide feast bowl turned from milo wood shows swirling bands of dark brown and golden grain.",
+    "creditId": "c-milo-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1018
+   },
+   {
+    "file": "milo-04.webp",
+    "base": "assets/img/plants/milo/milo-04",
+    "alt": "Green, flattened milo seed capsules hang on long stalks among heart shaped leaves with pale veins.",
+    "creditId": "c-milo-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "milo-05.webp",
+    "base": "assets/img/plants/milo/milo-05",
+    "alt": "A single milo tree with a short trunk and a broad, rounded crown of heart shaped leaves grows on a grassy slope.",
+    "creditId": "c-milo-05",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "ctahr",
@@ -2398,7 +2481,53 @@
    "planting": "Plant seeds so the fruit ripens in dry weather. Give the vine a trellis or soft mulch so the gourds do not rot. Hand pollinate the white flowers in the evening.",
    "harvest": "About 6 months, though it can take 3 to 9. Let the gourd mature fully on the vine, then dry it completely before cleaning it out."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "ipu-01.webp",
+    "base": "assets/img/plants/ipu/ipu-01",
+    "alt": "Pale green bottle gourds rest on the ground under a sprawling tangle of ipu vines with big soft leaves on a farm in Kula, Maui.",
+    "creditId": "c-ipu-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ipu-02.webp",
+    "base": "assets/img/plants/ipu/ipu-02",
+    "alt": "A large pale green ipu gourd sits half hidden under broad, fuzzy leaves on the vine.",
+    "creditId": "c-ipu-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ipu-03.webp",
+    "base": "assets/img/plants/ipu/ipu-03",
+    "alt": "An ipu heke, the hula drum made from two polished gourds joined at the neck, lies on white sand with its woven carrying strap.",
+    "creditId": "c-ipu-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ipu-04.webp",
+    "base": "assets/img/plants/ipu/ipu-04",
+    "alt": "An engraving of a drawing John Webber made in 1779 shows a Hawaiian double canoe with a crab claw sail, paddled by men wearing gourd helmets trimmed with leaves and strips of kapa.",
+    "creditId": "c-ipu-04",
+    "role": "culture",
+    "w": 1600,
+    "h": 1004
+   },
+   {
+    "file": "ipu-05.webp",
+    "base": "assets/img/plants/ipu/ipu-05",
+    "alt": "A round brown gourd bowl is covered in bands of triangles, hexagons, and dots, the dyed patterns of an ipu pāwehe.",
+    "creditId": "c-ipu-05",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1323
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "canoeplants-com",
@@ -2508,7 +2637,44 @@
    "planting": "Grows easily from the single big seed inside a ripe fruit. Plant it fresh.",
    "harvest": "Be patient. Trees take 7 to 8 years to fruit, then bloom in spring and fruit in summer and fall."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "ohia-ai-01.webp",
+    "base": "assets/img/plants/ohia-ai/ohia-ai-01",
+    "alt": "Looking up into a mountain apple tree, bright magenta pom pom flowers burst straight from the trunk and branches among big green leaves.",
+    "creditId": "c-ohia-ai-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ohia-ai-02.webp",
+    "base": "assets/img/plants/ohia-ai/ohia-ai-02",
+    "alt": "Shiny red and green mountain apples, shaped like small pears, hang in a bunch beneath a mossy branch.",
+    "creditId": "c-ohia-ai-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ohia-ai-03.webp",
+    "base": "assets/img/plants/ohia-ai/ohia-ai-03",
+    "alt": "Hot pink mountain apple flowers made of hundreds of thin stamens open on a bare branch next to round buds.",
+    "creditId": "c-ohia-ai-03",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ohia-ai-04.webp",
+    "base": "assets/img/plants/ohia-ai/ohia-ai-04",
+    "alt": "A deep red mountain apple sits beside one cut in half, showing crisp white flesh around a single large seed.",
+    "creditId": "c-ohia-ai-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 953
+   }
+  ],
   "sources": [
    "little-skolmen-ohia-ai",
    "bishop-ethnobotany",
@@ -2614,7 +2780,35 @@
    "planting": "Push a branch cutting into the soil. It roots easily, even as a living fence post.",
    "harvest": "Grows fast. Prune hard and plant it far from pipes, sidewalks, and buildings or it becomes a thicket."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "hau-01.webp",
+    "base": "assets/img/plants/hau/hau-01",
+    "alt": "The pale branches of an old hau tree twist and loop like rope under a low roof of leaves beside a beach in Kīhei, Maui.",
+    "creditId": "c-hau-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "hau-02.webp",
+    "base": "assets/img/plants/hau/hau-02",
+    "alt": "A fresh hau flower with five bright yellow petals and a dark maroon center lies on dry brown leaves.",
+    "creditId": "c-hau-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "hau-03.webp",
+    "base": "assets/img/plants/hau/hau-03",
+    "alt": "A fallen hau flower has turned from yellow to dusty orange red, the color it takes on by evening.",
+    "creditId": "c-hau-03",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "little-skolmen-hau",
    "bishop-ethnobotany",
@@ -2701,7 +2895,35 @@
    "planting": "Sow the seeds from the dry pods. It will reseed itself after that.",
    "harvest": "Fast and short lived, about 1 to 2 years. Grow it to look at, never to put in water."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "auhuhu-01.webp",
+    "base": "assets/img/plants/auhuhu/auhuhu-01",
+    "alt": "A low ʻauhuhu shrub on the islet of Mokoliʻi shows feathery leaves made of many small leaflets and thin tan seed pods.",
+    "creditId": "c-auhuhu-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "auhuhu-02.webp",
+    "base": "assets/img/plants/auhuhu/auhuhu-02",
+    "alt": "One small purple pea flower opens on a thin stem of ʻauhuhu above soft gray green leaflets.",
+    "creditId": "c-auhuhu-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1067
+   },
+   {
+    "file": "auhuhu-03.webp",
+    "base": "assets/img/plants/auhuhu/auhuhu-03",
+    "alt": "A bushy, knee high Tephrosia purpurea shrub with many thin upright stems grows alone in a dry, rocky streambed.",
+    "creditId": "c-auhuhu-03",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "primitiveways-fish-toxins",
@@ -2808,7 +3030,53 @@
    "planting": "Cut a piece of stem and plant it standing up or lying flat in the soil. It roots easily.",
    "harvest": "Pick lower leaves as you need them once the plant is leafy. Leave the top to keep growing."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "ki-01.webp",
+    "base": "assets/img/plants/ki/ki-01",
+    "alt": "Sunlight glows through the broad, glossy green leaves of a kī plant at Haleakalā National Park on Maui.",
+    "creditId": "c-ki-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1195
+   },
+   {
+    "file": "ki-02.webp",
+    "base": "assets/img/plants/ki/ki-02",
+    "alt": "Smooth, bright green ti leaves as long as a forearm fan out from the tops of young kī plants in a Maui nursery.",
+    "creditId": "c-ki-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ki-03.webp",
+    "base": "assets/img/plants/ki/ki-03",
+    "alt": "A person sitting on a woven mat holds one end of a ti leaf lei with their toes and twists the green strands into a rope with both hands.",
+    "creditId": "c-ki-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1067
+   },
+   {
+    "file": "ki-04.webp",
+    "base": "assets/img/plants/ki/ki-04",
+    "alt": "An old black and white photo shows a bearded Hawaiian man in a shaggy rain cape of ti leaves carrying two large gourd containers in nets on a shoulder pole.",
+    "creditId": "c-ki-04",
+    "role": "culture",
+    "w": 846,
+    "h": 643
+   },
+   {
+    "file": "ki-05.webp",
+    "base": "assets/img/plants/ki/ki-05",
+    "alt": "Tall green kī plants with tufts of long leaves at the tips of thin stems rise above ferns on a wet Maui hillside.",
+    "creditId": "c-ki-05",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "ntbg",
@@ -2903,7 +3171,44 @@
    "planting": "Grows easily and quickly from seed. Give it room, about 25 to 30 feet tall and wide.",
    "harvest": "A fast shade tree. Pick the orange flowers for lei once it starts to bloom."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "kou-01.webp",
+    "base": "assets/img/plants/kou/kou-01",
+    "alt": "A kou tree with a bent trunk and a wide umbrella of green leaves stands alone on a lawn in front of the blue ocean in Kīhei, Maui.",
+    "creditId": "c-kou-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "kou-02.webp",
+    "base": "assets/img/plants/kou/kou-02",
+    "alt": "Crinkled bright orange kou flowers and buds grow beside a cluster of dry, dark brown seed capsules.",
+    "creditId": "c-kou-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "kou-03.webp",
+    "base": "assets/img/plants/kou/kou-03",
+    "alt": "A deep, round Hawaiian bowl carved from dark and golden kou wood has small butterfly shaped patches where a crack was mended long ago.",
+    "creditId": "c-kou-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1624
+   },
+   {
+    "file": "kou-04.webp",
+    "base": "assets/img/plants/kou/kou-04",
+    "alt": "A ruffled orange kou flower, thin as crepe paper, opens above large green leaves with pale veins.",
+    "creditId": "c-kou-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "burney-2001",
    "little-skolmen-kou",

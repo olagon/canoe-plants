@@ -25,7 +25,17 @@
     "source": "wehewehe"
    }
   ],
-  "images": [],
+  "images": [
+   {
+    "file": "puaa-01.webp",
+    "base": "assets/img/companions/puaa/puaa-01",
+    "alt": "Two dark brown pigs with bristly coats root around on muddy ground scattered with fallen red flowers on Maui.",
+    "creditId": "c-puaa-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
   "sources": [
    "nps-havo-invasive",
    "linderholm-2016",
@@ -59,7 +69,17 @@
     "source": "greig-2018"
    }
   ],
-  "images": [],
+  "images": [
+   {
+    "file": "ilio-01.webp",
+    "base": "assets/img/companions/ilio/ilio-01",
+    "alt": "A simple line sketch from 1816 or 1817 shows Hawaiians in kīhei cloaks under palm trees with a pig and two dogs, and the small dog in the middle may be a Hawaiian poi dog.",
+    "creditId": "c-ilio-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1119
+   }
+  ],
   "sources": [
    "wehewehe",
    "honolulu-magazine-poi-dog",
@@ -92,7 +112,17 @@
     "source": "cerezo-2023"
    }
   ],
-  "images": [],
+  "images": [
+   {
+    "file": "moa-01.webp",
+    "base": "assets/img/companions/moa/moa-01",
+    "alt": "A wild rooster on Kauaʻi with a red comb, orange neck feathers, a black body, and yellow legs stands on a rock in front of tall grass.",
+    "creditId": "c-moa-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1236
+   }
+  ],
   "sources": [
    "thomson-2014",
    "hdoa-ag-history",
@@ -127,7 +157,17 @@
     "source": "wilmshurst-2008"
    }
   ],
-  "images": [],
+  "images": [
+   {
+    "file": "iole-01.webp",
+    "base": "assets/img/companions/iole/iole-01",
+    "alt": "A small, round Polynesian rat with brown fur and long whiskers nibbles seeds on dark gravel at Hosmer Grove on Maui.",
+    "creditId": "c-iole-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "athens-2009",
    "hess-2026",
@@ -162,7 +202,17 @@
     "source": "groom-2019"
    }
   ],
-  "images": [],
+  "images": [
+   {
+    "file": "stowaways-01.webp",
+    "base": "assets/img/companions/stowaways/stowaways-01",
+    "alt": "A small, pale tan mourning gecko with pairs of dark spots down its back clings to a wall in Honolulu.",
+    "creditId": "c-stowaways-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "strohecker-2016",
    "maui-news-2024",
