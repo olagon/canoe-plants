@@ -2,157 +2,547 @@
  {
   "slug": "kalo",
   "nameHaw": "Kalo",
+  "pronunciation": "KAH-loh",
   "nameCommon": "Taro",
   "nameSci": "Colocasia esculenta",
   "family": "Araceae",
   "originRegion": "Southeast Asia and Near Oceania",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The elder sibling of the Hawaiian people",
+  "whyInCanoe": "Kalo was the most important food plant the voyagers carried. It is replanted from huli, the cut top of the plant, so it could travel alive and go straight into wet ground on a new island. Scientists think the first settlers brought only a few kinds, and Hawaiian farmers bred the rest over hundreds of years.",
+  "uses": [
+   {
+    "part": "root",
+    "text": "The corm was steamed in an imu, then pounded with water into poi, the everyday food of old Hawaiʻi."
+   },
+   {
+    "part": "leaf",
+    "text": "The leaves, called lūʻau, were cooked as greens rich in vitamins and calcium."
+   },
+   {
+    "part": "stem",
+    "text": "The cut end of a leaf stalk was pressed on a wound to stop the bleeding."
+   },
+   {
+    "part": "root",
+    "text": "Healers mixed scrapings of raw corm with kō juice and other plants to make medicines."
+   },
+   {
+    "part": "sap",
+    "text": "The sap of certain purple kinds of kalo gave a red dye for kapa."
+   },
+   {
+    "part": "root",
+    "text": "Sticky poi worked as glue for joining pieces of kapa."
+   },
+   {
+    "part": "root",
+    "text": "Cooked kalo was used as bait for ʻōpelu fishing."
+   },
+   {
+    "part": "root",
+    "text": "Special kinds of kalo were offered to the gods in ceremonies."
+   }
+  ],
+  "useTags": [
+   "food",
+   "medicine",
+   "ceremony",
+   "light-dye"
+  ],
+  "partTags": [
+   "root",
+   "leaf",
+   "stem",
+   "sap"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "The word ʻohana, family, comes from ʻohā, the baby shoots that sprout from the side of the parent corm. A family grows the way kalo does.",
+    "source": "cho-2007"
+   },
+   {
+    "text": "Raw kalo stings your mouth and throat. The plant is full of tiny calcium oxalate crystals, so every part has to be cooked well before anyone eats it.",
+    "source": "ctahr-pacific-food-guide"
+   },
+   {
+    "text": "Hawaiians may have had more than 300 names for kinds of kalo, though about half were probably second names for the same plant. When University of Hawaiʻi scientists gathered them up between 1928 and 1935, they found 84 different kinds, and 69 of those were Hawaiian.",
+    "source": "cho-2007"
+   },
+   {
+    "text": "Saving those varieties has been hard. By 1992 only 70 of the 84 were left in the collection on Kauaʻi, and after Hurricane Iniki wild pigs got in and ate 10 more.",
+    "source": "cho-2007"
+   },
+   {
+    "text": "By tradition, when the poi bowl is open nobody argues or talks business at the table. Bishop Museum explains that this was so Hāloa, the kalo, would not be offended.",
+    "source": "bishop-hawaii-alive"
+   },
+   {
+    "text": "Kalo is one of the oldest crops on Earth. Scientists found its starch on stone tools in the Solomon Islands that are about 28,000 years old.",
+    "source": "cho-2007"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "Hāloa, the first kalo",
+   "text": "In Hawaiian tradition, Wākea, the sky father, and Hoʻohōkūkalani had a first child who was stillborn. The baby was named Hāloanakalaukapalili. He was buried in the earth, and his mother watered the spot with her tears. From that place grew the first kalo plant.\n\nTheir second child was a healthy boy. He was named Hāloa after his older brother, and tradition says the Hawaiian people descend from him. So kalo is the elder sibling. The younger sibling cares for the kalo, and the kalo feeds the family in return. Kalo is also honored as a kinolau, a body form, of the god Kāne.",
+   "kinolau": "Kāne"
   },
-  "today": "",
-  "grow": {},
+  "today": "You can buy poi at almost any grocery store in Hawaiʻi, and kalo shows up as chips, bread and laulau greens. Still, farmers planted fewer than 400 acres in 2007, compared with more than 20,000 acres at the peak of old Hawaiʻi. About two thirds of the crop comes from Hanalei on Kauaʻi. Kalo starch has very tiny grains, which makes poi one of the easiest foods to digest.",
+  "grow": {
+   "sun": "Full sun. It grows fastest when planted from April to September.",
+   "water": "Lots of water. Keep the soil wet all the time, or grow it in a flooded loʻi.",
+   "planting": "Plant huli, the leaf stalks with a slice of corm attached, 1 to 2 feet apart.",
+   "harvest": "About 8 to 12 months. Save the huli and the ʻohā to replant."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "cho-2007",
+   "bishop-ethnobotany",
+   "bishop-hawaii-alive",
+   "ctahr-pacific-food-guide",
+   "ulu-coop-kalo-culture",
+   "ulu-coop-upland-kalo",
+   "kawaihapai-haloa",
+   "pvs-ohana",
+   "handy-handy-1972"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "uala",
   "nameHaw": "ʻUala",
+  "pronunciation": "oo-AH-lah",
   "nameCommon": "Sweet potato",
   "nameSci": "Ipomoea batatas",
   "family": "Convolvulaceae",
   "originRegion": "South America",
   "originMapKey": "southamerica",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The potato that crossed from South America",
+  "whyInCanoe": "ʻUala grows fast in dry, rocky places where kalo cannot live. That let people farm the sunny leeward sides of the islands. A Hawaiian proverb says it all. He ʻuala ka ʻai hoʻōla koke i ka wī, the sweet potato is the food that quickly ends a famine.",
+  "uses": [
+   {
+    "part": "root",
+    "text": "The tubers were baked in the imu and eaten every day, and could be mashed into a soft poi."
+   },
+   {
+    "part": "leaf",
+    "text": "Young leaves and shoot tips, called palula, were cooked and eaten as greens."
+   },
+   {
+    "part": "root",
+    "text": "Healers mixed the tuber with kī leaves and water in a medicine for clearing phlegm."
+   },
+   {
+    "part": "root",
+    "text": "ʻUala was the main ingredient in ʻapu, a drink made for women to help them heal after childbirth."
+   },
+   {
+    "part": "root",
+    "text": "Pieces of tuber were used as fishing bait."
+   },
+   {
+    "part": "stem",
+    "text": "The long vines were laid down as a soft cushion under lauhala mats."
+   },
+   {
+    "part": "stem",
+    "text": "Leftover vines and leaves make good food for pigs."
+   }
+  ],
+  "useTags": [
+   "food",
+   "medicine"
+  ],
+  "partTags": [
+   "root",
+   "leaf",
+   "stem"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Sweet potato is from South America, yet Polynesians were growing it long before any European ship reached the Pacific. Its old Polynesian name, kuumala, matches kumara and cumal, words for the plant used by Quechua speakers in South America.",
+    "source": "roullier-2013"
+   },
+   {
+    "text": "In 2013 scientists tested DNA from dried sweet potato plants collected on the first voyage of Captain Cook in 1769. The results backed the idea that Polynesian voyagers sailed to South America and brought the plant home around 1000 to 1100 CE.",
+    "source": "roullier-2013"
+   },
+   {
+    "text": "Not everyone agrees. A 2018 study argued that sweet potato is so ancient it could have drifted to Polynesia on its own, as seeds carried by birds, wind or currents, long before people arrived.",
+    "source": "munoz-rodriguez-2018"
+   },
+   {
+    "text": "Then in 2020 a study of human DNA found that some eastern Polynesians have Native American ancestors from a meeting around 1200 CE. So the voyagers and the people of South America really did meet.",
+    "source": "ioannidis-2020"
+   },
+   {
+    "text": "On the dry slopes of Kohala on Hawaiʻi Island, farmers built a field system covering more than 60 square kilometers. It ran on rain alone, and ʻuala was its main crop.",
+    "source": "marshall-2017"
+   },
+   {
+    "text": "Hawaiian farmers developed more than 240 kinds of ʻuala. Only about 24 Hawaiian varieties are left today.",
+    "source": "kawaiola-hughes-2020"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "The food of Lono",
+   "text": "In Hawaiian tradition, ʻuala belongs to Lono, the god of rain and farming. One tradition says Lono came to Hawaiʻi after the other great gods and brought ʻuala with him, along with the ipu and the pig. ʻUala is counted as one of his kinolau, his body forms.\n\nTradition also names Kamapuaʻa, the pig god, and Kānepuaʻa as guardians of the ʻuala patch. Kamapuaʻa is himself called a form of Lono.",
+   "kinolau": "Lono"
   },
-  "today": "",
-  "grow": {},
+  "today": "The purple Okinawan sweet potato is now the most popular kind grown on Hawaiʻi farms, and you will find it in plate lunches, pies and chips. At Puanui in Kohala, a community group has been bringing part of the old field system back to life, and thousands of students have visited to plant and learn. Gardens such as the National Tropical Botanical Garden keep the rare Hawaiian varieties growing.",
+  "grow": {
+   "sun": "At least 6 hours of direct sun a day.",
+   "water": "Much less than kalo. It can make a crop on 20 to 50 inches of rain.",
+   "planting": "Cut vine tips 7 to 8 inches long and plant them 10 to 12 inches apart in mounds called puʻe.",
+   "harvest": "About 4 to 6 months after planting."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "roullier-2013",
+   "denham-2013",
+   "calacademy-2013",
+   "munoz-rodriguez-2018",
+   "ioannidis-2020",
+   "smithsonian-ssec-2020",
+   "marshall-2017",
+   "kawaiola-hughes-2020",
+   "ntbg-uala",
+   "ulu-coop-uala",
+   "kumukahi-lono",
+   "bishop-ethnobotany"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "ulu",
   "nameHaw": "ʻUlu",
+  "pronunciation": "OO-loo",
   "nameCommon": "Breadfruit",
   "nameSci": "Artocarpus altilis",
   "family": "Moraceae",
   "originRegion": "New Guinea and Melanesia",
   "originMapKey": "newguinea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "A seedless tree carried as cuttings",
+  "whyInCanoe": "One ʻulu tree can feed a family for many decades with almost no work. But Polynesian ʻulu has no seeds, so voyagers had to dig up living root shoots and keep them alive across the open ocean. Along with food, the tree gave them wood, glue and cloth.",
+  "uses": [
+   {
+    "part": "fruit",
+    "text": "The starchy fruit was baked in the imu and eaten, or pounded into poi ʻulu."
+   },
+   {
+    "part": "wood",
+    "text": "The light wood was carved into pahu drums, surfboards, poi pounding boards and canoe parts."
+   },
+   {
+    "part": "sap",
+    "text": "The sticky white sap sealed the seams of canoes."
+   },
+   {
+    "part": "sap",
+    "text": "Bird catchers smeared the sap on branches to trap birds for their feathers."
+   },
+   {
+    "part": "sap",
+    "text": "The sap was the glue that joined two gourds into an ipu heke, the hula drum."
+   },
+   {
+    "part": "bark",
+    "text": "The inner bark could be beaten into a rough kind of kapa."
+   },
+   {
+    "part": "leaf",
+    "text": "The rough leaves were used like sandpaper and were placed on hula altars."
+   },
+   {
+    "part": "flower",
+    "text": "The male flowers gave a yellow brown dye."
+   }
+  ],
+  "useTags": [
+   "food",
+   "wood-tools",
+   "cloth-cordage",
+   "light-dye"
+  ],
+  "partTags": [
+   "fruit",
+   "wood",
+   "sap",
+   "bark",
+   "leaf",
+   "flower"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "You cannot plant Polynesian ʻulu from a seed because the fruit has none. Every tree is grown from a shoot that sprouts off the roots of an older tree, which is how voyagers carried it from island to island.",
+    "source": "ragone-2006"
+   },
+   {
+    "text": "An average tree gives 150 to 200 fruits a year, and some give more than 700. A single fruit can weigh up to 13 pounds.",
+    "source": "ragone-2006"
+   },
+   {
+    "text": "The famous mutiny on the Bounty in 1789 happened on a trip to carry breadfruit from Tahiti to the Caribbean. Captain Bligh went back on another ship and delivered the trees in 1793, and DNA shows that Caribbean breadfruit still descends from them.",
+    "source": "northwestern-2023"
+   },
+   {
+    "text": "The biggest breadfruit collection in the world is in Hawaiʻi. The National Tropical Botanical Garden cares for about 150 varieties from 34 Pacific islands, mostly at Kahanu Garden on Maui.",
+    "source": "ntbg-breadfruit"
+   },
+   {
+    "text": "Above the Kona coast there was once a band of ʻulu trees called the kaluʻulu. It is said to have covered about 10 square miles, and one estimate is that it gave 33 million pounds of food a year.",
+    "source": "ulu-coop-ulu-history"
+   },
+   {
+    "text": "The first disks for ʻulu maika, a Hawaiian rolling game, were slices cut from young breadfruit. Stone disks came later and kept the name.",
+    "source": "bishop-ethnobotany"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "The gift of Kū",
+   "text": "In Hawaiian tradition, the god Kū once lived as a man. He married a woman of Hawaiʻi, farmed the land and raised a family. Then a terrible famine came. Kū told his wife he could feed the children, but only by leaving them. He sank into the ground and was gone. She wept over the spot, and from it a green shoot rose. It grew into the first ʻulu tree, heavy with fruit.\n\nThe story says that when neighbors tried to grab the fruit for themselves, the tree pulled back into the earth. So the family dug up the small shoots around the trunk and gave one to every household. That is how ʻulu spread, as a gift meant to be shared. ʻUlu is a kinolau, a body form, of Kū.",
+   "kinolau": "Kū"
   },
-  "today": "",
-  "grow": {},
+  "today": "ʻUlu is making a comeback. Farmers in the Hawaiʻi ʻUlu Cooperative grow it for school lunches, stores and restaurants, and it is sold as chips and other foods. In Kona, growers are replanting part of the old kaluʻulu. Growers say 1 or 2 full grown trees can supply all the starch one adult needs.",
+  "grow": {
+   "sun": "Full sun for big trees. Young trees like a little shade.",
+   "water": "Water often until it is settled in. Older trees handle a few dry months but need soil that drains well.",
+   "planting": "Start from a root shoot or a piece of root raised in a pot, and give the tree about 40 feet of room.",
+   "harvest": "First fruit in 3 to 5 years. The main crop comes in summer, then the tree gives for decades."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "ragone-2006",
+   "ntbg-breadfruit",
+   "northwestern-2023",
+   "ulu-coop-ulu-history",
+   "ulu-coop-ku-story",
+   "ulu-coop-ulu-primer",
+   "duff-2021",
+   "pvs-canoe-plants",
+   "bishop-ethnobotany"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "niu",
   "nameHaw": "Niu",
+  "pronunciation": "NEE-oo",
   "nameCommon": "Coconut",
   "nameSci": "Cocos nucifera",
   "family": "Arecaceae",
   "originRegion": "Indo Pacific",
   "originMapKey": "indopacific",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The rope that held canoes together",
+  "whyInCanoe": "A coconut is a sealed jar of clean water and rich food, perfect for a long voyage. Once planted, the palm gave rope, cups, thatch, oil and drums. Coconuts can float to new islands by themselves, but voyagers did not leave it to luck. They packed their best kinds.",
+  "uses": [
+   {
+    "part": "fruit",
+    "text": "Fiber from the husk was twisted and braided into ʻaha, the strong cord that lashed canoes, houses and tools together."
+   },
+   {
+    "part": "seed",
+    "text": "The white meat was eaten with poi and went into sweets like kūlolo and haupia."
+   },
+   {
+    "part": "seed",
+    "text": "The water inside a young nut was a clean, safe drink."
+   },
+   {
+    "part": "seed",
+    "text": "Oil from the meat was rubbed on skin and hair, and the meat, oil and water all went into medicines."
+   },
+   {
+    "part": "seed",
+    "text": "The hard shells became ʻawa cups, bowls, spoons and the small knee drum called the pūniu."
+   },
+   {
+    "part": "wood",
+    "text": "Trunks were hollowed into pahu, the tall drums of hula, and cut for house posts and small canoes."
+   },
+   {
+    "part": "leaf",
+    "text": "The leaves were woven into baskets, fans and thatch."
+   },
+   {
+    "part": "leaf",
+    "text": "The stiff rib of a leaflet was the skewer that held a string of burning kukui nuts."
+   }
+  ],
+  "useTags": [
+   "food",
+   "cloth-cordage",
+   "wood-tools",
+   "medicine",
+   "ceremony"
+  ],
+  "partTags": [
+   "fruit",
+   "seed",
+   "wood",
+   "leaf"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Old voyaging canoes had no nails at all. Every part was tied together with ʻaha, cord made from coconut husk fiber.",
+    "source": "pvs-canoe-plants"
+   },
+   {
+    "text": "A coconut can ride ocean currents for a long way and still sprout when it washes ashore. The thick husk is light and full of air, like a built in life jacket.",
+    "source": "ntbg-cocos"
+   },
+   {
+    "text": "Look at the end of a husked coconut and you will see three eyes. When the seed wakes up, the sprout pushes out through just one of them.",
+    "source": "ntbg-cocos"
+   },
+   {
+    "text": "Under the old ʻai kapu, the rules about sacred eating, women were forbidden to eat coconut. That ended in 1819, when Kamehameha II sat down and ate with the women of his court.",
+    "source": "hawaii-sea-grant-limu"
+   },
+   {
+    "text": "Coconut DNA shows that people tamed the palm twice, once in the islands of Southeast Asia and once near India. The Pacific kind traveled with ocean voyagers as far as Madagascar.",
+    "source": "gunn-2011"
+   },
+   {
+    "text": "Hawaiians kept two main kinds of niu. Niu hiwa, with a dark green husk and black shell, was for ceremony, medicine and cooking. Niu lelo, with a reddish yellow husk, was for everyday use.",
+    "source": "bishop-ethnobotany"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "Niuolahiki, the coconut that reached Kahiki",
+   "text": "In Hawaiian tradition there is an ancestor named Niuolahiki who could take the form of a coconut tree. The name is explained as the life giving coconut of Kahiki, or the far traveling coconut. In one story a boy in Hawaiʻi longs to reach family in Kahiki, the far off homeland across the sea.\n\nHis elders call on Niuolahiki with a chant. A coconut sprouts, and the boy climbs up and holds on tight. As the chant goes on, the tree grows and stretches out over the ocean until its crown bends down and sets him gently on the shore of Kahiki. Niu is also known as a kinolau, a body form, of the god Kū.",
+   "kinolau": "Kū"
   },
-  "today": "",
-  "grow": {},
+  "today": "Niu still means Hawaiʻi to people all over the world. Coconut water, coconut milk and haupia are everyday foods. The palms now face a serious pest, the coconut rhinoceros beetle, which bores into the crown and can kill the tree. Community groups are working to protect niu and to plant more of it as a food tree again.",
+  "grow": {
+   "sun": "Full sun all day.",
+   "water": "About an inch of water a week for the first year.",
+   "planting": "Lay a sprouting nut on its side and bury it, leaving the top third showing. Keep it away from paths, because nuts fall.",
+   "harvest": "Flowers come after 4 to 6 years, and each nut takes about a year to ripen."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "pvs-canoe-plants",
+   "ntbg-cocos",
+   "hawaii-sea-grant-limu",
+   "gunn-2011",
+   "washu-2011",
+   "aha-punana-leo-niuolahiki",
+   "beckwith-1940",
+   "uf-ifas-coconut",
+   "ulu-coop-niu"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "maia",
   "nameHaw": "Maiʻa",
+  "pronunciation": "MY-ah",
   "nameCommon": "Banana",
   "nameSci": "Musa species (Musa acuminata × balbisiana hybrids)",
   "family": "Musaceae",
   "originRegion": "Southeast Asia and New Guinea",
   "originMapKey": "newguinea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The giant herb that fruits once",
+  "whyInCanoe": "Maiʻa gives sweet, filling food in about a year and then keeps going, because new shoots rise beside every old stalk. Most Hawaiian kinds were starchy bananas meant for cooking. The plants make no seeds, so voyagers carried living shoots and corms.",
+  "uses": [
+   {
+    "part": "fruit",
+    "text": "The fruit was eaten ripe or cooked, and some kinds were steamed in the imu and pounded into a poi."
+   },
+   {
+    "part": "leaf",
+    "text": "The big leaves wrapped food for cooking and served as plates."
+   },
+   {
+    "part": "stem",
+    "text": "Juicy chopped stalks lined the imu to make steam."
+   },
+   {
+    "part": "stem",
+    "text": "Whole stalks were laid on the ground as rollers for moving heavy canoes."
+   },
+   {
+    "part": "stem",
+    "text": "A banana stalk stood on the hula altar, and the plant was offered at heiau."
+   },
+   {
+    "part": "sap",
+    "text": "The sap was used as a dye."
+   },
+   {
+    "part": "flower",
+    "text": "Sweet nectar from the flowers was fed to babies."
+   },
+   {
+    "part": "leaf",
+    "text": "Dried leaves were burned, and the ash was eaten with poi to treat heartburn."
+   }
+  ],
+  "useTags": [
+   "food",
+   "ceremony",
+   "medicine",
+   "light-dye"
+  ],
+  "partTags": [
+   "fruit",
+   "leaf",
+   "stem",
+   "sap",
+   "flower"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "A banana plant is not a tree. It is a giant herb, and its trunk is really a tight roll of leaf bases that can be 9 feet long.",
+    "source": "huggins-1990"
+   },
+   {
+    "text": "Each stalk fruits just once. After the bunch is cut the stalk is finished, and a young shoot called a keiki takes over.",
+    "source": "huggins-1990"
+   },
+   {
+    "text": "Under the old kapu, women were forbidden to eat most bananas. Bishop Museum lists only three kinds they were allowed, pōpōʻulu, iholena and kaualau.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "By tradition bananas could bring bad luck. The Hawaiian dictionary says it was unlucky to dream of bananas, to meet a man carrying them, or to take them along in a fishing canoe.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "Pacific bananas make no seeds, so every plant is a copy of its parent. Scientists say these copies have been handed down from grower to grower for hundreds, even thousands, of years, starting near New Guinea.",
+    "source": "kagy-2016"
+   },
+   {
+    "text": "Nobody is sure how many kinds Hawaiians once grew. One University of Hawaiʻi library guide says more than 70. Bishop Museum says nearly 20 are left, in three groups called maoli, pōpōʻulu and iholena.",
+    "source": "bishop-ethnobotany"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "The plant of Kanaloa",
+   "text": "In Hawaiian tradition, maiʻa is a kinolau, a body form, of Kanaloa, the god tied to the deep ocean. Because the plant was sacred to him, a set of kapu surrounded it. That is the reason tradition gives for why most kinds of banana were forbidden to women until the kapu ended in 1819.\n\nOld stories also tell of the gods Kāne and Kanaloa traveling through the islands together. One tradition says they lived for a time at Alakahi, high in Waipiʻo valley on Hawaiʻi Island, where they farmed bananas and lived a simple life.",
+   "kinolau": "Kanaloa"
   },
-  "today": "",
-  "grow": {},
+  "today": "Most bananas grown in Hawaiʻi now are newer arrivals like Cavendish and the Brazilian, which people here call apple banana. The old Hawaiian kinds are rare. Kahanu Garden on Maui keeps more than 30 varieties of maiʻa alive. A disease called banana bunchy top virus, first found on Oʻahu in 1989, is one big reason they need protecting.",
+  "grow": {
+   "sun": "Full sun, in a spot sheltered from strong wind.",
+   "water": "Plenty. Bananas love rain, but the soil has to drain well.",
+   "planting": "Plant a keiki, a young shoot cut from the base of a healthy plant, or a piece of corm.",
+   "harvest": "About 11 to 15 months. Cut the old stalk down after harvest and let a keiki take its place."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "huggins-1990",
+   "wehewehe",
+   "kagy-2016",
+   "kcc-ahupuaa-food",
+   "ntbg-maia",
+   "beckwith-1940",
+   "hawaii-sea-grant-limu"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "ko",
@@ -658,188 +1048,556 @@
  {
   "slug": "ohe",
   "nameHaw": "ʻOhe",
+  "pronunciation": "OH-heh",
   "nameCommon": "Polynesian bamboo",
   "nameSci": "Schizostachyum glaucifolium",
   "family": "Poaceae",
   "originRegion": "Melanesia and Polynesia",
   "originMapKey": "newguinea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The flute you play with your nose",
+  "whyInCanoe": "A clump of ʻohe is a whole tool shed growing in one spot. One plant gave voyagers knives, fishing poles, water containers, house parts and musical instruments. It grows from a piece of the clump, so a small start could become a grove on a new island.",
+  "uses": [
+   {
+    "part": "stem",
+    "text": "A thin piece of stem became the ʻohe hano ihu, a flute played with breath from the nose."
+   },
+   {
+    "part": "stem",
+    "text": "Tubes of different lengths, called kāʻekeʻeke, were tapped on the ground to make music for hula."
+   },
+   {
+    "part": "stem",
+    "text": "A length of ʻohe split into thin strips at one end became the pūʻili, a rattle used by hula dancers."
+   },
+   {
+    "part": "stem",
+    "text": "Strips were carved into ʻohe kāpala, the stamps that printed patterns onto kapa."
+   },
+   {
+    "part": "stem",
+    "text": "Long straight poles were used to fish for aku."
+   },
+   {
+    "part": "stem",
+    "text": "Sharp splinters of ʻohe served as knives before metal arrived."
+   },
+   {
+    "part": "stem",
+    "text": "Hollow sections held water, and whole stems went into house frames."
+   },
+   {
+    "part": "stem",
+    "text": "Healers mixed the ashes of burned ʻohe into remedies for sores."
+   }
+  ],
+  "useTags": [
+   "wood-tools",
+   "cloth-cordage",
+   "ceremony",
+   "medicine"
+  ],
+  "partTags": [
+   "stem"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "The ʻohe hano ihu is played with your nose. You gently close one nostril and breathe across the hole with the other, the way you would blow across the top of a bottle.",
+    "source": "keola-nose-flute"
+   },
+   {
+    "text": "The nose flute is known as a sweetheart instrument. Its sound is soft on purpose, made for one special listener and not for a crowd.",
+    "source": "kaahele-hula-implements"
+   },
+   {
+    "text": "In a ceremony David Malo described for the birth of a high chief, the kahuna split a piece of ʻohe between his teeth to get a fresh sharp edge. He used that edge to cut the piko of the baby, the umbilical cord.",
+    "source": "malo-1903"
+   },
+   {
+    "text": "Kāʻekeʻeke pipes ran from about 1 foot to 3 feet long. A player held one in each hand and tapped them down on a mat or the ground. Longer pipes gave deeper notes.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "ʻOhe kāpala means printing bamboo. Kapa makers carved tiny patterns into bamboo strips, dipped them in dye and stamped them onto cloth, line after line.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "This bamboo can reach about 40 feet tall, yet its stems are only about 3 inches wide with very thin walls and long spaces between the joints. That shape is handy for flutes, pipes and stamps.",
+    "source": "ntbg"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "The bamboo of Kāne",
+   "text": "In Hawaiian tradition ʻohe is a kinolau, a body form, of the god Kāne. Kāne is linked with fresh water and with life itself, and ʻohe loves wet valleys and stream banks. An old prayer written down by David Malo in the 1800s calls the plant the small-leafed bamboo of Kāne. In the same book Malo tells how a kahuna used a freshly split piece of ʻohe to cut the cord of a newborn chief while prayers were chanted.\n\nTradition also gives ʻohe a gentler job. A young man would make his own nose flute and play his own little tune near the home of the girl he liked. If she liked him back, she would remember the sound of his melody. The flute was never meant to be loud. It was meant for one person.",
+   "kinolau": "Kāne"
   },
-  "today": "",
-  "grow": {},
+  "today": "Hula dancers still use pūʻili and kāʻekeʻeke made from ʻohe. Kapa makers are carving ʻohe kāpala again, and flute makers teach people to play the ʻohe hano ihu. The plant still grows in clumps along streams in wet valleys. Hawaiʻi weed experts rate it a low risk plant because it stays in its clump and does not run.",
+  "grow": {
+   "sun": "Full sun to part sun in a warm, humid, low elevation spot.",
+   "water": "Regular water and soil that drains well. It does not like salt spray.",
+   "planting": "Plant a division from an existing clump and give it room. It can spread about 20 feet wide.",
+   "harvest": "Cut only older, hardened stems at the base and leave the young shoots to keep the clump going."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "wehewehe",
+   "ntbg",
+   "malo-1903",
+   "keola-nose-flute",
+   "kaahele-hula-implements",
+   "plant-pono",
+   "st-john-jendrusch-1980"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "olena",
   "nameHaw": "ʻŌlena",
+  "pronunciation": "oh-LEH-nah",
   "nameCommon": "Turmeric",
   "nameSci": "Curcuma longa",
   "family": "Zingiberaceae",
   "originRegion": "South Asia and Southeast Asia",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "Gold that sleeps underground",
+  "whyInCanoe": "ʻŌlena was packed for color, healing and ceremony, not for filling stomachs. Its orange rhizome gave a strong yellow dye, a medicine for ears and noses, and the gold tint in water used to purify people and places. A few knobby pieces of rhizome were all it took to start a patch.",
+  "uses": [
+   {
+    "part": "root",
+    "text": "The rhizome was a favorite source of yellow dye for kapa, from pale yellow to gold to mustard."
+   },
+   {
+    "part": "root",
+    "text": "A kahuna mixed ʻōlena into sea water and sprinkled it to purify people after a death."
+   },
+   {
+    "part": "root",
+    "text": "Juice from the rhizome was used for earaches."
+   },
+   {
+    "part": "root",
+    "text": "Healers mixed the rhizome with other plants to treat stuffed up noses and sore throats."
+   },
+   {
+    "part": "root",
+    "text": "Coconut oil mixed with ʻōlena gave the malo of an aliʻi a sweet smell and a yellow tint."
+   }
+  ],
+  "useTags": [
+   "medicine",
+   "light-dye",
+   "ceremony"
+  ],
+  "partTags": [
+   "root"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "The name tells you the color. In Hawaiian, ʻōlena also means yellow, the same as the word lena.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "One thumb sized rhizome could make many shades. Kapa makers got colors from bright canary yellow to deep mustard out of the same plant.",
+    "source": "maui-magazine-olena"
+   },
+   {
+    "text": "David Malo wrote that after a death, a temple kahuna brought a dish of sea water with limu kala and ʻōlena in it. He prayed, then sprinkled the gold water over everyone to lift the kapu of death.",
+    "source": "malo-1903"
+   },
+   {
+    "text": "Not everyone could wear ʻōlena yellow. Malo wrote that some fishing gods forbade turmeric, so families who followed those gods kept it off their clothing and away from their fishing gear.",
+    "source": "malo-1903"
+   },
+   {
+    "text": "ʻŌlena rarely flowers to make seed. New plants come from pieces of rhizome, which is just how the voyagers carried it.",
+    "source": "uh-hilo-olena-2018"
+   },
+   {
+    "text": "Every winter the leaves die and the plant seems to vanish. It is only resting underground, and it pushes up new leaves in spring.",
+    "source": "uh-hilo-olena-2018"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "Pī kai, the cleansing sprinkle",
+   "text": "This is a customary practice, not a story. In Hawaiian tradition, pī kai means to sprinkle sea water or salted water to purify a person or a place and remove kapu. ʻŌlena was often part of that water. People believed the plant carried mana, spiritual power, and its gold color showed in the bowl.\n\nDavid Malo described the ceremony in the 1800s. The people sat in a row. A kahuna stood before them with a dish of sea water that held limu kala and ʻōlena. He prayed, the people answered, and then he sprinkled the water over all of them. In the practice as it is often described today, a kī leaf is dipped in the bowl and used to sprinkle the blessing. Forms of pī kai are still done in Hawaiʻi at blessings of homes, canoes and new buildings.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "ʻŌlena is the same species as the turmeric in curry powder. India grows nearly all of the world supply. In Hawaiʻi it is sold fresh at farmers markets, and University of Hawaiʻi researchers test which varieties grow best here. Kapa makers and hula dancers still dye cloth with it.",
+  "grow": {
+   "sun": "Open shade to full sun in a cooler spot, in rich soil that drains well.",
+   "water": "Keep the soil moist but never soggy while the leaves are up. Add compost and mulch.",
+   "planting": "Plant a sprouted piece of rhizome in spring under about half an inch of soil.",
+   "harvest": "Dig the rhizomes in 6 months to a year, when the leaves die back in winter. Mark the spot so you do not lose it."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "abbott-1992",
+   "krauss-1993",
+   "wehewehe",
+   "malo-1903",
+   "maui-magazine-olena",
+   "uh-hilo-olena-2018",
+   "ntbg",
+   "west-hawaii-today-olena-2025"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "awapuhi",
   "nameHaw": "ʻAwapuhi",
+  "pronunciation": "ah-vah-POO-hee",
   "nameCommon": "Shampoo ginger",
   "nameSci": "Zingiber zerumbet",
   "family": "Zingiberaceae",
   "originRegion": "South Asia and Southeast Asia",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "Squeeze the cone, get shampoo",
+  "whyInCanoe": "ʻAwapuhi was the bath kit of the voyagers and part of their medicine chest. Its cones gave a slippery shampoo, its rhizome eased aches and scented kapa, and its leaves flavored food in the imu. It travels well as a chunk of rhizome and settles happily into damp, shady forest.",
+  "uses": [
+   {
+    "part": "flower",
+    "text": "The clear, sudsy liquid squeezed from the ripe flower head was used as shampoo and hair conditioner."
+   },
+   {
+    "part": "flower",
+    "text": "The same juice could be drunk to quench thirst in the forest."
+   },
+   {
+    "part": "root",
+    "text": "The rhizome was dried, pounded to powder and tucked into folded kapa to scent it."
+   },
+   {
+    "part": "root",
+    "text": "The rhizome was mashed with salt and rubbed on the head to ease a headache."
+   },
+   {
+    "part": "root",
+    "text": "Cooked, softened rhizome was pressed into a sore tooth."
+   },
+   {
+    "part": "root",
+    "text": "Ground rhizome mixed with water was drunk for a stomachache."
+   },
+   {
+    "part": "leaf",
+    "text": "Leaves and leaf stalks were laid in the imu to flavor pork and fish."
+   }
+  ],
+  "useTags": [
+   "medicine",
+   "food",
+   "ceremony"
+  ],
+  "partTags": [
+   "flower",
+   "root",
+   "leaf"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "The flower head looks like a green pine cone. As summer goes on it turns bright red and fills with a slimy, sweet smelling liquid. Squeeze it and out comes ready made shampoo.",
+    "source": "ntbg"
+   },
+   {
+    "text": "Hawaiian women squeezed the juice straight into their hair while bathing at forest pools. It softens hair and makes it shine.",
+    "source": "ntbg"
+   },
+   {
+    "text": "A famous hair care company started its own ʻawapuhi farm at Paʻauilo on Hawaiʻi Island in 1983. The farm is off the grid. It runs on solar power and collected rain.",
+    "source": "paul-mitchell-awapuhi"
+   },
+   {
+    "text": "Stored kapa smelled good because of this plant. People pounded the dried rhizome into powder and tucked it into the folds of the cloth.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "Cooks used ʻawapuhi like a seasoning. Leaves and leaf stalks went into the imu with pork and fish to add flavor.",
+    "source": "ntbg"
+   },
+   {
+    "text": "The plant plays hide and seek. Its leaves yellow and die back every winter, and new shoots pop up in spring.",
+    "source": "plant-pono"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
-   "kinolau": ""
+   "title": "Ginger leaves yellow quickly",
+   "text": "No long moʻolelo about ʻawapuhi is recorded in the sources we checked. What has been passed down is a saying. Mary Kawena Pukui collected this ʻōlelo noʻeau, a wise saying, about the plant. ʻAwapuhi lau pala wale. Ginger leaves yellow quickly. People said it about a weakling who withers easily, or about anything that passes too soon. Anyone who has watched a green patch of ʻawapuhi turn yellow and vanish in winter knows where the saying comes from.\n\nTradition also ties the plant to the sacred side of life. ʻAwapuhi is said to be one of the kinolau, the body forms, of the god Kāne. Pukui noted that it was sometimes placed on the kuahu, the altar in a hula school.",
+   "kinolau": "Kāne"
   },
-  "today": "",
-  "grow": {},
+  "today": "ʻAwapuhi grows wild in damp, shady forest, and hikers still squeeze the red cones on the trail. The name is on shampoo bottles sold around the world. It is also an easy garden plant, and Hawaiʻi weed experts rate it a low risk. The full name ʻawapuhi kuahiwi, mountain ginger, sets it apart from the showy gingers that arrived much later.",
+  "grow": {
+   "sun": "Part sun to full shade. It is happiest in a shady corner.",
+   "water": "Regular water in rich, moist soil full of compost.",
+   "planting": "Plant a piece of rhizome with a bud on it. It spreads fast, so give it space.",
+   "harvest": "Squeeze the cones in late summer when they turn red. Leaves die back in winter and return in spring."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "abbott-1992",
+   "ntbg",
+   "wehewehe",
+   "plant-pono",
+   "paul-mitchell-awapuhi"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "uhi",
   "nameHaw": "Uhi",
+  "pronunciation": "OO-hee",
   "nameCommon": "Greater yam",
   "nameSci": "Dioscorea alata",
   "family": "Dioscoreaceae",
   "originRegion": "Southeast Asia",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The food that would not spoil",
+  "whyInCanoe": "A raw uhi tuber can sit for months without rotting, and few foods in the canoe could do that. Voyagers could eat some on the way and plant the rest when they landed. A piece of the tuber itself is the planting material, so food and seed were the same thing.",
+  "uses": [
+   {
+    "part": "root",
+    "text": "Tubers were baked in the imu or roasted and eaten while still warm."
+   },
+   {
+    "part": "root",
+    "text": "Uhi was not pounded into poi because the cooked flesh is too mealy to make a good paste."
+   },
+   {
+    "part": "root",
+    "text": "Raw yam juice was given as a drink to people sick with fever."
+   },
+   {
+    "part": "root",
+    "text": "Pieces of the tuber were saved and replanted to start the next crop."
+   },
+   {
+    "part": "root",
+    "text": "After Western ships arrived, Hawaiians grew uhi in large fields to sell as food for long voyages."
+   }
+  ],
+  "useTags": [
+   "food",
+   "medicine"
+  ],
+  "partTags": [
+   "root"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Nobody has ever found uhi growing truly wild. Scientists think every plant on Earth is a clone, grown from a piece of another plant, in a chain that goes back thousands of years.",
+    "source": "sharif-2020"
+   },
+   {
+    "text": "Uhi tubers often weigh 11 to 22 pounds each, and rare giants reach about 130 pounds. People once said the yams of Niʻihau were so heavy that a horse could carry only two.",
+    "source": "useful-tropical-plants-alata"
+   },
+   {
+    "text": "David Malo wrote that uhi does not soon spoil if it is uncooked. Whaling crews loved Niʻihau yams for that reason. They lasted longer at sea than ʻuala or kalo.",
+    "source": "niihau-heritage"
+   },
+   {
+    "text": "When the ships of Captain Cook stopped at Niʻihau in 1778, the people there traded yams and salt for pieces of iron.",
+    "source": "american-heritage-niihau"
+   },
+   {
+    "text": "In 1810 Kamehameha the Great had a huge yam field planted to supply visiting ships. It covered what is now the middle of downtown Honolulu, between Beretania, King, Nuʻuanu and Alakea streets.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "You can name this yam by its stem. Uhi has a square stem with four thin wings, and it always twines up its pole to the right.",
+    "source": "wilson-1988"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "The yam field under downtown Honolulu",
+   "text": "No well known moʻolelo about uhi is recorded in the sources we checked, so here is a piece of history that is remembered about the plant. It is history, not legend.\n\nBy 1810, foreign ships were stopping in Honolulu more and more often, and every ship needed food that would last for months at sea. Bishop Museum records that Kamehameha the Great had a large field of uhi planted in that year to supply them. The field lay in the area now bounded by Beretania, King, Nuʻuanu and Alakea streets. Today that land is the center of a city. Office towers stand where yam vines once climbed.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "Uhi is rare on Hawaiʻi tables now, but it still survives in old farming areas long after the farmers left. Across the Pacific it is a food of honor in places like Tonga, Fiji, Samoa and Papua New Guinea. The purple kind is known as ube, the yam that colors Filipino desserts.",
+  "grow": {
+   "sun": "Full sun, with a strong trellis, fence or pole for the vine to climb.",
+   "water": "Water well while the vine is growing. Ease off when the leaves start to yellow.",
+   "planting": "Plant a piece of tuber with a bud in a mound of loose, deep soil that drains well.",
+   "harvest": "Dig carefully after 7 to 10 months, when the vine dies back."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "handy-handy-1972",
+   "malo-1903",
+   "wehewehe",
+   "sharif-2020",
+   "useful-tropical-plants-alata",
+   "niihau-heritage",
+   "american-heritage-niihau",
+   "images-old-hawaii-honolulu-1810",
+   "wilson-1988",
+   "uh-manoa-pacific-crops-yam"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "pia-five-leaf-yam",
   "nameHaw": "Piʻa",
+  "pronunciation": "PEE-ah",
   "nameCommon": "Five leaf yam",
   "nameSci": "Dioscorea pentaphylla",
   "family": "Dioscoreaceae",
   "originRegion": "South and Southeast Asia",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "The backup yam in the forest",
+  "whyInCanoe": "Piʻa was insurance. It could be left to grow by itself in a wet valley and dug up when the main crops failed. A plant that feeds you with almost no work is worth a little space in the canoe.",
+  "uses": [
+   {
+    "part": "root",
+    "text": "The underground tubers were baked in the imu and eaten."
+   },
+   {
+    "part": "root",
+    "text": "In hard times, when kalo and ʻuala ran short, people dug wild piʻa from the valleys."
+   },
+   {
+    "part": "stem",
+    "text": "The small aerial tubers that grow along the vine are edible too once they are cooked."
+   }
+  ],
+  "useTags": [
+   "food"
+  ],
+  "partTags": [
+   "root",
+   "stem"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "One tiny mark changes the plant. Piʻa with an ʻokina is this yam. Pia without one is Polynesian arrowroot, a totally different plant. One old word list says the flesh of piʻa is pure white like the arrowroot, which may explain the matching names.",
+    "source": "kent-1986"
+   },
+   {
+    "text": "Its leaves look like little hands. Each leaf is split into 3 to 7 leaflets, and a vine always has some leaves with exactly 5.",
+    "source": "wilson-1988"
+   },
+   {
+    "text": "Sources do not agree about how good it was. David Malo wrote that piʻa was a good and satisfying food, a bit like sweet potato when cooked. Later writers list it only as a famine food.",
+    "source": "malo-1903"
+   },
+   {
+    "text": "Piʻa was probably never farmed in Hawaiʻi. It was less common than uhi and was left to grow wild in the forest until someone needed it.",
+    "source": "kent-1986"
+   },
+   {
+    "text": "You can tell it from its cousin uhi with your eyes closed. Piʻa stems have spines and twine to the left. Uhi stems are smooth and winged and twine to the right.",
+    "source": "wilson-1988"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "Food waiting in the forest",
+   "text": "No moʻolelo about piʻa has come down to us in the sources we checked, so we will not make one up. What is recorded is a custom. Hawaiian farmers put their work into kalo, ʻuala and uhi. Piʻa was left alone in the wet valleys, climbing through the trees. When drought or war ruined the gardens, people knew where to find it.\n\nIn the 1800s David Malo wrote that piʻa cooked in the imu was good and satisfying. Later books call it a food for times of famine. Both can be true. A food you eat only when you must can still taste good when you are hungry.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "Piʻa still grows wild in windward valleys on most of the main islands, mostly between about 500 and 1,000 feet up. Few people eat it now. Botanists and hikers know it by its hand shaped leaves on a thin, prickly vine.",
+  "grow": {
+   "sun": "Part shade, such as the edge of a grove of trees, like its home in wet valleys.",
+   "water": "Steady moisture. It likes the rainy windward side.",
+   "planting": "Start it from a small aerial tuber or a piece of tuber beside a tree or fence it can climb. Mind the spines.",
+   "harvest": "Rarely grown for food today. Any tuber must be cooked before eating."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "krauss-1993",
+   "wehewehe",
+   "kent-1986",
+   "malo-1903",
+   "wilson-1988",
+   "st-john-jendrusch-1980"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "hoi",
   "nameHaw": "Hoi",
+  "pronunciation": "HOY",
   "nameCommon": "Bitter yam, air potato",
   "nameSci": "Dioscorea bulbifera",
   "family": "Dioscoreaceae",
   "originRegion": "Asia and Africa",
   "originMapKey": "sea",
-  "status": "canoe",
-  "pronunciation": "",
-  "hook": "",
-  "whyInCanoe": "",
-  "uses": [],
-  "useTags": [],
-  "partTags": [],
+  "hook": "Potatoes that grow in the air",
+  "whyInCanoe": "Hoi was the food of last resort. It is bitter and poisonous when raw, so nobody ate it by choice. But it grows wild with no care at all, and in a famine a food that takes days of work to make safe is far better than no food.",
+  "uses": [
+   {
+    "part": "stem",
+    "text": "The round aerial tubers that form along the vine were eaten only in times of famine."
+   },
+   {
+    "part": "stem",
+    "text": "To make them safe, people cooked and grated them, then washed the mash in several changes of water."
+   },
+   {
+    "part": "stem",
+    "text": "The washed mash was strained through the cloth-like fiber from the base of coconut leaves until the bitter taste was gone."
+   },
+   {
+    "part": "root",
+    "text": "The small underground tuber is bitter too and was part of the same last resort food supply."
+   }
+  ],
+  "useTags": [
+   "food"
+  ],
+  "partTags": [
+   "stem",
+   "root"
+  ],
   "facts": [
    {
-    "text": "",
-    "source": ""
+    "text": "Hoi grows potatoes in the air. Round tubers form right on the vine where the leaves join the stem. Hawaiian has a special word for them, ʻalaʻala.",
+    "source": "wehewehe"
+   },
+   {
+    "text": "It is poisonous unless it is prepared the right way. David Malo wrote that hoi had to be cooked, grated, washed in several waters and strained until it was sweet. Only then was it a very satisfying food.",
+    "source": "malo-1903"
+   },
+   {
+    "text": "One vine can stretch about 100 feet. It twines to the left as it climbs, the opposite way from its cousin uhi.",
+    "source": "bishop-ethnobotany"
+   },
+   {
+    "text": "In Florida this same plant is a monster weed. It was brought there in 1905, and its vines can grow about 6 inches in a single day and smother whole trees.",
+    "source": "nisic-air-potato"
+   },
+   {
+    "text": "To fight it, scientists released more than a million leaf eating beetles from Asia at about 4,000 sites in Florida and nearby states. The beetles cut the number of air potatoes by about 90 percent.",
+    "source": "usda-ars-air-potato"
    }
   ],
   "moolelo": {
-   "title": "",
-   "text": "",
+   "title": "Ulu ka hoi",
+   "text": "Hoi shows up in Hawaiian wordplay more than in stories. The name of the plant sounds like hoihoi, which means interest or delight. Mary Kawena Pukui collected sayings that play on this. Ulu ka hoi means the hoi vine grows. People said it to mean that there is interest in what is going on. The opposite saying, that the hoi vine does not grow, was used by someone who was bored.\n\nA third saying speaks of the ʻalaʻala, the little tubers in the air. When the aerial tubers appear, it means a lot of nothing worth troubling about. A plant that cost so much work for so little food made a good joke. These are traditional sayings, a window into how people felt about the plant.",
    "kinolau": ""
   },
-  "today": "",
-  "grow": {},
+  "today": "Hoi still climbs through shady valleys and disturbed forest in Hawaiʻi, from near sea level up to about 2,200 feet. Almost nobody eats it. In Florida and other southern states it is one of the worst plant invaders, and people hold yearly roundups to collect the fallen air potatoes.",
+  "grow": {
+   "sun": "It grows in sun or shade. That is part of the problem.",
+   "water": "It needs no care in moist valleys.",
+   "planting": "Do not plant it carelessly. Every dropped air potato can start a new vine, and the plant is a serious invasive weed in other places. Learn it in the wild or in a managed garden collection.",
+   "harvest": "Not for eating. The wild type is poisonous without expert preparation."
+  },
   "images": [],
-  "sources": []
+  "sources": [
+   "bishop-ethnobotany",
+   "abbott-1992",
+   "wehewehe",
+   "malo-1903",
+   "wilson-1988",
+   "nisic-air-potato",
+   "usda-ars-air-potato",
+   "wildlife-of-hawaii-hoi",
+   "st-john-jendrusch-1980"
+  ],
+  "status": "canoe"
  },
  {
   "slug": "pia",

@@ -10,7 +10,7 @@ const STATUS_NOTE = {
   reclassified: 'For a long time everyone called this a canoe plant. Then new evidence showed it was already growing in Hawaiʻi before people arrived. Science changed its mind, and that is how science is supposed to work.',
 };
 
-export default async function plantView({ params }) {
+export default async function plantView({ params, query }) {
   const found = await plantBySlug(params.slug);
   if (!found) return null;
   const { plant: p, prev, next } = found;
@@ -163,6 +163,8 @@ export default async function plantView({ params }) {
     observer.observe(main.querySelector('#met-sentinel'));
 
     main.querySelector('#print-btn').addEventListener('click', () => window.print());
+    // fact sheet links from the teachers page open straight into printing
+    if (query.get('print')) setTimeout(() => window.print(), 1200);
 
     if (window.Swiper && main.querySelector('.gallery')) {
       swiper = new Swiper(main.querySelector('.gallery'), {

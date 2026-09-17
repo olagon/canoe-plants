@@ -1,1 +1,62 @@
-[]
+{
+  "intro": "No plant got to Hawaiʻi by accident. Each one was handed from island to island, generation to generation, across the biggest ocean on Earth. Tap a leg of the journey to watch it happen.",
+  "places": [
+    { "name": "Taiwan", "lon": 121, "lat": 23.7, "dx": 8, "dy": -8 },
+    { "name": "Bismarck Archipelago", "lon": 150, "lat": -4, "dx": 8, "dy": -10 },
+    { "name": "Vanuatu", "lon": 168, "lat": -16, "dx": -8, "dy": 18, "anchor": "end" },
+    { "name": "Fiji", "lon": 178, "lat": -18, "dx": 0, "dy": 20, "anchor": "middle" },
+    { "name": "Tonga", "lon": -175, "lat": -21, "dx": 4, "dy": 20 },
+    { "name": "Samoa", "lon": -172, "lat": -13.8, "dx": 6, "dy": -10 },
+    { "name": "Tahiti", "lon": -149.5, "lat": -17.6, "dx": 0, "dy": 22, "anchor": "middle" },
+    { "name": "Marquesas", "lon": -139.5, "lat": -9.5, "dx": 10, "dy": 4 },
+    { "name": "Hawaiʻi", "lon": -157, "lat": 20.8, "dx": 0, "dy": -16, "anchor": "middle", "star": true },
+    { "name": "Rapa Nui", "lon": -109.4, "lat": -27.1, "dx": 0, "dy": 22, "anchor": "middle" },
+    { "name": "Aotearoa", "lon": 174, "lat": -41, "dx": 22, "dy": 8 },
+    { "name": "South America", "lon": -78, "lat": -12, "dx": 30, "dy": -30, "anchor": "start", "noDot": true }
+  ],
+  "routes": [
+    {
+      "key": "taiwan", "title": "Out of Taiwan", "when": "Starting around 3000 BCE",
+      "text": "The story starts with Austronesian speaking people in Taiwan and island Southeast Asia. They were farmers and sailors, and they moved south and east through the Philippines and Indonesia toward New Guinea. Wauke, the kapa plant, still carries Taiwanese DNA from this first leg.",
+      "points": [[121, 23], [122.5, 14], [127, 3], [138, -1], [150, -4]]
+    },
+    {
+      "key": "lapita", "title": "The Lapita push east", "when": "Around 1500 to 1000 BCE",
+      "text": "People we call Lapita, named for their stamped pottery, sailed out past the Solomon Islands into open ocean. They reached Vanuatu, Fiji, Tonga, and Samoa, carrying plants, pigs, dogs, and chickens. Along the way they picked up the crops of New Guinea, like kō, maiʻa, and ʻulu.",
+      "points": [[150, -4], [160, -9], [168, -16], [178, -18], [-175, -21], [-172, -13.8]]
+    },
+    {
+      "key": "pause", "title": "The long pause", "when": "Many centuries",
+      "text": "Then the voyaging east stopped, for a very long time. In Tonga and Samoa, these settlers became Polynesians. Their language, their canoes, and their navigation grew into something new. Nobody knows for sure why they waited.",
+      "points": [[-175, -21], [-173.5, -17], [-172, -13.8]], "pause": true
+    },
+    {
+      "key": "east", "title": "Into East Polynesia", "when": "Around 1000 CE",
+      "text": "When voyaging started again, it was fast. Within a few generations, canoes reached the Cook Islands, the Society Islands around Tahiti, and the Marquesas. Every canoe carried the plant toolkit.",
+      "points": [[-172, -13.8], [-160, -20], [-149.5, -17.6], [-139.5, -9.5]]
+    },
+    {
+      "key": "hawaii", "title": "North to Hawaiʻi", "when": "Around 1000 to 1200 CE",
+      "text": "The hardest leg. More than two thousand miles north across the equator, through the windless doldrums, to the most isolated islands on Earth. Voyagers from the Marquesas or the Society Islands found Hawaiʻi and planted what they carried. Later traditions tell of round trips between Hawaiʻi and Kahiki.",
+      "points": [[-149.5, -17.6], [-147, -5], [-150, 8], [-157, 20.8]]
+    },
+    {
+      "key": "uala", "title": "The sweet potato run", "when": "Before Columbus, maybe around 1000 to 1100 CE",
+      "text": "ʻUala is the odd one out. It comes from South America, not Asia. Most researchers think Polynesian sailors reached the coast of South America and came home with it. A few think it could have drifted across by itself. Either way, it came from the opposite direction to every other plant in the canoe.",
+      "points": [[-79, -6], [-100, -10], [-122, -11], [-139.5, -9.5]], "alt": true
+    },
+    {
+      "key": "triangle", "title": "The rest of the triangle", "when": "Around 1200 to 1300 CE",
+      "text": "Polynesian voyagers also reached Rapa Nui in the far east and Aotearoa in the far south. Hawaiʻi, Rapa Nui, and Aotearoa are the three corners of the Polynesian Triangle. Not every plant survived everywhere. Aotearoa was too cold for ʻulu and niu, but ʻuala, called kūmara there, became a staple.",
+      "points": [[-149.5, -17.6], [-130, -24], [-109.4, -27.1]], "points2": [[-160, -20], [-175, -30], [174, -39]], "faint": true
+    }
+  ],
+  "origins": [
+    { "key": "taiwan", "lon": 120.2, "lat": 26.5, "blurb": "Wauke, the paper mulberry, traces back here. Its DNA matches plants in Taiwan." },
+    { "key": "sea", "lon": 103, "lat": 14, "blurb": "The biggest group. Spices, medicines, yams, and gourds from mainland and island Southeast Asia, some first grown as far away as India." },
+    { "key": "indopacific", "lon": 125, "lat": -2.5, "blurb": "Shoreline trees with seeds that float. They grow on coasts from East Africa to Polynesia, which is why scientists argue about which ones needed a canoe at all." },
+    { "key": "newguinea", "lon": 141, "lat": -5.5, "blurb": "One of the places where farming was invented. Sugarcane, bananas, and breadfruit were all first grown in and around New Guinea." },
+    { "key": "vanuatu", "lon": 166.5, "lat": -14.5, "blurb": "ʻAwa was first grown in northern Vanuatu around 3,000 years ago, then carried east and west." },
+    { "key": "southamerica", "lon": -76, "lat": -9, "blurb": "Only one canoe plant comes from the Americas. ʻUala, the sweet potato." }
+  ]
+}

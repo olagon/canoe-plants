@@ -1,0 +1,174 @@
+{
+  "native": [
+    {
+      "nameHaw": "Hala",
+      "nameCommon": "Pandanus, screwpine",
+      "nameSci": "Pandanus tectorius",
+      "status": "indigenous",
+      "line": "Hala leaves became mats and canoe sails, so everyone assumed the voyagers packed it. Then ancient lava on Kauaʻi turned up with the print of a hala fruit pressed into it, more than a million years old. Hala beat the canoes by a long shot, though voyagers may have brought favorite kinds of their own.",
+      "source": "plant-pono-hala"
+    },
+    {
+      "nameHaw": "Kou",
+      "nameCommon": "Kou",
+      "nameSci": "Cordia subcordata",
+      "status": "indigenous",
+      "line": "For years kou sat on every canoe plant list. Then old kou seeds turned up at Māhāʻulepū on Kauaʻi in layers laid down long before people arrived. Its seeds float in salt water, so kou sailed here solo.",
+      "source": "native-plants-hawaii"
+    },
+    {
+      "nameHaw": "Koa",
+      "nameCommon": "Koa",
+      "nameSci": "Acacia koa",
+      "status": "endemic",
+      "line": "Koa did not ride in the canoe. Koa was the canoe. Hawaiians carved their waʻa from this giant forest tree, which grows naturally nowhere else on Earth.",
+      "source": "native-plants-hawaii"
+    },
+    {
+      "nameHaw": "ʻŌhiʻa lehua",
+      "nameCommon": "ʻŌhiʻa",
+      "nameSci": "Metrosideros polymorpha",
+      "status": "endemic",
+      "line": "Easy to mix up with ʻōhiʻa ʻai, the mountain apple, which really did come by canoe. ʻŌhiʻa lehua is the most common native tree in Hawaiʻi and one of the first to sprout on fresh lava.",
+      "source": "native-plants-hawaii"
+    },
+    {
+      "nameHaw": "Olonā",
+      "nameCommon": "Olonā",
+      "nameSci": "Touchardia latifolia",
+      "status": "endemic",
+      "line": "Hawaiians farmed olonā in forest gardens, so it feels like a crop from the canoe. It is pure Hawaiʻi. Its fiber made fishing line strong enough to land a marlin.",
+      "source": "native-plants-hawaii"
+    },
+    {
+      "nameHaw": "ʻIlima",
+      "nameCommon": "ʻIlima",
+      "nameSci": "Sida fallax",
+      "status": "indigenous",
+      "line": "Hawaiians grew special golden forms of ʻilima just for lei, so it looks like something planted on purpose. The plant itself got here on its own. It is the official flower of Oʻahu.",
+      "source": "native-plants-hawaii"
+    },
+    {
+      "nameHaw": "Naupaka",
+      "nameCommon": "Naupaka kahakai, beach naupaka",
+      "nameSci": "Scaevola taccada",
+      "status": "indigenous",
+      "line": "The beach naupaka with the famous half flower needs no canoe. Its fruits float on ocean currents from island to island. Its cousins up in the mountains are endemic, found only in Hawaiʻi.",
+      "source": "native-plants-hawaii"
+    },
+    {
+      "nameHaw": "ʻŌhelo",
+      "nameCommon": "ʻŌhelo ʻai",
+      "nameSci": "Vaccinium reticulatum",
+      "status": "endemic",
+      "line": "A tasty berry that people pick and eat sounds like a canoe crop. But ʻōhelo grew on the volcanoes long before anyone came to taste it. In tradition the first berries are offered to Pele. Nēnē geese love them too.",
+      "source": "native-plants-hawaii"
+    },
+    {
+      "nameHaw": "Wiliwili",
+      "nameCommon": "Wiliwili",
+      "nameSci": "Erythrina sandwicensis",
+      "status": "endemic",
+      "line": "Its very light wood became canoe floats and net floats, so it gets lumped in with the canoe plants. Wiliwili is a dryland native found nowhere else. An old belief says that when wiliwili blooms on the coast, sharks bite.",
+      "source": "native-plants-hawaii"
+    },
+    {
+      "nameHaw": "Loulu",
+      "nameCommon": "Hawaiian fan palm",
+      "nameSci": "Pritchardia species",
+      "status": "endemic",
+      "line": "See a palm in Hawaiʻi and you think coconut, and coconut came by canoe. Loulu are the fan palms that were already here. Hawaiians ate the young fruits, called hāwane, which taste a bit like coconut.",
+      "source": "native-plants-hawaii"
+    },
+    {
+      "nameHaw": "Māmaki",
+      "nameCommon": "Māmaki",
+      "nameSci": "Pipturus albidus",
+      "status": "endemic",
+      "line": "Māmaki bark was beaten into kapa, just like wauke, so the two get mixed up. Wauke came by canoe. Māmaki is a Hawaiian original, and today its leaves make a popular tea.",
+      "source": "native-plants-hawaii"
+    }
+  ],
+  "postContact": [
+    {
+      "name": "Pineapple",
+      "nameHaw": "Hala kahiki",
+      "nameSci": "Ananas comosus",
+      "arrived": "by 1813",
+      "line": "The fruit on every Hawaiʻi postcard is from South America. Don Francisco de Paula Marín, a Spanish adviser to Kamehameha I, was growing it in Honolulu by 1813. Its Hawaiian name means foreign hala.",
+      "source": "hdoa-ag-history"
+    },
+    {
+      "name": "Mango",
+      "nameHaw": "Manakō",
+      "nameSci": "Mangifera indica",
+      "arrived": "1824",
+      "line": "The first mango on record sailed in from Manila in 1824 with Captain John Meek on the brig Kamehameha. He split the little plants between Don Marín in Honolulu and a missionary on Maui.",
+      "source": "hamilton-1993"
+    },
+    {
+      "name": "Papaya",
+      "nameHaw": "Mīkana",
+      "nameSci": "Carica papaya",
+      "arrived": "after 1778, exact date unknown",
+      "line": "Papaya is from tropical America, and nobody wrote down exactly when it landed here. The small sweet Solo papaya in stores today came from Barbados and Jamaica in 1911.",
+      "source": "hdoa-ag-history"
+    },
+    {
+      "name": "Guava",
+      "nameHaw": "Kuawa",
+      "nameSci": "Psidium guajava",
+      "arrived": "early 1800s",
+      "line": "Guava grows wild along so many trails that it feels ancient. It came from tropical America in the early 1800s, apparently with Don Marín, and then ran off into the forest.",
+      "source": "little-skolmen-1989"
+    },
+    {
+      "name": "Macadamia",
+      "nameHaw": "",
+      "nameSci": "Macadamia species",
+      "arrived": "1881",
+      "line": "The Hawaiian nut is Australian. William Purvis brought macadamia to Hawaiʻi in 1881. The first macadamia farm was not planted until 1925, on Round Top above Honolulu.",
+      "source": "hdoa-ag-history"
+    },
+    {
+      "name": "Plumeria",
+      "nameHaw": "Melia",
+      "nameSci": "Plumeria species",
+      "arrived": "1860",
+      "line": "The classic lei flower is from tropical America. Dr. William Hillebrand brought the first one, a yellow plumeria, in 1860. It was planted in so many cemeteries that some people called it the graveyard plumeria.",
+      "source": "criley-2005"
+    },
+    {
+      "name": "Coffee",
+      "nameHaw": "Kope",
+      "nameSci": "Coffea arabica",
+      "arrived": "1813",
+      "line": "Kona coffee is world famous, but coffee is an African plant. Don Marín planted it on Oʻahu in 1813, and it became a business crop in the 1830s.",
+      "source": "hdoa-ag-history"
+    },
+    {
+      "name": "Passion fruit",
+      "nameHaw": "Lilikoʻi",
+      "nameSci": "Passiflora edulis",
+      "arrived": "about 1880",
+      "line": "It has a Hawaiian name, so it must be Hawaiian, right? Nope. It is from Brazil. The first seeds came from Australia around 1880 and were planted in a part of East Maui called Lilikoʻi. The fruit kept the name of the place.",
+      "source": "akamine-1974"
+    },
+    {
+      "name": "Avocado",
+      "nameHaw": "Pea",
+      "nameSci": "Persea americana",
+      "arrived": "by 1825",
+      "line": "Avocado is from Central America. Don Marín probably planted it in the early 1800s. A British naturalist who visited in 1825 wrote that it was already growing around Honolulu.",
+      "source": "pope-1924"
+    },
+    {
+      "name": "Kiawe",
+      "nameHaw": "Kiawe",
+      "nameSci": "Prosopis pallida",
+      "arrived": "1828",
+      "line": "The kiawe story starts with a single seed. Father Bachelot planted it at the Catholic mission in Honolulu in 1828. The seed came from a Peruvian tree growing in the royal garden in Paris. By 1840 it was a common shade tree all over Honolulu.",
+      "source": "little-skolmen-1989"
+    }
+  ]
+}

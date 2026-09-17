@@ -5,17 +5,41 @@
   "year": "1992",
   "url": "https://bishopmuseumpress.org/"
  },
+ "aha-punana-leo-niuolahiki": {
+  "title": "Niuolahiki distance learning, about the name",
+  "author": "ʻAha Pūnana Leo",
+  "year": "n.d.",
+  "url": "https://niuolahiki.ahapunanaleo.org/"
+ },
  "alameida-1997": {
   "title": "The legend of the wauke tree, from Nā moʻolelo Hawaiʻi o ka wā kahiko (Bess Press), posted at Kapa Kulture",
   "author": "Roy Kakulu Alameida",
   "year": "1997",
   "url": "https://kapakulture.com/2013/02/26/the-legend-of-the-wauke-tree/"
  },
+ "american-heritage-niihau": {
+  "title": "Niihau: a shoal of time",
+  "author": "American Heritage, volume 14, issue 6",
+  "year": "1963",
+  "url": "https://www.americanheritage.com/niihau-shoal-time"
+ },
+ "beckwith-1940": {
+  "title": "Hawaiian Mythology",
+  "author": "Martha Warren Beckwith",
+  "year": "1940",
+  "url": "https://puke.ulukau.org/?a=d&d=EBOOK-BECKWIT1"
+ },
  "bishop-ethnobotany": {
   "title": "Hawaiian Ethnobotany Online Database",
   "author": "Bishop Museum",
   "year": "",
   "url": "https://data.bishopmuseum.org/ethnobotanydb/"
+ },
+ "bishop-hawaii-alive": {
+  "title": "Pōhaku kuʻi ʻai collection, Hawaiʻi Alive",
+  "author": "Bishop Museum",
+  "year": "n.d.",
+  "url": "https://www.hawaiialive.org/resource/pohaku-kui-ai-collection"
  },
  "bishop-plantcare-auhuhu": {
   "title": "ʻAuhuhu plant care page",
@@ -35,6 +59,12 @@
   "year": "2001",
   "url": "https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/0012-9615(2001)071%5B0615:FEFADB%5D2.0.CO;2"
  },
+ "calacademy-2013": {
+  "title": "Sweet potato travelers",
+  "author": "California Academy of Sciences",
+  "year": "2013",
+  "url": "https://www.calacademy.org/explore-science/sweet-potato-travelers"
+ },
  "canoeplants-com": {
   "title": "Canoe Plants of Ancient Hawaiʻi",
   "author": "Lynton Dove White",
@@ -46,6 +76,12 @@
   "author": "Chi-Shan Chang and colleagues",
   "year": "2015",
   "url": "https://pubmed.ncbi.nlm.nih.gov/26438853/"
+ },
+ "cho-2007": {
+  "title": "Hawaiian Kalo, Past and Future (Sustainable Agriculture SA-1)",
+  "author": "John J. Cho, Roy A. Yamakawa and James Hollyer, University of Hawaiʻi CTAHR",
+  "year": "2007",
+  "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/sa-1.pdf"
  },
  "clarke-2006": {
   "title": "Reconstructing the origins and dispersal of the Polynesian bottle gourd (Lagenaria siceraria). Molecular Biology and Evolution 23(5), 893 to 900",
@@ -71,11 +107,23 @@
   "year": "2006",
   "url": "https://www3.ctahr.hawaii.edu/noni/"
  },
+ "ctahr-pacific-food-guide": {
+  "title": "Pacific Food Guide, Taro",
+  "author": "University of Hawaiʻi at Mānoa CTAHR",
+  "year": "n.d.",
+  "url": "https://manoa.hawaii.edu/ctahr/pacificfoodguide/index.php/grown-from-the-ground/taro/"
+ },
  "dartmouth-folklore-moo": {
   "title": "Moʻo Wahine and Anna's Pond, Dartmouth Folklore Archive",
   "author": "Dartmouth College",
   "year": "2017",
   "url": "https://journeys.dartmouth.edu/folklorearchive/2017/11/14/moo-wahine-and-annas-pond/"
+ },
+ "denham-2013": {
+  "title": "Ancient and historic dispersals of sweet potato in Oceania",
+  "author": "Tim Denham",
+  "year": "2013",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3568348"
  },
  "duff-2014": {
   "title": "Awa plant has ancient history among Polynesians",
@@ -89,11 +137,23 @@
   "year": "2019",
   "url": "https://www.westhawaiitoday.com/2019/10/06/features/plant-of-the-month-for-october-ipu-gourd/"
  },
+ "duff-2021": {
+  "title": "Plant of the month. The majestic ʻulu",
+  "author": "Diana Duff, West Hawaii Today",
+  "year": "2021",
+  "url": "https://www.westhawaiitoday.com/2021/12/04/features/plant-of-the-month-the-majestic-ulu/"
+ },
  "garsmeur-2025": {
   "title": "The genomic footprints of wild Saccharum species trace domestication, diversification, and modern breeding of sugarcane (Cell), with CIRAD press summary",
   "author": "Olivier Garsmeur and colleagues",
   "year": "2025",
   "url": "https://www.cirad.fr/en/press-area/press-releases/2025/origin-of-sugarcane-revealed"
+ },
+ "gunn-2011": {
+  "title": "Independent origins of cultivated coconut (Cocos nucifera L.) in the Old World tropics",
+  "author": "Bee F. Gunn, Luc Baudouin and Kenneth M. Olsen",
+  "year": "2011",
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0021143"
  },
  "halekulani-kapa": {
   "title": "Creation of kapa",
@@ -112,6 +172,12 @@
   "author": "E. S. Craighill Handy and Elizabeth Green Handy, with Mary Kawena Pukui",
   "year": "1972",
   "url": "https://bishopmuseumpress.org/"
+ },
+ "hawaii-sea-grant-limu": {
+  "title": "Limu traditions",
+  "author": "University of Hawaiʻi Sea Grant College Program",
+  "year": "n.d.",
+  "url": "https://seagrant.soest.hawaii.edu/limu-traditions/"
  },
  "hawaiian-native-plants-auhuhu": {
   "title": "ʻAuhuhu plant profile",
@@ -143,6 +209,18 @@
   "year": "1959",
   "url": "https://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0005/HRS_0005-0008.htm"
  },
+ "huggins-1990": {
+  "title": "Banana, Economic Fact Sheet 11",
+  "author": "Catherine A. Huggins, Kevin M. Yokoyama, Kulavit Wanitprapha, Stuart T. Nakamoto and C. L. Chia, University of Hawaiʻi CTAHR",
+  "year": "1990",
+  "url": "https://gms.ctahr.hawaii.edu/gs/handler/getmedia.ashx?moid=3010&dt=3&g=12"
+ },
+ "images-old-hawaii-honolulu-1810": {
+  "title": "Honolulu, 1810",
+  "author": "Peter T. Young, Images of Old Hawaiʻi",
+  "year": "n.d.",
+  "url": "https://imagesofoldhawaii.com/honolulu-1810/"
+ },
  "images-old-hawaii-kukui": {
   "title": "Kukui (quotes William Ellis, 1826, and CTAHR)",
   "author": "Peter T. Young, Images of Old Hawaiʻi",
@@ -155,11 +233,29 @@
   "year": "",
   "url": "https://imagesofoldhawaii.com/wauke/"
  },
+ "ioannidis-2020": {
+  "title": "Native American gene flow into Polynesia predating Easter Island settlement",
+  "author": "Alexander G. Ioannidis and colleagues",
+  "year": "2020",
+  "url": "https://www.nature.com/articles/s41586-020-2487-2"
+ },
  "johnston-rogers-2006": {
   "title": "Hawaiian ʻawa, views of an ethnobotanical treasure",
   "author": "Ed Johnston and Helen Rogers, editors",
   "year": "2006",
   "url": "https://www.awadevelopment.org/wp-content/uploads/2014/01/awabook-web-part-1-of-2.pdf"
+ },
+ "kaahele-hula-implements": {
+  "title": "Implements of the hula",
+  "author": "Kaʻahele Hawaiʻi",
+  "year": "n.d.",
+  "url": "https://www.kaahelehawaii.com/implements-of-the-hula/"
+ },
+ "kagy-2016": {
+  "title": "Traditional banana diversity in Oceania. An endangered heritage",
+  "author": "Valérie Kagy, Maurice Wong, Henri Vandenbroucke and colleagues",
+  "year": "2016",
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151208"
  },
  "kahoiwai-kane": {
   "title": "Kāne, akua list",
@@ -173,17 +269,47 @@
   "year": "",
   "url": "https://www.kapiolani.hawaii.edu/support-and-campus-life/campus-gardens/cordyline-fruticosa/"
  },
+ "kawaihapai-haloa": {
+  "title": "Hāloanakalaukapalili, Kahoʻiwai akua list",
+  "author": "University of Hawaiʻi",
+  "year": "n.d.",
+  "url": "https://www.hawaii.edu/kawaihapai/akua-list/haloanakalaukapalili/"
+ },
  "kawaiola-2021": {
   "title": "Some famous sayings of Molokaʻi",
   "author": "Kalani Akana, Ka Wai Ola",
   "year": "2021",
   "url": "https://kawaiola.news/ka-naauao-o-na-kupuna/some-famous-sayings-of-molokai"
  },
+ "kawaiola-hughes-2020": {
+  "title": "The sweet potato is the food that ends famine quickly",
+  "author": "Claire Kuʻuleilani Hughes, Ka Wai Ola, Office of Hawaiian Affairs",
+  "year": "2020",
+  "url": "https://kawaiola.news/mauliola/sweet-potato-food-ends-famine-quickly/"
+ },
  "kawaiola-moananuiakea": {
   "title": "Moananuiākea, we are the vast Pacific Ocean",
   "author": "Ka Wai Ola, Office of Hawaiian Affairs",
   "year": "",
   "url": "https://kawaiola.news/cover/moananuiakea-we-are-the-vast-pacific-ocean/"
+ },
+ "kcc-ahupuaa-food": {
+  "title": "Ethnobotany of the ahupuaʻa, food plants",
+  "author": "Kapiʻolani Community College Library, University of Hawaiʻi",
+  "year": "n.d.",
+  "url": "https://guides.library.kapiolani.hawaii.edu/apdl/ahupuaa/food"
+ },
+ "kent-1986": {
+  "title": "Treasury of Hawaiian Words in One Hundred and One Categories, entry for piʻa, searched through Wehewehe Wikiwiki",
+  "author": "Harold Winfield Kent",
+  "year": "1986",
+  "url": "https://wehe.hilo.hawaii.edu/?q=pi%CA%BBa"
+ },
+ "keola-nose-flute": {
+  "title": "Voices of the bamboo: the ʻohe hano ihu, Hawaiian nose flute",
+  "author": "Ke Ola Magazine",
+  "year": "n.d.",
+  "url": "https://keolamagazine.com/music/hawaiian-nose-flute/"
  },
  "kistler-2014": {
   "title": "Transoceanic drift and the domestication of African bottle gourds in the Americas. Proceedings of the National Academy of Sciences",
@@ -202,6 +328,12 @@
   "author": "Kamehameha Publishing",
   "year": "",
   "url": "https://kumukahi.org/units/na-kanaka/oihana/lawaia"
+ },
+ "kumukahi-lono": {
+  "title": "Lono, Kumukahi explore lessons",
+  "author": "Kamehameha Publishing, Kamehameha Schools",
+  "year": "n.d.",
+  "url": "https://kumukahi.org/units/ke-ao-akua/akua/lono"
  },
  "lebot-1999": {
   "title": "Morphological, phytochemical, and genetic variation in Hawaiian cultivars of ʻawa (Economic Botany 53, 407 to 418)",
@@ -233,11 +365,29 @@
   "year": "1989",
   "url": "https://www3.ctahr.hawaii.edu/gsp/doc/Forestry/Little_Skolmen_CFT/CFT_Eugenia_malaccensis.pdf"
  },
+ "malo-1903": {
+  "title": "Hawaiian Antiquities (Moolelo Hawaii), translated by N. B. Emerson",
+  "author": "David Malo",
+  "year": "1903",
+  "url": "https://archive.org/details/hawaiianantiquit00malorich"
+ },
+ "marshall-2017": {
+  "title": "Restoring people and productivity to Puanui. Challenges and opportunities in the restoration of an intensive rain-fed Hawaiian field system",
+  "author": "Kehaulani Marshall, Chloe Koseff, Amber Roberts, Ala Lindsey, Aurora Kagawa-Viviani, Noa Kekuewa Lincoln and Peter Vitousek",
+  "year": "2017",
+  "url": "https://www.ecologyandsociety.org/vol22/iss2/art23/"
+ },
  "maui-magazine-kukui": {
   "title": "Kukui, tree of light",
   "author": "Maui Nō Ka ʻOi Magazine",
   "year": "",
   "url": "https://www.mauimagazine.net/kukui-tree-of-light/2/"
+ },
+ "maui-magazine-olena": {
+  "title": "Pua ʻōlena, Hawaiian turmeric",
+  "author": "Maui Nō Ka ʻOi Magazine",
+  "year": "n.d.",
+  "url": "https://www.mauimagazine.net/pua-olena/"
  },
  "mauinow-2016": {
   "title": "Maui sugar, end of an era. HC&S operations nearing end",
@@ -257,6 +407,12 @@
   "year": "",
   "url": "https://mnbg.org/hawaiian-native-plant-collection/"
  },
+ "munoz-rodriguez-2018": {
+  "title": "Reconciling conflicting phylogenies in the origin of sweet potato and dispersal to Polynesia",
+  "author": "Pablo Muñoz-Rodríguez and colleagues",
+  "year": "2018",
+  "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(18)30321-X"
+ },
  "nccih-kava": {
   "title": "Kava",
   "author": "National Center for Complementary and Integrative Health, NIH",
@@ -269,17 +425,65 @@
   "year": "",
   "url": "https://www.nccih.nih.gov/health/noni"
  },
+ "niihau-heritage": {
+  "title": "History of Niʻihau",
+  "author": "Niihau Cultural Heritage Foundation",
+  "year": "n.d.",
+  "url": "https://niihauheritage.org/niihau_history/"
+ },
+ "nisic-air-potato": {
+  "title": "Air potato (Dioscorea bulbifera) species profile",
+  "author": "USDA National Invasive Species Information Center",
+  "year": "n.d.",
+  "url": "https://www.invasivespeciesinfo.gov/terrestrial/plants/air-potato"
+ },
+ "northwestern-2023": {
+  "title": "Caribbean breadfruit traced back to the 1791 to 1793 journey of Captain Bligh",
+  "author": "Northwestern University",
+  "year": "2023",
+  "url": "https://news.northwestern.edu/stories/2023/01/caribbean-breadfruit-traced-back-to-capt-blighs-1791-93-journey"
+ },
  "ntbg": {
   "title": "Tropical Plants Database",
   "author": "National Tropical Botanical Garden",
   "year": "",
   "url": "https://ntbg.org/database/plants/"
  },
+ "ntbg-breadfruit": {
+  "title": "Breadfruit collections, Breadfruit Institute",
+  "author": "National Tropical Botanical Garden",
+  "year": "n.d.",
+  "url": "https://ntbg.org/breadfruit/about-breadfruit/conservation/"
+ },
+ "ntbg-cocos": {
+  "title": "Cocos nucifera, Tropical Plants Database",
+  "author": "National Tropical Botanical Garden",
+  "year": "n.d.",
+  "url": "https://ntbg.org/database/plants/detail/cocos-nucifera"
+ },
+ "ntbg-maia": {
+  "title": "Rare collections safeguard bananas",
+  "author": "National Tropical Botanical Garden",
+  "year": "n.d.",
+  "url": "https://ntbg.org/news/safeguarding-the-worlds-most-popular-fruit/"
+ },
+ "ntbg-uala": {
+  "title": "Uala, Hawaiian sweet potato",
+  "author": "National Tropical Botanical Garden",
+  "year": "n.d.",
+  "url": "https://ntbg.org/news/uala-hawaiian-sweet-potato/"
+ },
  "old-sugar-mill-koloa": {
   "title": "Old Sugar Mill of Koloa",
   "author": "Wikipedia contributors",
   "year": "",
   "url": "https://en.wikipedia.org/wiki/Old_Sugar_Mill_of_Koloa"
+ },
+ "paul-mitchell-awapuhi": {
+  "title": "Hair product history lesson: how awapuhi got in your shampoo",
+  "author": "John Paul Mitchell Systems",
+  "year": "n.d.",
+  "url": "https://www.paulmitchell.com/blogs/inspiration/the-history-of-awapuhi-in-our-products"
  },
  "penailillo-2016": {
   "title": "Sex distribution of paper mulberry (Broussonetia papyrifera) in the Pacific (PLOS One)",
@@ -299,6 +503,12 @@
   "year": "",
   "url": "https://www.primitiveways.com/fish_toxins.html"
  },
+ "pvs-canoe-plants": {
+  "title": "Plants and tools used for building canoes, Hawaiian Voyaging Traditions",
+  "author": "Polynesian Voyaging Society",
+  "year": "n.d.",
+  "url": "https://archive.hokulea.com/ike/kalai_waa/plants_and_tools.html"
+ },
  "pvs-canoes": {
   "title": "Voyaging canoes, Hōkūleʻa",
   "author": "Polynesian Voyaging Society",
@@ -311,11 +521,47 @@
   "year": "2023",
   "url": "https://hokulea.com/moananuiakea/"
  },
+ "pvs-ohana": {
+  "title": "ʻOhana, Hawaiian Voyaging Traditions",
+  "author": "Polynesian Voyaging Society, from Polynesian Seafaring Heritage (Kamehameha Schools)",
+  "year": "1980",
+  "url": "https://archive.hokulea.com/ike/moolelo/ohana.html"
+ },
+ "ragone-2006": {
+  "title": "Artocarpus altilis (breadfruit), Species Profiles for Pacific Island Agroforestry, version 2.1",
+  "author": "Diane Ragone, Breadfruit Institute, National Tropical Botanical Garden",
+  "year": "2006",
+  "url": "https://gms.ctahr.hawaii.edu/gs/handler/getmedia.ashx?moid=3135&dt=3&g=12"
+ },
  "rmg-webber": {
   "title": "A Canoe of the Sandwich Islands, the Rowers Masked (after John Webber, 1779), collection record",
   "author": "Royal Museums Greenwich",
   "year": "",
   "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-154134"
+ },
+ "roullier-2013": {
+  "title": "Historical collections reveal patterns of diffusion of sweet potato in Oceania obscured by modern plant movements and recombination",
+  "author": "Caroline Roullier, Laure Benoit, Doyle B. McKey and Vincent Lebot",
+  "year": "2013",
+  "url": "https://www.pnas.org/doi/10.1073/pnas.1211049110"
+ },
+ "sharif-2020": {
+  "title": "Genome-wide genotyping elucidates the geographical diversification and dispersal of the polyploid and clonally propagated yam (Dioscorea alata)",
+  "author": "Sharif, B. M. and colleagues",
+  "year": "2020",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7596366/"
+ },
+ "smithsonian-ssec-2020": {
+  "title": "From sweet potatoes to DNA. New evidence supports links between South American and Polynesian cultures",
+  "author": "Smithsonian Science Education Center",
+  "year": "2020",
+  "url": "https://ssec.si.edu/stemvisions-blog/sweet-potatoes-dna-new-evidence-supports-links-between-south-american-and"
+ },
+ "st-john-jendrusch-1980": {
+  "title": "Plants introduced to Hawaiʻi by the ancestors of the Hawaiian people, from Polynesian Seafaring Heritage",
+  "author": "Harold St. John and Kuaika Jendrusch",
+  "year": "1980",
+  "url": "https://archive.hokulea.com/ike/moolelo/polynesian_plants.html"
  },
  "thrum-1907": {
   "title": "Hawaiian Folk Tales, chapter 25, Fish Stories and Superstitions, translated by M. K. Nakuina",
@@ -329,11 +575,71 @@
   "year": "1948",
   "url": "https://marykawenapukui.com/awa-ceremonies-in-hawaii/"
  },
+ "uf-ifas-coconut": {
+  "title": "Coconut palm, Gardening Solutions",
+  "author": "University of Florida IFAS Extension",
+  "year": "n.d.",
+  "url": "https://gardeningsolutions.ifas.ufl.edu/plants/trees-and-shrubs/palms-and-cycads/coconut-palm/"
+ },
+ "uh-hilo-olena-2018": {
+  "title": "The medicinal plant ʻolena is difficult for farmers to grow in soil; tissue culture may be the answer",
+  "author": "Nihopeku, University of Hawaiʻi at Hilo",
+  "year": "2018",
+  "url": "https://hilo.hawaii.edu/nihopeku/2018/02/05/the-medicinal-plant-olena/"
+ },
+ "uh-manoa-pacific-crops-yam": {
+  "title": "Yam, Traditional Pacific Island Crops research guide",
+  "author": "University of Hawaiʻi at Mānoa Library",
+  "year": "n.d.",
+  "url": "https://guides.library.manoa.hawaii.edu/paccrops/yam"
+ },
  "uh-paccrops-kava": {
   "title": "Kava, traditional Pacific island crops research guide",
   "author": "University of Hawaiʻi at Mānoa Library",
   "year": "",
   "url": "https://guides.library.manoa.hawaii.edu/paccrops/kava"
+ },
+ "ulu-coop-kalo-culture": {
+  "title": "Kalo in Hawaiian culture",
+  "author": "Hawaiʻi ʻUlu Cooperative",
+  "year": "n.d.",
+  "url": "https://ulu.coop/kalo-hawaiian-culture"
+ },
+ "ulu-coop-ku-story": {
+  "title": "The gift of Kū. A Hawaiian story about ʻulu",
+  "author": "Hawaiʻi ʻUlu Cooperative",
+  "year": "n.d.",
+  "url": "https://eatbreadfruit.com/blogs/culture-and-place/welcoming-ku-with-a-ka%CA%BBau-of-%CA%BBulu-trees"
+ },
+ "ulu-coop-niu": {
+  "title": "Coconut agroforestry. ʻIke niu",
+  "author": "Hawaiʻi ʻUlu Cooperative",
+  "year": "n.d.",
+  "url": "https://ulu.coop/aha-niu-coconut-agroforestry"
+ },
+ "ulu-coop-uala": {
+  "title": "ʻUala production guide",
+  "author": "Hawaiʻi ʻUlu Cooperative",
+  "year": "n.d.",
+  "url": "https://ulu.coop/uala-production-guide"
+ },
+ "ulu-coop-ulu-history": {
+  "title": "ʻUlu production primer, history",
+  "author": "Hawaiʻi ʻUlu Cooperative",
+  "year": "n.d.",
+  "url": "https://ulu.coop/primer-history"
+ },
+ "ulu-coop-ulu-primer": {
+  "title": "Breadfruit, ʻulu production primer",
+  "author": "Hawaiʻi ʻUlu Cooperative with University of Hawaiʻi CTAHR",
+  "year": "n.d.",
+  "url": "https://ulu.coop/breadfruitprimer"
+ },
+ "ulu-coop-upland-kalo": {
+  "title": "Hawaiʻi grower guide to upland kalo",
+  "author": "Hawaiʻi ʻUlu Cooperative",
+  "year": "n.d.",
+  "url": "https://ulu.coop/hawaii-growers-guide-to-upland-kalo"
  },
  "ulukau": {
   "title": "Ulukau Hawaiian Electronic Library, Hawaiian dictionaries",
@@ -341,11 +647,35 @@
   "year": "2004",
   "url": "https://wehewehe.org/"
  },
+ "usda-ars-air-potato": {
+  "title": "Science and serendipity defeat invasion of the air potato",
+  "author": "USDA Agricultural Research Service",
+  "year": "n.d.",
+  "url": "https://scientificdiscoveries.ars.usda.gov/tellus/stories/articles/science-and-serendipity-defeat-invasion-air-potato"
+ },
+ "useful-tropical-plants-alata": {
+  "title": "Dioscorea alata, Useful Tropical Plants Database (citing Tindall 1983, Vegetables in the Tropics, and Burkill, The Useful Plants of West Tropical Africa)",
+  "author": "Ken Fern",
+  "year": "n.d.",
+  "url": "https://tropical.theferns.info/viewtropical.php?id=Dioscorea+alata"
+ },
+ "washu-2011": {
+  "title": "Deep history of coconuts decoded",
+  "author": "Washington University in St. Louis",
+  "year": "2011",
+  "url": "https://source.washu.edu/2011/06/deep-history-of-coconuts-decoded/"
+ },
  "wehewehe": {
   "title": "Hawaiian Dictionary (revised and enlarged edition), searched through Wehewehe Wikiwiki and wehewehe.org",
   "author": "Mary Kawena Pukui and Samuel H. Elbert",
   "year": "1986",
   "url": "https://hilo.hawaii.edu/wehe/"
+ },
+ "west-hawaii-today-olena-2025": {
+  "title": "Plant of the month for October 2025: turmeric, ʻōlena",
+  "author": "West Hawaii Today",
+  "year": "2025",
+  "url": "https://www.westhawaiitoday.com/2025/10/04/features/plant-of-the-month-for-october-2025-turmeric-olena/"
  },
  "westervelt-1915": {
   "title": "Legends of old Honolulu (The gods who found water, and The legendary origin of kapa)",
@@ -388,5 +718,17 @@
   "author": "Wikipedia contributors",
   "year": "",
   "url": "https://en.wikipedia.org/wiki/Thespesia_populnea"
+ },
+ "wildlife-of-hawaii-hoi": {
+  "title": "Dioscorea bulbifera, air yam",
+  "author": "Wildlife of Hawaii",
+  "year": "n.d.",
+  "url": "https://wildlifeofhawaii.com/flowers/1965/dioscorea-bulbifera-air-yam/"
+ },
+ "wilson-1988": {
+  "title": "A practical guide to identifying yams: the main species of Dioscorea in the Pacific Islands",
+  "author": "Jill E. Wilson, assisted by Linda S. Hamilton, USP Institute for Research, Extension and Training in Agriculture",
+  "year": "1988",
+  "url": "https://www.ctahr.hawaii.edu/adap/publications/ireta_pubs/practicalguide.pdf"
  }
 }
