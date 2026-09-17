@@ -42,7 +42,7 @@ js/views/             one module per page
 js/components/        quiz engine, canoe game, chips, credits, icons
 js/patterns.js        generates the kapa style patterns as SVG
 data/                 all the content, as JSON
-assets/img/plants/    photos, two sizes each, WebP and JPEG
+assets/img/plants/    photos, three sizes each, WebP and JPEG
 assets/svg/           icon sprite, canoe, Pacific land shapes
 tools/                build time helpers, never loaded by the site
 ```

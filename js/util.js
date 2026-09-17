@@ -30,10 +30,10 @@ export const paras = text => String(text ?? '').split(/\n\n+/).map(p => `<p>${ha
 // Responsive <picture>. img.base is the path without size or extension.
 export function picture(img, { sizes = '100vw', lazy = true, cls = '' } = {}) {
   if (!img) return '';
-  const set = ext => `${img.base}-480.${ext} 480w, ${img.base}-1600.${ext} 1600w`;
+  const set = ext => [480, 960, 1600].map(w => `${img.base}-${w}.${ext} ${w}w`).join(', ');
   return `<picture>
     <source type="image/webp" srcset="${set('webp')}" sizes="${sizes}">
-    <img class="${cls}" src="${img.base}-1600.jpg" srcset="${set('jpg')}" sizes="${sizes}"
+    <img class="${cls}" src="${img.base}-960.jpg" srcset="${set('jpg')}" sizes="${sizes}"
       alt="${esc(img.alt)}" width="${img.w || 1600}" height="${img.h || 1067}"
       ${lazy ? 'loading="lazy"' : 'fetchpriority="high"'} decoding="async">
   </picture>`;

@@ -48,7 +48,7 @@ for p in plants:
         if f["source"] not in p["sources"]: bad(f"{s}: fact source {f['source']} missing from plant sources")
     for img in p["images"]:
         if img["creditId"] not in credit_ids: bad(f"{s}: credit {img['creditId']} missing")
-        for size in (1600, 480):
+        for size in (1600, 960, 480):
             for ext in ("webp", "jpg"):
                 if not (ROOT / f"{img['base']}-{size}.{ext}").exists(): bad(f"{s}: missing file {img['base']}-{size}.{ext}")
         if len(img["alt"]) < 25: bad(f"{s}: alt text too short on {img['file']}")

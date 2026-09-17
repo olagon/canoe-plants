@@ -163,3 +163,4 @@
   top: calc((100% - 5rem) / 2);
 }
 .gallery .swiper-pagination { position: static; margin-top: var(--s-3); }
+.gallery .swiper-pagination-bullet { width: 14px; height: 14px; margin: 0 8px !important; }

@@ -45,7 +45,8 @@ export default async function plantsView({ query }) {
     </div>
   </div>
   <ul class="plant-wall" id="plant-wall"></ul>
-  <p class="wrap plant-wall__empty" id="wall-empty" hidden>No plant matches all of that. Try removing a filter.</p>`;
+  <p class="wrap plant-wall__empty" id="wall-empty" hidden>No plant matches all of that. Try removing a filter.</p>
+  <p class="wrap small muted photo-note">Every photo is credited on its plant page and on the <a href="#/credits">credits page</a>.</p>`;
 
   function mount(main) {
     const wall = main.querySelector('#plant-wall');
@@ -91,9 +92,9 @@ export default async function plantsView({ query }) {
       history.replaceState(null, '', `#/plants${qs ? '?' + qs : ''}`);
     }
 
-    const tile = p => `
+    const tile = (p, i) => `
       <li><a class="tile" href="#/plant/${p.slug}">
-        ${picture(heroImage(p), { sizes: '(min-width: 80rem) 25vw, (min-width: 48rem) 33vw, (min-width: 30rem) 50vw, 100vw' })}
+        ${picture(heroImage(p), { sizes: '(min-width: 80rem) 20vw, (min-width: 48rem) 33vw, (min-width: 30rem) 50vw, 60vw', lazy: i > 3 })}
         <span class="tile__text">
           ${STATUS[p.status] ? `<span class="tile__status">${STATUS[p.status]}</span>` : ''}
           <span class="tile__name" lang="haw">${esc(p.nameHaw)}</span>

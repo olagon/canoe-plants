@@ -94,6 +94,7 @@
 
 /* plant of the day */
 .featured { display: grid; }
+.featured__photo, .featured__photo picture { display: block; height: 100%; }
 .featured__photo img { width: 100%; height: 100%; min-height: 18rem; max-height: 80vh; object-fit: cover; }
 .featured__text { padding: var(--s-7) var(--gutter); display: flex; flex-direction: column; justify-content: center; align-items: flex-start; gap: var(--s-3); }
 .featured__text h2 { font-size: var(--step-5); line-height: 0.95; }
@@ -107,7 +108,7 @@
   display: flex; flex-direction: column; gap: var(--s-3); min-height: 20rem;
   padding: var(--s-7) var(--gutter); text-decoration: none; color: var(--fg);
 }
-.doorway h2 { font-size: var(--step-4); }
+.doorway h2 { font-size: var(--step-3); }
 .doorway p { max-width: 32ch; color: var(--muted); flex: 1; }
 .doorway__cta { font-weight: 600; text-decoration: underline; text-underline-offset: 0.25em; text-decoration-thickness: 2px; color: var(--accent); }
 .doorway:hover .doorway__cta { text-decoration-thickness: 4px; }
@@ -163,7 +164,7 @@
 .plant-name { font-size: var(--step-name); line-height: 0.92; letter-spacing: -0.01em; overflow-wrap: anywhere; }
 .plant-say { margin-top: var(--s-4); font-size: var(--step-1); display: flex; flex-wrap: wrap; gap: 0.2em 0.6em; align-items: baseline; }
 .plant-say__guide { color: var(--muted); }
-.link-btn { background: none; border: 0; padding: 0; color: var(--link); text-decoration: underline; text-underline-offset: 0.18em; font-size: var(--step-0); }
+.link-btn { background: none; border: 0; padding: 0.3em 0; color: var(--link); text-decoration: underline; text-underline-offset: 0.18em; font-size: var(--step-0); }
 .say-popover {
   background: var(--kapa-light); color: var(--kukui); border: var(--edge) solid var(--kukui);
   padding: var(--s-5); width: min(30rem, 100% - 2rem);
@@ -370,7 +371,7 @@
 .pack__reveal p { max-width: var(--measure); }
 
 /* ---------- quiz ---------- */
-.quiz { padding-bottom: var(--s-8); --verdict-right: var(--lau); --verdict-wrong: var(--alaea); }
+.quiz { min-height: 70vh; padding-bottom: var(--s-8); --verdict-right: var(--lau); --verdict-wrong: var(--alaea); }
 .quiz .verdict--right { color: var(--lau); }
 .quiz .verdict--wrong { color: var(--alaea); }
 .quiz__meta { display: flex; justify-content: space-between; font-weight: 600; }
@@ -391,3 +392,6 @@
 .quiz__after > * + * { margin-top: var(--s-3); }
 .quiz__after p { max-width: var(--measure); }
 .quiz__final { font-size: var(--step-5); margin-bottom: var(--s-4); }
+
+.photo-note { padding-block: var(--s-5); }
+.pack + .photo-note, .quiz + .photo-note { padding-top: 0; }

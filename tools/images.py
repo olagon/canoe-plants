@@ -5,7 +5,7 @@ Reads tools/image-manifest.json. For each entry it
   1. asks Wikimedia Commons for the file's real license and refuses anything
      that is not public domain, CC0, CC BY, or CC BY-SA
   2. downloads the image (cached in tools/_cache)
-  3. strips metadata, resizes to 1600px and 480px wide, writes WebP and JPEG
+  3. strips metadata, resizes to 1600px, 960px, and 480px wide, writes WebP and JPEG
   4. writes data/credits.json and fills the "images" arrays in
      data/plants.json and data/companions.json
 
@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "tools" / "_cache"
 UA = "CanoePlantsEdu/1.0 (https://github.com/olagon/canoe-plants; educational site build)"
 ALLOWED = re.compile(r"^(cc0|public domain|pd\b|no restrictions|cc[ -]by(-sa)?[ -][\d.]+)", re.I)
-SIZES = (1600, 480)
+SIZES = (1600, 960, 480)
 
 
 def fetch(url, tries=5):

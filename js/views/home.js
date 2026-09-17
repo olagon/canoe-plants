@@ -3,6 +3,7 @@ import { loadAll } from '../data.js';
 import { esc, haw, picture, heroImage, reducedMotion, seeded, libs } from '../util.js';
 import { progress } from '../progress.js';
 import { icon } from '../components/icon.js';
+import { creditLine, creditMap } from '../components/credit.js';
 
 const WAA = `
 <svg class="hero__waa" viewBox="0 0 220 150" aria-hidden="true" focusable="false">
@@ -30,7 +31,8 @@ const compass = () => `
 </svg>`;
 
 export default async function home() {
-  const [plants, content] = await loadAll('plants', 'home');
+  const [plants, content, credits] = await loadAll('plants', 'home', 'credits');
+  const credit = creditMap(credits);
   const met = progress.met().filter(s => plants.some(p => p.slug === s));
   const dayOfYear = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0)) / 864e5);
   const featured = plants.length ? plants[dayOfYear % plants.length] : null;
@@ -94,6 +96,7 @@ export default async function home() {
       <p class="featured__common">${esc(featured.nameCommon)}</p>
       <p class="featured__fact">${haw(featured.facts[dayOfYear % featured.facts.length].text)}</p>
       <a class="btn btn--gold" href="#/plant/${featured.slug}">Meet ${haw(featured.nameHaw)}</a>
+      ${creditLine(credit[heroImage(featured)?.creditId])}
     </div>
   </section>` : ''}
 
