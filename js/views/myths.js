@@ -2,6 +2,7 @@
 import { loadAll } from '../data.js';
 import { esc, haw, shuffle } from '../util.js';
 import { progress } from '../progress.js';
+import { celebrate } from '../components/confetti.js';
 
 const ROUNDS = 10;
 
@@ -75,7 +76,7 @@ export default async function mythsView() {
     }
     function finish() {
       const best = progress.setBest('myths', score);
-      if (score === ROUNDS && window.confetti && !matchMedia('(prefers-reduced-motion: reduce)').matches) confetti({ particleCount: 120, spread: 80, origin: { y: 0.7 } });
+      if (score === ROUNDS) celebrate();
       box.innerHTML = `
         <p class="myth-game__name">${score} out of ${ROUNDS}</p>
         <p>${score === ROUNDS ? 'Perfect. You cannot be fooled.' : score >= 7 ? 'Sharp eyes. A few of these fool almost everyone.' : 'These are tricky. Read the lists below and try again.'}

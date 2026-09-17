@@ -1,0 +1,165 @@
+{
+ "intro": "You are leaving Tahiti for an island nobody has ever seen. It is more than two thousand miles away. There is room in the waʻa for only eight plants. Whatever you do not bring, your people will have to live without.",
+ "slots": 8,
+ "covered": 3,
+ "needs": [
+  {
+   "key": "foodFast",
+   "label": "Food for the first months",
+   "good": "Your crew eats while the gardens grow. Fast crops and foods that keep well on the trip carried you through the hungry first season.",
+   "thin": "There is a little to eat at first, but not enough. The first months are lean and everyone is watching the garden.",
+   "miss": "No ʻuala, no uhi, no niu. Nothing in your canoe grows fast or keeps on the voyage. Your crew lands hungry and stays hungry until the first harvest, many months away."
+  },
+  {
+   "key": "foodLasting",
+   "label": "Food that lasts",
+   "good": "Kalo patches and food trees will feed your grandchildren. This island can hold a whole community now.",
+   "thin": "You have some long term food, but one bad season could wipe it out. A second staple crop would have been wise.",
+   "miss": "No kalo, no ʻulu, no maiʻa. After the first harvests there is no staple crop and no food trees. Your settlement cannot grow."
+  },
+  {
+   "key": "medicine",
+   "label": "Medicine",
+   "good": "Cuts, fevers, sore stomachs, broken bones. Your healers have what they need for lāʻau lapaʻau.",
+   "thin": "You can treat a few things. For the rest, your healers will have to experiment with plants they have never seen.",
+   "miss": "No noni, no ʻōlena, no ʻawa. The first deep coral cut gets infected and there is nothing to put on it."
+  },
+  {
+   "key": "ropeCloth",
+   "label": "Rope and cloth",
+   "good": "You can lash houses and canoes, make fishing line, and beat kapa for clothes and blankets.",
+   "thin": "You have a little fiber to work with. Expect cold nights and canoe repairs that do not hold for long.",
+   "miss": "No niu, no wauke, no hau. No sennit to lash a house or fix the canoe, and no kapa for clothing or blankets. Nights in the uplands are cold."
+  },
+  {
+   "key": "woodTools",
+   "label": "Wood, tools, and containers",
+   "good": "Bowls, water bottles, knives, fishing floats, lamps. Your people can carry water and work after dark.",
+   "thin": "You have a few tools and containers. Everything else will have to be carved from whatever trees you find.",
+   "miss": "No ipu, no ʻohe, no kukui. Nothing to carry water in, nothing to cut with, and no light after sunset."
+  },
+  {
+   "key": "ceremony",
+   "label": "Ceremony and protection",
+   "good": "You can bless the new land, make offerings, and mark what is sacred. Your people arrive as themselves.",
+   "thin": "You can hold some of your ceremonies, but important pieces are missing.",
+   "miss": "No kī, no ʻawa. You cannot make proper offerings or bless a new home. Your people feel cut off from their gods and ancestors."
+  }
+ ],
+ "scores": {
+  "kalo": {
+   "foodLasting": 3,
+   "medicine": 1,
+   "ceremony": 2
+  },
+  "uala": {
+   "foodFast": 3,
+   "foodLasting": 1
+  },
+  "ulu": {
+   "foodLasting": 3,
+   "woodTools": 2
+  },
+  "niu": {
+   "foodFast": 2,
+   "foodLasting": 1,
+   "ropeCloth": 3,
+   "woodTools": 1
+  },
+  "maia": {
+   "foodFast": 1,
+   "foodLasting": 2,
+   "ceremony": 1
+  },
+  "ko": {
+   "foodFast": 1,
+   "medicine": 1
+  },
+  "awa": {
+   "ceremony": 3,
+   "medicine": 2
+  },
+  "kukui": {
+   "woodTools": 2,
+   "medicine": 2,
+   "ropeCloth": 1
+  },
+  "noni": {
+   "medicine": 3,
+   "ropeCloth": 1
+  },
+  "wauke": {
+   "ropeCloth": 3
+  },
+  "ohe": {
+   "woodTools": 3
+  },
+  "olena": {
+   "medicine": 2,
+   "ceremony": 2,
+   "ropeCloth": 1
+  },
+  "awapuhi": {
+   "medicine": 2
+  },
+  "uhi": {
+   "foodFast": 3,
+   "foodLasting": 1
+  },
+  "pia-five-leaf-yam": {
+   "foodLasting": 1
+  },
+  "hoi": {
+   "foodLasting": 1
+  },
+  "pia": {
+   "foodLasting": 1,
+   "medicine": 1
+  },
+  "ape": {
+   "foodLasting": 1,
+   "medicine": 1,
+   "ceremony": 1
+  },
+  "kamani": {
+   "woodTools": 3
+  },
+  "milo": {
+   "woodTools": 3
+  },
+  "ipu": {
+   "woodTools": 3,
+   "ceremony": 2
+  },
+  "ohia-ai": {
+   "foodLasting": 1,
+   "medicine": 1,
+   "woodTools": 1
+  },
+  "hau": {
+   "ropeCloth": 2,
+   "woodTools": 2
+  },
+  "auhuhu": {
+   "foodFast": 2
+  },
+  "ki": {
+   "ceremony": 3,
+   "ropeCloth": 1,
+   "medicine": 1,
+   "foodLasting": 1
+  },
+  "kou": {
+   "woodTools": 3
+  }
+ },
+ "reveal": {
+  "title": "What the voyagers actually did",
+  "text": [
+   "They did not choose eight. Over many voyages and many generations, they brought them all.",
+   "No single canoe carried the whole toolkit. Hawaiian traditions tell of round trips between Hawaiʻi and Kahiki, and each trip was a chance to bring something that was missing.",
+   "And not everything came from the same direction. ʻUala started in South America, thousands of miles east of every other plant on this list. Kou, it turns out, was already growing in Hawaiʻi when the first canoe arrived.",
+   "Every plant had to survive weeks at sea, wrapped and watered by people who were thirsty themselves. That is how much these plants mattered."
+  ]
+ }
+}

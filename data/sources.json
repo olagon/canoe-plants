@@ -11,6 +11,12 @@
   "year": "n.d.",
   "url": "https://niuolahiki.ahapunanaleo.org/"
  },
+ "akamine-1974": {
+  "title": "Passion fruit culture in Hawaii. University of Hawaii Cooperative Extension Service Circular 345",
+  "author": "E. K. Akamine and colleagues",
+  "year": "1974",
+  "url": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/AEC-345.pdf"
+ },
  "alameida-1997": {
   "title": "The legend of the wauke tree, from Nā moʻolelo Hawaiʻi o ka wā kahiko (Bess Press), posted at Kapa Kulture",
   "author": "Roy Kakulu Alameida",
@@ -22,6 +28,18 @@
   "author": "American Heritage, volume 14, issue 6",
   "year": "1963",
   "url": "https://www.americanheritage.com/niihau-shoal-time"
+ },
+ "athens-2009": {
+  "title": "Rattus exulans and the catastrophic disappearance of the native lowland forest of Hawaiʻi. Biological Invasions 11",
+  "author": "J. Stephen Athens",
+  "year": "2009",
+  "url": "https://doi.org/10.1007/s10530-008-9402-3"
+ },
+ "athens-2014": {
+  "title": "A paleoenvironmental and archaeological model-based age estimate for the colonization of Hawaiʻi. American Antiquity 79(1)",
+  "author": "J. Stephen Athens, Timothy M. Rieth, Thomas S. Dye",
+  "year": "2014",
+  "url": "https://doi.org/10.7183/0002-7316.79.1.144"
  },
  "beckwith-1940": {
   "title": "Hawaiian Mythology",
@@ -53,6 +71,12 @@
   "year": "2012",
   "url": "https://www.staradvertiser.com/2012/11/19/features/hawaii-gardens/versatile-pias-starchy-roots-used-for-thickening-haupia/"
  },
+ "burley-2012": {
+  "title": "High precision U/Th dating of first Polynesian settlement. PLOS ONE 7(11)",
+  "author": "David Burley, Marshall I. Weisler, Jian-xin Zhao",
+  "year": "2012",
+  "url": "https://doi.org/10.1371/journal.pone.0048769"
+ },
  "burney-2001": {
   "title": "Fossil evidence for a diverse biota from Kauaʻi and its transformation since human arrival. Ecological Monographs 71(4), 615 to 641",
   "author": "David A. Burney, Helen F. James, Lida Pigott Burney, Storrs L. Olson, William Kikuchi, Warren L. Wagner and colleagues",
@@ -71,11 +95,17 @@
   "year": "1994",
   "url": "https://www.canoeplants.com/"
  },
+ "cerezo-2023": {
+  "title": "Population structure and hybridisation in a population of Hawaiian feral chickens. Heredity 130",
+  "author": "Maria Luisa Martin Cerezo and colleagues",
+  "year": "2023",
+  "url": "https://doi.org/10.1038/s41437-022-00589-z"
+ },
  "chang-2015": {
-  "title": "A holistic picture of Austronesian migrations revealed by phylogeography of Pacific paper mulberry (PNAS 112, 13537 to 13542)",
+  "title": "A holistic picture of Austronesian migrations revealed by phylogeography of Pacific paper mulberry. PNAS 112(44)",
   "author": "Chi-Shan Chang and colleagues",
   "year": "2015",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/26438853/"
+  "url": "https://doi.org/10.1073/pnas.1503205112"
  },
  "cho-2007": {
   "title": "Hawaiian Kalo, Past and Future (Sustainable Agriculture SA-1)",
@@ -88,6 +118,18 @@
   "author": "Andrew C. Clarke, Michael K. Burtenshaw, Patricia A. McLenachan, David L. Erickson, and David Penny",
   "year": "2006",
   "url": "https://academic.oup.com/mbe/article/23/5/893/1058370"
+ },
+ "cowie-1998": {
+  "title": "Patterns of introduction of non-indigenous non-marine snails and slugs in the Hawaiian Islands. Biodiversity and Conservation 7",
+  "author": "Robert H. Cowie",
+  "year": "1998",
+  "url": "https://hbs.bishopmuseum.org/pdf/Cowie-1998.pdf"
+ },
+ "criley-2005": {
+  "title": "Plumeria in Hawaiʻi. CTAHR Ornamentals and Flowers OF-31",
+  "author": "Richard A. Criley",
+  "year": "2005",
+  "url": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/of-31.pdf"
  },
  "ctahr": {
   "title": "Hawaiian Native Plant Propagation Database, Thespesia populnea (milo)",
@@ -125,6 +167,12 @@
   "year": "2013",
   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3568348"
  },
+ "doucleff-2013": {
+  "title": "How the sweet potato crossed the Pacific way before the Europeans did. NPR, The Salt",
+  "author": "Michaeleen Doucleff",
+  "year": "2013",
+  "url": "https://www.npr.org/sections/thesalt/2013/01/22/169980441/how-the-sweet-potato-crossed-the-pacific-before-columbus"
+ },
  "duff-2014": {
   "title": "Awa plant has ancient history among Polynesians",
   "author": "Diana Duff, West Hawaii Today",
@@ -149,6 +197,30 @@
   "year": "2025",
   "url": "https://www.cirad.fr/en/press-area/press-releases/2025/origin-of-sugarcane-revealed"
  },
+ "gering-2015": {
+  "title": "Mixed ancestry and admixture in Kauai feral chickens, invasion of domestic genes into ancient Red Junglefowl reservoirs. Molecular Ecology 24(9)",
+  "author": "Eben Gering, Martin Johnsson, Pamela Willis, Thomas Getty, Dominic Wright",
+  "year": "2015",
+  "url": "https://doi.org/10.1111/mec.13096"
+ },
+ "gray-2009": {
+  "title": "Language phylogenies reveal expansion pulses and pauses in Pacific settlement. Science 323",
+  "author": "R. D. Gray, A. J. Drummond, S. J. Greenhill",
+  "year": "2009",
+  "url": "https://doi.org/10.1126/science.1166858"
+ },
+ "greig-2018": {
+  "title": "Complex history of dog (Canis familiaris) origins and translocations in the Pacific revealed by ancient mitogenomes. Scientific Reports 8",
+  "author": "Karen Greig and colleagues",
+  "year": "2018",
+  "url": "https://doi.org/10.1038/s41598-018-27363-8"
+ },
+ "groom-2019": {
+  "title": "The origin of Oxalis corniculata L. PeerJ 7",
+  "author": "Quentin J. Groom, Jan Van der Straeten, Ivan Hoste",
+  "year": "2019",
+  "url": "https://doi.org/10.7717/peerj.6384"
+ },
  "gunn-2011": {
   "title": "Independent origins of cultivated coconut (Cocos nucifera L.) in the Old World tropics",
   "author": "Bee F. Gunn, Luc Baudouin and Kenneth M. Olsen",
@@ -160,6 +232,12 @@
   "author": "Halekulani Living",
   "year": "",
   "url": "https://livingarchives.halekulani.com/culture/creation-of-kapa/"
+ },
+ "hamilton-1993": {
+  "title": "Origin and classification of mango varieties in Hawaii. Proceedings, Conference on Mango in Hawaii, CTAHR",
+  "author": "R. A. Hamilton",
+  "year": "1993",
+  "url": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/HITAHR_04-06-93_28-33.pdf"
  },
  "hanaoka-2014": {
   "title": "Genetic structures of Calophyllum inophyllum L., a tree employing sea-drift seed dispersal in the northern extreme of its distribution. Annals of Forest Science",
@@ -185,11 +263,29 @@
   "year": "",
   "url": "https://hawaiiannativeplants.com/ourplants/auhuhu/"
  },
+ "hdoa-ag-history": {
+  "title": "History of agriculture in Hawaii",
+  "author": "Hawaiʻi Department of Agriculture",
+  "year": "2013",
+  "url": "https://dab.hawaii.gov/wp-content/uploads/2013/01/HISTORY-OF-AGRICULTURE-IN-HAWAII.pdf"
+ },
+ "hess-2026": {
+  "title": "Biology and impacts of Pacific island invasive species 20, Rattus exulans, the Polynesian rat. Pacific Science 79(4)",
+  "author": "Steven C. Hess, Aaron B. Shiels and colleagues",
+  "year": "2026",
+  "url": "https://doi.org/10.2984/79.4.1"
+ },
  "hinkle-2007": {
   "title": "Population structure of Pacific Cordyline fruticosa (Laxmanniaceae) with implications for human settlement of Polynesia. American Journal of Botany 94(5), 828 to 839",
   "author": "Anya E. Hinkle",
   "year": "2007",
   "url": "https://pubmed.ncbi.nlm.nih.gov/21636452/"
+ },
+ "honolulu-magazine-poi-dog": {
+  "title": "The history of Hawaiʻi, Hawaiian poi dogs of old Polynesia",
+  "author": "Honolulu Magazine",
+  "year": "2020",
+  "url": "https://www.honolulumagazine.com/the-history-of-hawaii-hawaiian-poi-dogs-of-old-polynesia/"
  },
  "hookuaaina-haloa": {
   "title": "Hāloa, the story of our ancestor",
@@ -234,10 +330,10 @@
   "url": "https://imagesofoldhawaii.com/wauke/"
  },
  "ioannidis-2020": {
-  "title": "Native American gene flow into Polynesia predating Easter Island settlement",
+  "title": "Native American gene flow into Polynesia predating Easter Island settlement. Nature 583",
   "author": "Alexander G. Ioannidis and colleagues",
   "year": "2020",
-  "url": "https://www.nature.com/articles/s41586-020-2487-2"
+  "url": "https://doi.org/10.1038/s41586-020-2487-2"
  },
  "johnston-rogers-2006": {
   "title": "Hawaiian ʻawa, views of an ethnobotanical treasure",
@@ -311,6 +407,18 @@
   "year": "n.d.",
   "url": "https://keolamagazine.com/music/hawaiian-nose-flute/"
  },
+ "kirch-2010": {
+  "title": "Peopling of the Pacific, a holistic anthropological perspective. Annual Review of Anthropology 39",
+  "author": "Patrick V. Kirch",
+  "year": "2010",
+  "url": "https://doi.org/10.1146/annurev.anthro.012809.104936"
+ },
+ "kirch-2011": {
+  "title": "When did the Polynesians settle Hawaiʻi? A review of 150 years of scholarly inquiry and a tentative answer. Hawaiian Archaeology 12(1)",
+  "author": "Patrick V. Kirch",
+  "year": "2011",
+  "url": "https://evols.library.manoa.hawaii.edu/items/6efe6b3b-7a0e-4290-82bf-7f2ebf9dbac0"
+ },
  "kistler-2014": {
   "title": "Transoceanic drift and the domestication of African bottle gourds in the Americas. Proceedings of the National Academy of Sciences",
   "author": "Logan Kistler, Álvaro Montenegro, Bruce D. Smith, John A. Gifford, Richard E. Green, Lee A. Newsom, and Beth Shapiro",
@@ -347,6 +455,18 @@
   "year": "2020",
   "url": "https://uhpress.hawaii.edu/title/ko-an-ethnobotanical-guide-to-hawaiian-sugarcane-cultivars/"
  },
+ "linderholm-2016": {
+  "title": "A novel MC1R allele for black coat colour reveals the Polynesian ancestry and hybridization patterns of Hawaiian feral pigs. Royal Society Open Science 3(9)",
+  "author": "Anna Linderholm and colleagues",
+  "year": "2016",
+  "url": "https://doi.org/10.1098/rsos.160304"
+ },
+ "little-skolmen-1989": {
+  "title": "Common forest trees of Hawaii, native and introduced. USDA Agriculture Handbook 679, reprinted by CTAHR in 2003",
+  "author": "Elbert L. Little Jr., Roger G. Skolmen",
+  "year": "1989",
+  "url": "https://www.ctahr.hawaii.edu/gsp/doc/Forestry/Little_Skolmen_CFT/CFT_Prosopis_pallida.pdf"
+ },
  "little-skolmen-hau": {
   "title": "Common Forest Trees of Hawaii (Native and Introduced), Agriculture Handbook 679. Hau, sea hibiscus",
   "author": "Elbert L. Little Jr. and Roger G. Skolmen, USDA Forest Service, reprinted by UH CTAHR 2003",
@@ -377,6 +497,12 @@
   "year": "2017",
   "url": "https://www.ecologyandsociety.org/vol22/iss2/art23/"
  },
+ "matisoo-smith-2004": {
+  "title": "Origins and dispersals of Pacific peoples, evidence from mtDNA phylogenies of the Pacific rat. PNAS 101(24)",
+  "author": "Elizabeth Matisoo-Smith, Judith H. Robins",
+  "year": "2004",
+  "url": "https://doi.org/10.1073/pnas.0403120101"
+ },
  "maui-magazine-kukui": {
   "title": "Kukui, tree of light",
   "author": "Maui Nō Ka ʻOi Magazine",
@@ -388,6 +514,12 @@
   "author": "Maui Nō Ka ʻOi Magazine",
   "year": "n.d.",
   "url": "https://www.mauimagazine.net/pua-olena/"
+ },
+ "maui-news-2024": {
+  "title": "The first moʻo in Hawaiʻi may have arrived without help of humans",
+  "author": "The Maui News",
+  "year": "2024",
+  "url": "https://www.mauinews.com/news/local-news/2024/08/hawaiis-first-moo-may-have-arrived-without-help-of-humans/"
  },
  "mauinow-2016": {
   "title": "Maui sugar, end of an era. HC&S operations nearing end",
@@ -408,10 +540,16 @@
   "url": "https://mnbg.org/hawaiian-native-plant-collection/"
  },
  "munoz-rodriguez-2018": {
-  "title": "Reconciling conflicting phylogenies in the origin of sweet potato and dispersal to Polynesia",
+  "title": "Reconciling conflicting phylogenies in the origin of sweet potato and dispersal to Polynesia. Current Biology 28(8)",
   "author": "Pablo Muñoz-Rodríguez and colleagues",
   "year": "2018",
-  "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(18)30321-X"
+  "url": "https://doi.org/10.1016/j.cub.2018.03.020"
+ },
+ "native-plants-hawaii": {
+  "title": "Native Plants Hawaiʻi",
+  "author": "University of Hawaiʻi, Leeward Community College",
+  "year": "2026",
+  "url": "https://nativeplants.hawaii.edu/"
  },
  "nccih-kava": {
   "title": "Kava",
@@ -443,11 +581,17 @@
   "year": "2023",
   "url": "https://news.northwestern.edu/stories/2023/01/caribbean-breadfruit-traced-back-to-capt-blighs-1791-93-journey"
  },
+ "nps-havo-invasive": {
+  "title": "Invasive animals, Hawaiʻi Volcanoes National Park",
+  "author": "U.S. National Park Service",
+  "year": "2026",
+  "url": "https://www.nps.gov/havo/learn/nature/invasive-animals.htm"
+ },
  "ntbg": {
-  "title": "Tropical Plants Database",
+  "title": "Tropical Plants Database, Pandanus tectorius",
   "author": "National Tropical Botanical Garden",
-  "year": "",
-  "url": "https://ntbg.org/database/plants/"
+  "year": "2026",
+  "url": "https://ntbg.org/database/plants/detail/pandanus-tectorius"
  },
  "ntbg-breadfruit": {
   "title": "Breadfruit collections, Breadfruit Institute",
@@ -497,11 +641,29 @@
   "year": "",
   "url": "https://plantpono.org/"
  },
+ "plant-pono-hala": {
+  "title": "Pandanus tectorius, hala",
+  "author": "Plant Pono, Coordinating Group on Alien Pest Species",
+  "year": "2026",
+  "url": "https://plantpono.org/pono-plants/pandanus-tectorius-hala/"
+ },
+ "pope-1924": {
+  "title": "The Guatemalan avocado in Hawaii. Hawaii Agricultural Experiment Station Bulletin 51",
+  "author": "W. T. Pope",
+  "year": "1924",
+  "url": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/B-51.pdf"
+ },
  "primitiveways-fish-toxins": {
   "title": "Fishing with Traditional Plant Poisons (cites Abbott 1992, Lāʻau Hawaiʻi)",
   "author": "Primitive Ways",
   "year": "",
   "url": "https://www.primitiveways.com/fish_toxins.html"
+ },
+ "pvs": {
+  "title": "Polynesian Voyaging Society, Hōkūleʻa voyage histories and the Hawaiian Voyaging Traditions archive",
+  "author": "Polynesian Voyaging Society",
+  "year": "2026",
+  "url": "https://hokulea.com/"
  },
  "pvs-canoe-plants": {
   "title": "Plants and tools used for building canoes, Hawaiian Voyaging Traditions",
@@ -540,10 +702,10 @@
   "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-154134"
  },
  "roullier-2013": {
-  "title": "Historical collections reveal patterns of diffusion of sweet potato in Oceania obscured by modern plant movements and recombination",
-  "author": "Caroline Roullier, Laure Benoit, Doyle B. McKey and Vincent Lebot",
+  "title": "Historical collections reveal patterns of diffusion of sweet potato in Oceania obscured by modern plant movements and recombination. PNAS 110(6)",
+  "author": "Caroline Roullier, Laure Benoit, Doyle B. McKey, Vincent Lebot",
   "year": "2013",
-  "url": "https://www.pnas.org/doi/10.1073/pnas.1211049110"
+  "url": "https://doi.org/10.1073/pnas.1211049110"
  },
  "sharif-2020": {
   "title": "Genome-wide genotyping elucidates the geographical diversification and dispersal of the polyploid and clonally propagated yam (Dioscorea alata)",
@@ -562,6 +724,18 @@
   "author": "Harold St. John and Kuaika Jendrusch",
   "year": "1980",
   "url": "https://archive.hokulea.com/ike/moolelo/polynesian_plants.html"
+ },
+ "strohecker-2016": {
+  "title": "Gold dust day geckos are only the latest moʻo to make Maui home",
+  "author": "Lissa Strohecker, Maui Invasive Species Committee",
+  "year": "2016",
+  "url": "https://mauiinvasive.org/2016/06/21/gold-dust-day-geckos/"
+ },
+ "thomson-2014": {
+  "title": "Using ancient DNA to study the origins and dispersal of ancestral Polynesian chickens across the Pacific. PNAS 111(13)",
+  "author": "Vicki A. Thomson and colleagues",
+  "year": "2014",
+  "url": "https://doi.org/10.1073/pnas.1320412111"
  },
  "thrum-1907": {
   "title": "Hawaiian Folk Tales, chapter 25, Fish Stories and Superstitions, translated by M. K. Nakuina",
@@ -666,10 +840,10 @@
   "url": "https://source.washu.edu/2011/06/deep-history-of-coconuts-decoded/"
  },
  "wehewehe": {
-  "title": "Hawaiian Dictionary (revised and enlarged edition), searched through Wehewehe Wikiwiki and wehewehe.org",
-  "author": "Mary Kawena Pukui and Samuel H. Elbert",
-  "year": "1986",
-  "url": "https://hilo.hawaii.edu/wehe/"
+  "title": "Wehewehe Wikiwiki Hawaiian language dictionaries, including Pukui and Elbert (1986) and Andrews (1865)",
+  "author": "University of Hawaiʻi at Hilo and Ulukau",
+  "year": "2026",
+  "url": "https://wehe.hilo.hawaii.edu/"
  },
  "west-hawaii-today-olena-2025": {
   "title": "Plant of the month for October 2025: turmeric, ʻōlena",
@@ -724,6 +898,18 @@
   "author": "Wildlife of Hawaii",
   "year": "n.d.",
   "url": "https://wildlifeofhawaii.com/flowers/1965/dioscorea-bulbifera-air-yam/"
+ },
+ "wilmshurst-2008": {
+  "title": "Dating the late prehistoric dispersal of Polynesians to New Zealand using the commensal Pacific rat. PNAS 105(22)",
+  "author": "Janet M. Wilmshurst, Atholl J. Anderson, Thomas F. G. Higham, Trevor H. Worthy",
+  "year": "2008",
+  "url": "https://doi.org/10.1073/pnas.0801507105"
+ },
+ "wilmshurst-2011": {
+  "title": "High-precision radiocarbon dating shows recent and rapid initial human colonization of East Polynesia. PNAS 108(5)",
+  "author": "Janet M. Wilmshurst, Terry L. Hunt, Carl P. Lipo, Atholl J. Anderson",
+  "year": "2011",
+  "url": "https://doi.org/10.1073/pnas.1015876108"
  },
  "wilson-1988": {
   "title": "A practical guide to identifying yams: the main species of Dioscorea in the Pacific Islands",
