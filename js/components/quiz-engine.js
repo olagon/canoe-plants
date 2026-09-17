@@ -45,7 +45,7 @@ export function quizEngine(root, questions, plants) {
       else if (b === btn) b.classList.add('is-wrong');
     });
     root.querySelector('.quiz__after').innerHTML = `
-      <p class="verdict ${right ? 'verdict--right' : 'verdict--wrong'}">${right ? 'Correct.' : `Not quite. The answer is ${haw(q.answer)}.`}</p>
+      <p class="verdict ${right ? 'verdict--right' : 'verdict--wrong'}">${right ? 'Correct.' : 'Not quite.'}</p>
       <p>${haw(q.explain)}</p>
       <button type="button" class="btn" data-next>${i + 1 < round.length ? 'Next question' : 'See my score'}</button>`;
     root.querySelector('[data-next]').focus();
