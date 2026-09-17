@@ -84,8 +84,8 @@ def main():
                 crop = ["-gravity", entry.get("gravity", "center"), "-crop", f"{entry['crop']}+0+0", "+repage"] if entry.get("crop") else []
                 for size in SIZES:
                     base = ["magick", f"{raw}[0]", "-auto-orient", "-strip", "-colorspace", "sRGB", *crop, "-resize", f"{size}x>"]
-                    subprocess.run(base + ["-quality", "80", "-interlace", "Plane", "-background", "white", "-flatten", str(folder / f"{name}-{size}.jpg")], check=True)
-                    subprocess.run(base + ["-quality", "76", "-define", "webp:method=6", str(folder / f"{name}-{size}.webp")], check=True)
+                    subprocess.run(base + ["-quality", "76", "-interlace", "Plane", "-background", "white", "-flatten", str(folder / f"{name}-{size}.jpg")], check=True)
+                    subprocess.run(base + ["-quality", "64", "-define", "webp:method=6", str(folder / f"{name}-{size}.webp")], check=True)
             w, h = subprocess.run(["magick", "identify", "-format", "%w %h", str(folder / f"{name}-{SIZES[0]}.jpg")],
                                   check=True, capture_output=True, text=True).stdout.split()
         except Exception as err:

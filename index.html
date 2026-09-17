@@ -30,6 +30,17 @@
   <link rel="modulepreload" href="js/progress.js">
   <link rel="preload" href="data/plants.json" as="fetch" crossorigin>
   <link rel="preload" href="data/glossary.json" as="fetch" crossorigin>
+  <script>
+    // Start fetching the code and data for the view in the address bar right away, before app.js asks for it.
+    (function () {
+      var seg = (location.hash.split('?')[0].split('/')[1] || 'home');
+      var view = { 'pack-the-canoe': 'pack' }[seg] || seg;
+      var data = { home: ['home', 'credits'], plant: ['sources', 'credits'], voyage: ['voyage-map', 'timeline', 'sources'], quiz: ['quiz'], 'pack-the-canoe': ['pack-the-canoe'] }[seg] || [];
+      function hint(rel, href, as) { var l = document.createElement('link'); l.rel = rel; l.href = href; if (as) { l.as = as; l.crossOrigin = 'anonymous'; } document.head.appendChild(l); }
+      if (['home', 'voyage', 'plants', 'plant', 'pack', 'quiz', 'myths', 'companions', 'glossary', 'teachers', 'credits'].indexOf(view) > -1) hint('modulepreload', 'js/views/' + view + '.js');
+      data.forEach(function (d) { hint('preload', 'data/' + d + '.json', 'fetch'); });
+    })();
+  </script>
   <script type="module" src="js/app.js"></script>
 </head>
 <body>

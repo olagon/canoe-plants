@@ -11,10 +11,9 @@ const STATUS_NOTE = {
 };
 
 export default async function plantView({ params, query }) {
-  const found = await plantBySlug(params.slug);
+  const [found, sources, credits] = await Promise.all([plantBySlug(params.slug), load('sources'), load('credits')]);
   if (!found) return null;
   const { plant: p, prev, next } = found;
-  const [sources, credits] = await Promise.all([load('sources'), load('credits')]);
   const credit = creditMap(credits);
   const hero = heroImage(p);
 
