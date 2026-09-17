@@ -1,1 +1,854 @@
-[]
+[
+  {
+    "id": "q01",
+    "tier": "easy",
+    "type": "photo",
+    "image": "kalo",
+    "question": "Which plant is this? In tradition it is the elder sibling of the Hawaiian people.",
+    "choices": [
+      "Niu",
+      "Kalo",
+      "Kō",
+      "Kī"
+    ],
+    "answer": "Kalo",
+    "explain": "This is kalo (taro). In tradition, the first kalo grew from the grave of Hāloa, the stillborn elder brother of the first Hawaiian. Its corm is pounded into poi."
+  },
+  {
+    "id": "q02",
+    "tier": "easy",
+    "type": "photo",
+    "image": "niu",
+    "question": "Which plant is this? Fiber from its husk was braided into cord that tied canoes together.",
+    "choices": [
+      "Niu",
+      "ʻUlu",
+      "Kukui",
+      "Maiʻa"
+    ],
+    "answer": "Niu",
+    "explain": "This is niu (coconut). Its husk fiber became ʻaha, the strong cord that lashed canoes and houses together with no nails."
+  },
+  {
+    "id": "q03",
+    "tier": "easy",
+    "type": "photo",
+    "image": "maia",
+    "question": "Which plant is this? It looks like a tree, but it is really a giant herb.",
+    "choices": [
+      "Maiʻa",
+      "ʻApe",
+      "Kō",
+      "Kī"
+    ],
+    "answer": "Maiʻa",
+    "explain": "This is maiʻa (banana). The trunk is a tight roll of leaf bases, not wood. Each stalk fruits just once, then a young shoot called a keiki takes over."
+  },
+  {
+    "id": "q04",
+    "tier": "easy",
+    "type": "photo",
+    "image": "ulu",
+    "question": "Which plant is this? Its big starchy fruit has no seeds, so voyagers carried living root shoots.",
+    "choices": [
+      "Kukui",
+      "ʻŌhiʻa ʻai",
+      "Noni",
+      "ʻUlu"
+    ],
+    "answer": "ʻUlu",
+    "explain": "This is ʻulu (breadfruit). Every tree grows from a shoot off the roots of an older tree. In tradition, the god Kū became the first ʻulu tree to feed his family in a famine."
+  },
+  {
+    "id": "q05",
+    "tier": "easy",
+    "type": "photo",
+    "image": "kukui",
+    "question": "Which plant is this? Its oily nuts were burned for light.",
+    "choices": [
+      "Kukui",
+      "Hau",
+      "Noni",
+      "Milo"
+    ],
+    "answer": "Kukui",
+    "explain": "This is kukui (candlenut), the state tree of Hawaiʻi. Nuts were strung on the rib of a coconut leaf and burned one after another like a candle."
+  },
+  {
+    "id": "q06",
+    "tier": "easy",
+    "type": "photo",
+    "image": "ki",
+    "question": "Which plant is this? Its leaves still wrap laulau today.",
+    "choices": [
+      "ʻAwapuhi",
+      "ʻApe",
+      "Kī",
+      "ʻŌlena"
+    ],
+    "answer": "Kī",
+    "explain": "This is kī (ti). Its leaves were food wrap, plates, rain capes, and hula skirts. Many families still plant green kī by the house for protection."
+  },
+  {
+    "id": "q07",
+    "tier": "easy",
+    "type": "photo",
+    "image": "ipu",
+    "question": "Which plant is this? Two of its dried fruits joined together make the drum that keeps the beat for hula.",
+    "choices": [
+      "Niu",
+      "Ipu",
+      "ʻUlu",
+      "Noni"
+    ],
+    "answer": "Ipu",
+    "explain": "This is ipu (bottle gourd). Hawaiians did not make clay pots, so dried gourds were their water bottles, food containers, and drums. The joined drum is called the ipu heke."
+  },
+  {
+    "id": "q08",
+    "tier": "easy",
+    "type": "use",
+    "question": "There was no cotton or wool in old Hawaiʻi. Which plant had its inner bark beaten into kapa cloth?",
+    "choices": [
+      "Kalo",
+      "Noni",
+      "Kukui",
+      "Wauke"
+    ],
+    "answer": "Wauke",
+    "explain": "Wauke (paper mulberry) bark was soaked and beaten into kapa for clothing, blankets, and wrapping sacred things. Carved beaters pressed a hidden watermark into the cloth."
+  },
+  {
+    "id": "q09",
+    "tier": "easy",
+    "type": "use",
+    "question": "Which plant was pounded and scattered in tide pools to stun fish?",
+    "choices": [
+      "ʻAuhuhu",
+      "ʻApe",
+      "ʻAwapuhi",
+      "ʻAwa"
+    ],
+    "answer": "ʻAuhuhu",
+    "explain": "ʻAuhuhu stunned small fish so they floated up and could be picked up by hand. The fish were drugged, not killed, and people ate the catch with no ill effects. Today this is against the law without a permit."
+  },
+  {
+    "id": "q10",
+    "tier": "easy",
+    "type": "fact",
+    "question": "What is poi?",
+    "choices": [
+      "Coconut meat baked in an imu",
+      "Raw ʻuala mashed with salt",
+      "Cooked kalo pounded smooth and thinned with water",
+      "Kukui nuts roasted with salt"
+    ],
+    "answer": "Cooked kalo pounded smooth and thinned with water",
+    "explain": "Poi is called the Hawaiian staff of life. The kalo corm is steamed in an imu, pounded, and thinned with water. Roasted kukui nuts with salt make a relish called ʻinamona."
+  },
+  {
+    "id": "q11",
+    "tier": "easy",
+    "type": "origin",
+    "question": "Most canoe plants came from Asia and the western Pacific. Which one came from South America?",
+    "choices": [
+      "Wauke",
+      "ʻUala",
+      "Kalo",
+      "Kō"
+    ],
+    "answer": "ʻUala",
+    "explain": "ʻUala (sweet potato) is from South America, yet Polynesians grew it long before any European ship reached the Pacific. Many researchers think voyagers sailed to South America and brought it home. A few argue its seeds could have drifted across with no help."
+  },
+  {
+    "id": "q12",
+    "tier": "easy",
+    "type": "origin",
+    "question": "In 1976 the voyaging canoe Hōkūleʻa sailed from Hawaiʻi with no instruments. Where did she land?",
+    "choices": [
+      "South America",
+      "Tahiti",
+      "Alaska",
+      "Aotearoa"
+    ],
+    "answer": "Tahiti",
+    "explain": "Hōkūleʻa left Maui on May 1, 1976 and reached Tahiti on June 4. The voyage showed that Polynesians could sail these routes on purpose, not just drift by accident."
+  },
+  {
+    "id": "q13",
+    "tier": "easy",
+    "type": "myth",
+    "question": "Which of these is NOT a canoe plant?",
+    "choices": [
+      "Niu",
+      "Pineapple",
+      "Kō",
+      "Kalo"
+    ],
+    "answer": "Pineapple",
+    "explain": "Pineapple is from South America and was growing in Honolulu by 1813. Its Hawaiian name, hala kahiki, means foreign hala. Kalo, niu, and kō all came in the canoes."
+  },
+  {
+    "id": "q14",
+    "tier": "easy",
+    "type": "myth",
+    "question": "Which of these fruits was already growing in Hawaiʻi before 1778?",
+    "choices": [
+      "ʻŌhiʻa ʻai (mountain apple)",
+      "Papaya",
+      "Guava",
+      "Mango"
+    ],
+    "answer": "ʻŌhiʻa ʻai (mountain apple)",
+    "explain": "ʻŌhiʻa ʻai came by canoe and may have been one of the very few fruits in old Hawaiʻi. Mango, papaya, and guava all arrived after 1778."
+  },
+  {
+    "id": "q15",
+    "tier": "easy",
+    "type": "fact",
+    "question": "Which animals did the voyagers bring in their canoes?",
+    "choices": [
+      "Horses, cows, and goats",
+      "Cats, sheep, and ducks",
+      "Pigs, dogs, and chickens",
+      "Deer, rabbits, and turkeys"
+    ],
+    "answer": "Pigs, dogs, and chickens",
+    "explain": "Puaʻa (pig), ʻīlio (dog), and moa (chicken) sailed with the plants. The ʻiole, the Polynesian rat, came along too, maybe as a stowaway."
+  },
+  {
+    "id": "q16",
+    "tier": "easy",
+    "type": "fact",
+    "question": "What is a waʻa?",
+    "choices": [
+      "A flooded terrace for growing kalo",
+      "A beater for making kapa",
+      "An underground oven",
+      "A canoe"
+    ],
+    "answer": "A canoe",
+    "explain": "A waʻa is a canoe. The canoe plants are the plants that voyagers carried across the Pacific in their waʻa. A flooded kalo terrace is a loʻi, and an underground oven is an imu."
+  },
+  {
+    "id": "q17",
+    "tier": "easy",
+    "type": "fact",
+    "question": "The word ʻohana means family. Which plant does it come from?",
+    "choices": [
+      "ʻOhe",
+      "Niu",
+      "ʻUala",
+      "Kalo"
+    ],
+    "answer": "Kalo",
+    "explain": "ʻOhana comes from ʻohā, the baby shoots that sprout from the side of a kalo corm. A family grows the way kalo does, from one source."
+  },
+  {
+    "id": "q18",
+    "tier": "easy",
+    "type": "fact",
+    "question": "Kukui is the state tree of Hawaiʻi. What else does the word kukui mean?",
+    "choices": [
+      "Lamp, light, or torch",
+      "Yellow",
+      "Family",
+      "Canoe"
+    ],
+    "answer": "Lamp, light, or torch",
+    "explain": "Kukui nuts lit the night in old Hawaiʻi, so the word also means lamp, light, or torch. That is why the tree stands for knowledge too. It became the official tree in 1959."
+  },
+  {
+    "id": "q19",
+    "tier": "easy",
+    "type": "use",
+    "question": "Which plant was made into a flute that you play with your nose?",
+    "choices": [
+      "ʻOhe",
+      "Ipu",
+      "Kō",
+      "Hau"
+    ],
+    "answer": "ʻOhe",
+    "explain": "The ʻohe hano ihu is a nose flute made of ʻohe (Polynesian bamboo). Its sound is soft on purpose. It is known as a sweetheart instrument, made for one special listener."
+  },
+  {
+    "id": "q20",
+    "tier": "easy",
+    "type": "use",
+    "question": "Which plant was made into a calming drink for ceremony and for welcoming guests?",
+    "choices": [
+      "Noni",
+      "ʻAwapuhi",
+      "Kō",
+      "ʻAwa"
+    ],
+    "answer": "ʻAwa",
+    "explain": "The root of ʻawa (kava) was chewed or pounded, mixed with water, and strained. It was offered to the gods and served to honor guests. Today it is a drink for adults."
+  },
+  {
+    "id": "q21",
+    "tier": "medium",
+    "type": "photo",
+    "image": "ko",
+    "question": "Which plant is this? Its sweet juice helped bitter medicine go down.",
+    "choices": [
+      "Kī",
+      "Kō",
+      "ʻOhe",
+      "ʻAwa"
+    ],
+    "answer": "Kō",
+    "explain": "This is kō (sugarcane). People chewed the raw stalk as a snack, and the juice sweetened bitter herbal medicines. It was first tamed in New Guinea about 8,000 years ago."
+  },
+  {
+    "id": "q22",
+    "tier": "medium",
+    "type": "photo",
+    "image": "noni",
+    "question": "Which plant is this? Its ripe fruit smells like strong blue cheese.",
+    "choices": [
+      "Kamani",
+      "Noni",
+      "ʻUlu",
+      "ʻŌhiʻa ʻai"
+    ],
+    "answer": "Noni",
+    "explain": "This is noni. Hawaiians used the smelly fruit and the leaves as medicine anyway, and ate the fruit when food ran short. Its roots and bark give a yellow dye that turns red when lime is added."
+  },
+  {
+    "id": "q23",
+    "tier": "medium",
+    "type": "photo",
+    "image": "awapuhi",
+    "question": "Which plant is this? Squeeze the ripe red cone and out comes a slippery shampoo.",
+    "choices": [
+      "ʻAwapuhi",
+      "ʻŌlena",
+      "ʻAwa",
+      "Pia"
+    ],
+    "answer": "ʻAwapuhi",
+    "explain": "This is ʻawapuhi (shampoo ginger). Hawaiian women squeezed the juice straight into their hair at forest pools. The name is still on shampoo bottles sold around the world."
+  },
+  {
+    "id": "q24",
+    "tier": "medium",
+    "type": "photo",
+    "image": "hau",
+    "question": "Which plant is this? Its bark made strong rope and its light wood became outrigger floats.",
+    "choices": [
+      "Kamani",
+      "Hau",
+      "ʻŌhiʻa ʻai",
+      "Kou"
+    ],
+    "answer": "Hau",
+    "explain": "This is hau (sea hibiscus). Each flower lives one day, opening yellow and turning dull red before it drops. Its seeds float, so scientists are not fully sure if voyagers brought it or if it arrived by sea."
+  },
+  {
+    "id": "q25",
+    "tier": "medium",
+    "type": "photo",
+    "image": "ohia-ai",
+    "question": "Which plant is this? Its hot pink flowers burst straight out of the trunk and branches.",
+    "choices": [
+      "ʻŌhiʻa ʻai",
+      "Kou",
+      "Kamani",
+      "Noni"
+    ],
+    "answer": "ʻŌhiʻa ʻai",
+    "explain": "This is ʻōhiʻa ʻai (mountain apple). The name means edible ʻōhiʻa. It is a cousin of ʻōhiʻa lehua, but only ʻōhiʻa ʻai came by canoe."
+  },
+  {
+    "id": "q26",
+    "tier": "medium",
+    "type": "use",
+    "question": "Which plant gave kapa a bright yellow dye and has a name that also means yellow?",
+    "choices": [
+      "Kō",
+      "Kukui",
+      "ʻŌlena",
+      "Wauke"
+    ],
+    "answer": "ʻŌlena",
+    "explain": "ʻŌlena (turmeric) dyed kapa from pale yellow to deep mustard. It is the same species as the turmeric in curry powder. It was also mixed into sea water for purifying ceremonies."
+  },
+  {
+    "id": "q27",
+    "tier": "medium",
+    "type": "origin",
+    "question": "In 2015 scientists tested wauke DNA from across the Pacific. Where did it trace back to?",
+    "choices": [
+      "Australia",
+      "South America",
+      "Africa",
+      "Taiwan"
+    ],
+    "answer": "Taiwan",
+    "explain": "Wauke was grown from cuttings, so its DNA works like a shipping label. The label points back to Taiwan, where scholars think the ancestors of the Polynesians began sailing about 5,000 years ago."
+  },
+  {
+    "id": "q28",
+    "tier": "medium",
+    "type": "origin",
+    "question": "When do most archaeologists now think voyagers first reached Hawaiʻi?",
+    "choices": [
+      "Around 300 to 750 CE",
+      "Around 1778 CE",
+      "Around 3000 BCE",
+      "Around 1000 to 1200 CE"
+    ],
+    "answer": "Around 1000 to 1200 CE",
+    "explain": "Better radiocarbon dating points to around 1000 to 1200 CE. Older books say 300 to 750 CE, but those dates came from samples like old wood that can fool the test."
+  },
+  {
+    "id": "q29",
+    "tier": "medium",
+    "type": "myth",
+    "question": "Which statement about kou is true?",
+    "choices": [
+      "It arrived on a sailing ship after 1778",
+      "It was growing in Hawaiʻi thousands of years before people arrived",
+      "Its wood gives poi a bad taste",
+      "It came from South America along with ʻuala"
+    ],
+    "answer": "It was growing in Hawaiʻi thousands of years before people arrived",
+    "explain": "Kou sat on every canoe plant list for years. Then scientists found kou fruits in a cave on Kauaʻi that were more than 5,000 years old. The fruits float, so kou beat the canoes here. It is a great lesson in how science updates."
+  },
+  {
+    "id": "q30",
+    "tier": "medium",
+    "type": "myth",
+    "question": "Milo and hau are both labeled as debated. Why are scientists not sure they are canoe plants?",
+    "choices": [
+      "Their seeds can float across the ocean, so they may have arrived without people",
+      "They might be the same plant",
+      "Nobody knows if Hawaiians ever used them",
+      "They may have arrived after 1778"
+    ],
+    "answer": "Their seeds can float across the ocean, so they may have arrived without people",
+    "explain": "Milo and hau seeds can survive for months in salt water. Voyagers probably brought them, but the trees could also have floated here with no canoe at all. Books still do not agree."
+  },
+  {
+    "id": "q31",
+    "tier": "medium",
+    "type": "myth",
+    "question": "Koa is not a canoe plant. So what is its link to canoes?",
+    "choices": [
+      "Its leaves were woven into sails",
+      "Hawaiians carved their canoes from it",
+      "Its sap sealed the seams of the hull",
+      "Its seeds were the main food on long voyages"
+    ],
+    "answer": "Hawaiians carved their canoes from it",
+    "explain": "Koa did not ride in the canoe. Koa was the canoe. This giant forest tree grows naturally nowhere else on Earth."
+  },
+  {
+    "id": "q32",
+    "tier": "medium",
+    "type": "use",
+    "question": "Which plant gave the starch that first thickened haupia, the coconut pudding?",
+    "choices": [
+      "Kalo",
+      "Piʻa",
+      "Uhi",
+      "Pia"
+    ],
+    "answer": "Pia",
+    "explain": "Pia (Polynesian arrowroot) tubers were grated and rinsed until a fine white starch settled out. Most haupia today uses cornstarch. Watch the ʻokina. Piʻa is a yam, a totally different plant."
+  },
+  {
+    "id": "q33",
+    "tier": "medium",
+    "type": "fact",
+    "question": "Every ʻawa plant alive today was grown from a cutting. Why?",
+    "choices": [
+      "Its seeds only sprout in salt water",
+      "Birds eat all of its seeds",
+      "Its seeds take 100 years to sprout",
+      "ʻAwa cannot make seeds"
+    ],
+    "answer": "ʻAwa cannot make seeds",
+    "explain": "No one has ever found a working ʻawa seed anywhere in the world. Voyagers had to keep living stem cuttings alive all the way across the ocean."
+  },
+  {
+    "id": "q34",
+    "tier": "medium",
+    "type": "fact",
+    "question": "The mutiny on the Bounty in 1789 happened on a trip to carry which plant from Tahiti to the Caribbean?",
+    "choices": [
+      "Niu",
+      "Kō",
+      "ʻUlu",
+      "Kalo"
+    ],
+    "answer": "ʻUlu",
+    "explain": "The ship was hauling ʻulu (breadfruit). Captain Bligh went back on another ship and delivered the trees in 1793. Caribbean breadfruit still descends from them."
+  },
+  {
+    "id": "q35",
+    "tier": "medium",
+    "type": "fact",
+    "question": "What is a kinolau?",
+    "choices": [
+      "A gift given in ceremony",
+      "A body form that a god can take, such as a plant or an animal",
+      "A sacred rule about eating",
+      "A flooded terrace for growing kalo"
+    ],
+    "answer": "A body form that a god can take, such as a plant or an animal",
+    "explain": "In tradition a god can take many body forms. Kalo is a kinolau of Kāne, ʻulu of Kū, maiʻa of Kanaloa, and ipu of Lono."
+  },
+  {
+    "id": "q36",
+    "tier": "medium",
+    "type": "fact",
+    "question": "What happened to the original Hawaiian poi dog?",
+    "choices": [
+      "It still runs wild in the forests of Kauaʻi",
+      "It was never in Hawaiʻi at all",
+      "The breed is gone, and poi dog now just means a mixed breed",
+      "It is still bred at the Honolulu Zoo"
+    ],
+    "answer": "The breed is gone, and poi dog now just means a mixed breed",
+    "explain": "The ʻīlio sailed with the voyagers as a companion and as food. Around 1970 the Honolulu Zoo tried to breed it back, but the project faded out."
+  },
+  {
+    "id": "q37",
+    "tier": "medium",
+    "type": "use",
+    "question": "Which yam could sit raw for months without spoiling, which made it perfect for a long voyage?",
+    "choices": [
+      "Piʻa",
+      "Uhi",
+      "Pia",
+      "Hoi"
+    ],
+    "answer": "Uhi",
+    "explain": "Uhi (greater yam) was food and planting material in one. Voyagers could eat some on the way and plant the rest. Later, whaling crews loved Niʻihau yams for the same reason."
+  },
+  {
+    "id": "q38",
+    "tier": "medium",
+    "type": "fact",
+    "question": "Hoi is also called the air potato. Why?",
+    "choices": [
+      "It grows only on high, windy cliffs",
+      "Round tubers grow right on the vine, up in the air",
+      "It was dried in the air before eating",
+      "Its tubers are so light they float on the wind"
+    ],
+    "answer": "Round tubers grow right on the vine, up in the air",
+    "explain": "Hoi grows tubers where the leaves join the stem. Hawaiian has a special word for them, ʻalaʻala. They are poisonous raw, so hoi was eaten only in a famine, after a lot of cooking and washing."
+  },
+  {
+    "id": "q39",
+    "tier": "medium",
+    "type": "use",
+    "question": "Which tree gave lamp oil, nut shell whistles, and white flowers that smell like orange blossoms?",
+    "choices": [
+      "Kou",
+      "Kukui",
+      "Kamani",
+      "Milo"
+    ],
+    "answer": "Kamani",
+    "explain": "Kamani nuts gave a thick green oil for lamps and for waterproofing kapa. Hollowed shells became whistles called oeoe. Today the oil is sold around the world as tamanu oil."
+  },
+  {
+    "id": "q40",
+    "tier": "medium",
+    "type": "fact",
+    "question": "Old voyaging canoes had no nails. What is ʻaha, the material that held them together?",
+    "choices": [
+      "Strips of dried kī leaf",
+      "Glue made from ʻulu sap",
+      "Pegs carved from kamani wood",
+      "Cord braided from coconut husk fiber"
+    ],
+    "answer": "Cord braided from coconut husk fiber",
+    "explain": "ʻAha, also called sennit, was twisted and braided from niu husk fiber. It lashed together canoes, houses, and tools."
+  },
+  {
+    "id": "q41",
+    "tier": "medium",
+    "type": "myth",
+    "question": "Which of these is NOT a canoe plant?",
+    "choices": [
+      "ʻApe",
+      "ʻAwapuhi",
+      "ʻŌhiʻa lehua",
+      "ʻŌhiʻa ʻai"
+    ],
+    "answer": "ʻŌhiʻa lehua",
+    "explain": "ʻŌhiʻa lehua is the most common native tree in Hawaiʻi and one of the first to sprout on fresh lava. It is easy to mix up with ʻōhiʻa ʻai, the mountain apple, which really did come by canoe."
+  },
+  {
+    "id": "q42",
+    "tier": "medium",
+    "type": "myth",
+    "question": "Lilikoʻi (passion fruit) has a Hawaiian name. Which statement about it is true?",
+    "choices": [
+      "It is from Brazil and reached Hawaiʻi around 1880",
+      "It came from Tahiti with the first voyagers",
+      "It came in the canoes along with ʻuala",
+      "It is a native plant found only in Hawaiʻi"
+    ],
+    "answer": "It is from Brazil and reached Hawaiʻi around 1880",
+    "explain": "A Hawaiian name does not make a canoe plant. The first seeds came from Australia around 1880 and were planted in a part of East Maui called Lilikoʻi. The fruit kept the name of the place."
+  },
+  {
+    "id": "q43",
+    "tier": "medium",
+    "type": "fact",
+    "question": "ʻApe looks like a giant kalo. How can you tell them apart?",
+    "choices": [
+      "ʻApe has spines on its stem and kalo is smooth",
+      "ʻApe leaves point down and kalo leaves point up",
+      "ʻApe leaves point up at the sky and kalo leaves point down",
+      "ʻApe grows only in salt water"
+    ],
+    "answer": "ʻApe leaves point up at the sky and kalo leaves point down",
+    "explain": "ʻApe (giant taro) can grow up to 5 meters tall. It was a famine food that needed very long cooking to break down its burning crystals."
+  },
+  {
+    "id": "q44",
+    "tier": "medium",
+    "type": "origin",
+    "question": "Why is 1778 the line between canoe plants and everything that came later?",
+    "choices": [
+      "Captain Cook arrived, and new plants began pouring in from around the world",
+      "Hōkūleʻa made her first voyage",
+      "The last voyaging canoe arrived from Tahiti",
+      "Voyagers first landed in Hawaiʻi"
+    ],
+    "answer": "Captain Cook arrived, and new plants began pouring in from around the world",
+    "explain": "Captain James Cook reached Kauaʻi and Niʻihau in 1778. After that, plants like mango, coffee, and plumeria arrived from all over the world."
+  },
+  {
+    "id": "q45",
+    "tier": "medium",
+    "type": "use",
+    "question": "Milo, kou, and kamani wood were all prized for poi bowls. Why?",
+    "choices": [
+      "The wood keeps poi cold for days",
+      "The wood is too hard for insects to eat",
+      "It was the only wood common people could use",
+      "The wood gives food no bad taste"
+    ],
+    "answer": "The wood gives food no bad taste",
+    "explain": "A good ʻumeke, or bowl, should not flavor the poi. Milo, kou, and kamani add no bad taste. Koa and other native woods can make poi taste bad."
+  },
+  {
+    "id": "q46",
+    "tier": "hard",
+    "type": "fact",
+    "question": "Piʻa and uhi are cousin yams. How can you tell them apart by the stem?",
+    "choices": [
+      "Piʻa has a hollow stem, and uhi has a solid stem",
+      "Piʻa has wings and twines to the right, and uhi has spines and twines to the left",
+      "Piʻa has a red stem, and uhi has a blue stem",
+      "Piʻa has spines and twines to the left, and uhi has wings and twines to the right"
+    ],
+    "answer": "Piʻa has spines and twines to the left, and uhi has wings and twines to the right",
+    "explain": "Piʻa (five leaf yam) has spiny stems that twine left and leaves split like little hands. Uhi has a smooth square stem with four thin wings and always twines right."
+  },
+  {
+    "id": "q47",
+    "tier": "hard",
+    "type": "origin",
+    "question": "Scientists think every kava plant in the Pacific may trace back to one ancestor plant. Where did it grow?",
+    "choices": [
+      "Taiwan",
+      "Peru",
+      "Northern Vanuatu",
+      "Tahiti"
+    ],
+    "answer": "Northern Vanuatu",
+    "explain": "ʻAwa has been cloned from cuttings for perhaps 3,000 years. The 13 Hawaiian varieties are so alike that they probably all came from a single kind carried here by voyagers."
+  },
+  {
+    "id": "q48",
+    "tier": "hard",
+    "type": "origin",
+    "question": "Before the burst into East Polynesia, the voyagers stayed in one region for many centuries. Where was this long pause?",
+    "choices": [
+      "In Aotearoa",
+      "In the Society Islands",
+      "Around Tonga and Samoa",
+      "In Taiwan"
+    ],
+    "answer": "Around Tonga and Samoa",
+    "explain": "Scholars think Polynesian language and culture took shape around Tonga and Samoa during the pause. Nobody knows for sure why they waited. Then, around 1025 to 1120 CE, settlers reached the Society Islands, the home of Tahiti."
+  },
+  {
+    "id": "q49",
+    "tier": "hard",
+    "type": "origin",
+    "question": "Who navigated Hōkūleʻa to Tahiti in 1976 using only stars, sun, and swells?",
+    "choices": [
+      "Mau Piailug",
+      "Paʻao",
+      "Nainoa Thompson",
+      "Moʻikeha"
+    ],
+    "answer": "Mau Piailug",
+    "explain": "Mau Piailug was a master navigator from Satawal in Micronesia. His student Nainoa Thompson navigated the same route in 1980, the first Hawaiian in centuries to do it."
+  },
+  {
+    "id": "q50",
+    "tier": "hard",
+    "type": "fact",
+    "question": "What did scientists find at Makauwahi Cave on Kauaʻi that showed kou is native?",
+    "choices": [
+      "Kou DNA that matched trees in Taiwan",
+      "Kou fruits more than 5,000 years old",
+      "A kou bowl older than the first canoe",
+      "Thick layers of kou pollen"
+    ],
+    "answer": "Kou fruits more than 5,000 years old",
+    "explain": "Eight kou fruits from the cave mud were dated to about 5,300 to 5,900 years old, thousands of years before any person reached Hawaiʻi. Kou makes very little pollen, which is why it left so few traces before."
+  },
+  {
+    "id": "q51",
+    "tier": "hard",
+    "type": "fact",
+    "question": "Across Polynesia the sweet potato is called kumara or something close. What does that word match?",
+    "choices": [
+      "A word for sweet potato in Quechua, a language of the Andes",
+      "A word for yam in a language of Taiwan",
+      "A word for potato in English",
+      "A word for canoe in Tahitian"
+    ],
+    "answer": "A word for sweet potato in Quechua, a language of the Andes",
+    "explain": "Words travel with the things they name. Many researchers see the matching words as a clue that the plant and its name were handed over together in South America. Hawaiian ʻuala comes from that same old word."
+  },
+  {
+    "id": "q52",
+    "tier": "hard",
+    "type": "fact",
+    "question": "A 2006 DNA study found that Polynesian ipu (bottle gourds) carry markers from gourds of which two regions?",
+    "choices": [
+      "Taiwan and Japan",
+      "Africa and Europe",
+      "Australia and Aotearoa",
+      "Asia and the Americas"
+    ],
+    "answer": "Asia and the Americas",
+    "explain": "The authors said this needs more testing. Still, it is one more hint that Polynesian voyagers may have reached the Americas."
+  },
+  {
+    "id": "q53",
+    "tier": "hard",
+    "type": "fact",
+    "question": "An old Hawaiian saying uses kō as a calendar. When the sugarcane tassels, what season has come?",
+    "choices": [
+      "Whale season",
+      "Mango season",
+      "Octopus season",
+      "Kalo planting season"
+    ],
+    "answer": "Octopus season",
+    "explain": "Kō tassels around late October and November. It was also time for hōlua sledding, and the slippery cane tops were spread on the course so the sleds would fly."
+  },
+  {
+    "id": "q54",
+    "tier": "hard",
+    "type": "fact",
+    "question": "David Malo described a kahuna sprinkling people to lift the kapu of death. What was in the dish?",
+    "choices": [
+      "Kukui oil and salt",
+      "Fresh water with kō juice",
+      "Sea water with limu kala and ʻōlena",
+      "ʻAwa mixed with coconut water"
+    ],
+    "answer": "Sea water with limu kala and ʻōlena",
+    "explain": "This cleansing sprinkle is called pī kai. ʻŌlena turned the water gold. Forms of pī kai are still done in Hawaiʻi at blessings of homes, canoes, and new buildings."
+  },
+  {
+    "id": "q55",
+    "tier": "hard",
+    "type": "fact",
+    "question": "Why do scientists read the DNA of the ʻiole, the Polynesian rat?",
+    "choices": [
+      "Rats are native to Hawaiʻi, so they show what the islands were like before people",
+      "Rat DNA shows which plants were in each canoe",
+      "Rat DNA shows the voyagers started in South America",
+      "Rats traveled only with people, so their DNA traces the routes of the canoes"
+    ],
+    "answer": "Rats traveled only with people, so their DNA traces the routes of the canoes",
+    "explain": "Rats are living history books. In Aotearoa, seeds with tiny rat tooth marks even helped date the arrival of the first canoes to around 1280 CE."
+  },
+  {
+    "id": "q56",
+    "tier": "hard",
+    "type": "fact",
+    "question": "Under the ʻai kapu, women were forbidden to eat coconut and most bananas. How did that end?",
+    "choices": [
+      "In 1835 the first sugar plantation opened",
+      "In 1819 Kamehameha II sat down and ate with the women of his court",
+      "In 1976 Hōkūleʻa sailed to Tahiti",
+      "In 1778 Captain Cook ordered it to stop"
+    ],
+    "answer": "In 1819 Kamehameha II sat down and ate with the women of his court",
+    "explain": "The ʻai kapu were the old rules of sacred eating. Bishop Museum lists only three kinds of maiʻa that women were allowed, pōpōʻulu, iholena, and kaualau."
+  },
+  {
+    "id": "q57",
+    "tier": "hard",
+    "type": "fact",
+    "question": "In old Hawaiʻi, what did hau branches set all along the shore mean?",
+    "choices": [
+      "Sharks had been seen in the bay",
+      "A new chief had been born",
+      "Fishing near shore was kapu so the fish could spawn and grow",
+      "A voyaging canoe was about to launch"
+    ],
+    "answer": "Fishing near shore was kapu so the fish could spawn and grow",
+    "explain": "The konohiki, who managed the land for the chief, closed the shallow sea with this sign. When the branches came down, people fished near shore again. Hau was a stop sign that protected the fish."
+  },
+  {
+    "id": "q58",
+    "tier": "hard",
+    "type": "myth",
+    "question": "Hala was once credited to the voyagers. What showed it was in Hawaiʻi long before people?",
+    "choices": [
+      "The print of a hala fruit in Kauaʻi lava more than a million years old",
+      "A hala mat found in a cave in Tahiti",
+      "A chant that names hala as the first plant",
+      "Hala DNA that traced back to Taiwan"
+    ],
+    "answer": "The print of a hala fruit in Kauaʻi lava more than a million years old",
+    "explain": "Hala leaves became mats and canoe sails, so everyone assumed it came by canoe. The lava print says otherwise, though voyagers may have brought favorite kinds of their own."
+  },
+  {
+    "id": "q59",
+    "tier": "hard",
+    "type": "fact",
+    "question": "Which three canoe plants die back each winter and hide underground until spring?",
+    "choices": [
+      "Niu, kukui, and ʻulu",
+      "Kalo, kō, and maiʻa",
+      "ʻŌlena, ʻawapuhi, and pia",
+      "Wauke, hau, and milo"
+    ],
+    "answer": "ʻŌlena, ʻawapuhi, and pia",
+    "explain": "All three seem to vanish in winter. Their leaves yellow and die, and the plant rests underground until spring. An old saying, ginger leaves yellow quickly, comes from watching ʻawapuhi do this."
+  },
+  {
+    "id": "q60",
+    "tier": "hard",
+    "type": "fact",
+    "question": "Wild chickens strut all over Kauaʻi. What did a 2015 DNA study find about them?",
+    "choices": [
+      "They all descend from farm birds brought after 1992",
+      "They are a native Hawaiian bird",
+      "They are pure canoe chickens with no farm blood",
+      "They are a mix of ancient canoe chickens and modern farm breeds"
+    ],
+    "answer": "They are a mix of ancient canoe chickens and modern farm breeds",
+    "explain": "A rare DNA line matches ancient Kauaʻi bones from before Western contact, but the most common line comes from modern farm breeds. Chicken numbers shot up after hurricanes in 1982 and 1992 smashed backyard coops."
+  }
+]

@@ -21,7 +21,7 @@
       "points": [[121, 23], [122.5, 14], [127, 3], [138, -1], [150, -4]]
     },
     {
-      "key": "lapita", "title": "The Lapita push east", "when": "Around 1500 to 1000 BCE",
+      "key": "lapita", "title": "The Lapita push east", "when": "Around 1500 to 800 BCE",
       "text": "People we call Lapita, named for their stamped pottery, sailed out past the Solomon Islands into open ocean. They reached Vanuatu, Fiji, Tonga, and Samoa, carrying plants, pigs, dogs, and chickens. Along the way they picked up the crops of New Guinea, like kō, maiʻa, and ʻulu.",
       "points": [[150, -4], [160, -9], [168, -16], [178, -18], [-175, -21], [-172, -13.8]]
     },
@@ -31,7 +31,7 @@
       "points": [[-175, -21], [-173.5, -17], [-172, -13.8]], "pause": true
     },
     {
-      "key": "east", "title": "Into East Polynesia", "when": "Around 1000 CE",
+      "key": "east", "title": "Into East Polynesia", "when": "Around 1025 to 1120 CE",
       "text": "When voyaging started again, it was fast. Within a few generations, canoes reached the Cook Islands, the Society Islands around Tahiti, and the Marquesas. Every canoe carried the plant toolkit.",
       "points": [[-172, -13.8], [-160, -20], [-149.5, -17.6], [-139.5, -9.5]]
     },
@@ -41,7 +41,7 @@
       "points": [[-149.5, -17.6], [-147, -5], [-150, 8], [-157, 20.8]]
     },
     {
-      "key": "uala", "title": "The sweet potato run", "when": "Before Columbus, maybe around 1000 to 1100 CE",
+      "key": "uala", "title": "The sweet potato run", "when": "Long before Columbus, probably around 1200 CE",
       "text": "ʻUala is the odd one out. It comes from South America, not Asia. Most researchers think Polynesian sailors reached the coast of South America and came home with it. A few think it could have drifted across by itself. Either way, it came from the opposite direction to every other plant in the canoe.",
       "points": [[-79, -6], [-100, -10], [-122, -11], [-139.5, -9.5]], "alt": true
     },
@@ -56,7 +56,7 @@
     { "key": "sea", "lon": 103, "lat": 14, "blurb": "The biggest group. Spices, medicines, yams, and gourds from mainland and island Southeast Asia, some first grown as far away as India." },
     { "key": "indopacific", "lon": 125, "lat": -2.5, "blurb": "Shoreline trees with seeds that float. They grow on coasts from East Africa to Polynesia, which is why scientists argue about which ones needed a canoe at all." },
     { "key": "newguinea", "lon": 141, "lat": -5.5, "blurb": "One of the places where farming was invented. Sugarcane, bananas, and breadfruit were all first grown in and around New Guinea." },
-    { "key": "vanuatu", "lon": 166.5, "lat": -14.5, "blurb": "ʻAwa was first grown in northern Vanuatu around 3,000 years ago, then carried east and west." },
+    { "key": "vanuatu", "lon": 166.5, "lat": -14.5, "blurb": "Scientists think ʻawa was first grown in northern Vanuatu, perhaps 3,000 years ago, then carried from island to island as cuttings." },
     { "key": "southamerica", "lon": -76, "lat": -9, "blurb": "Only one canoe plant comes from the Americas. ʻUala, the sweet potato." }
   ]
 }
