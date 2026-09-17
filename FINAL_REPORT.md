@@ -29,11 +29,11 @@ Aloha Olin. The site is built, pushed, and live.
 - Every route was loaded at 360, 768, 1024, and 1440 pixels in headless Chrome. No horizontal scroll, no console errors, no failed requests, no broken images, no missing alt text, exactly one h1 on every view.
 - `tools/check-data.py` reports 0 problems. It checks 26 plants, every field, every source id, every credit id, every image file on disk, quiz shape, and scans the repo for em dashes, en dashes, and fake ʻokina.
 - `tools/contrast.py` passes all 56 text and background pairs at WCAG AA.
-- Lighthouse, run locally against the simple Python server (mobile, throttled). Home 94, voyage 94, quiz 96, plant wall 88, plant page 89 for performance. Accessibility, best practices, and SEO were 100 on every route tested. The two scores just under 90 are limited by how late a JavaScript rendered page can discover its main photo. GitHub Pages serves with compression and HTTP/2, so the live numbers should be a little better. See the note at the end of this section if I was able to measure the live site.
+- Lighthouse, run locally against the simple Python server (mobile, throttled). Home 94, voyage 94, quiz 96, plant wall 88, plant page 89 for performance. Accessibility, best practices, and SEO were 100 on every route tested. The two scores just under 90 are limited by how late a JavaScript rendered page can discover its main photo. GitHub Pages serves with compression and HTTP/2, so the live numbers should be a little better. The live numbers below are better.
 - Print to PDF was checked on the ipu page. It gives a clean black and white handout.
 - Reduced motion was checked on the hero, the map, and the game.
 
-LIVE_LIGHTHOUSE
+**Live site Lighthouse** (mobile, throttled, measured against https://olagon.github.io/canoe-plants/ after deploy). Most recent runs: home 100, plant page 99, plant wall 90 to 98, voyage 96, quiz 96, pack the canoe 91 for performance. Accessibility, best practices, and SEO were 100 on all six. Scores swing by ten points or so from run to run. Earlier runs right after a deploy came in at 80 to 86 on three routes before the CDN cache warmed up. The same route checker that ran locally was also run against the live URL. All 60 checks were clean.
 
 ## Decisions made without you
 
@@ -146,4 +146,4 @@ Hard ones:
 
 ## Totals
 
-COMMITS commits. The build started at 10:30 pm on September 16, 2026 and finished around FINISH on September 17 (Hawaiʻi time). That span includes a pause of a few hours when the usage limit was reached mid build, so the working time was roughly four to five hours.
+17 commits. The build started at 10:30 pm on September 16, 2026 and finished around 7:15 am on September 17 (Hawaiʻi time). That span includes a pause of a few hours when the usage limit was reached mid build, so the working time was roughly five hours.
