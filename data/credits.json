@@ -1,5 +1,355 @@
 [
  {
+  "creditId": "c-kalo-01",
+  "file": "kalo-01.webp",
+  "plantSlug": "kalo",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-130322-3764-Colocasia_esculenta-habit_view_mountains-Hanalei_NWR-Kauai_(24578821484).jpg",
+  "title": "Kalo field below the Hanalei mountains"
+ },
+ {
+  "creditId": "c-kalo-02",
+  "file": "kalo-02.webp",
+  "plantSlug": "kalo",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-130322-3762-Colocasia_esculenta-harvested-Hanalei_NWR-Kauai_(24578818654).jpg",
+  "title": "Harvested kalo at the edge of a loʻi"
+ },
+ {
+  "creditId": "c-kalo-03",
+  "file": "kalo-03.webp",
+  "plantSlug": "kalo",
+  "author": "Unknown photographer",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Native_Hawaiian_man_pounding_taro_into_poi_with_two_children_by_his_sides.,_c._1890s.jpg",
+  "title": "Hawaiian man pounding poi, around 1890"
+ },
+ {
+  "creditId": "c-kalo-04",
+  "file": "kalo-04.webp",
+  "plantSlug": "kalo",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-130320-3225-Colocasia_esculenta-habit_view_loi-Hanalei_NWR-Kauai_(25182609306).jpg",
+  "title": "Loʻi kalo across Hanalei Valley"
+ },
+ {
+  "creditId": "c-uala-01",
+  "file": "uala-01.webp",
+  "plantSlug": "uala",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-141217-2951-Ipomoea_batatas-plantings-Lua_Makika-Kahoolawe_(24618693004).jpg",
+  "title": "ʻUala growing in a stone edged mound on Kahoʻolawe"
+ },
+ {
+  "creditId": "c-uala-02",
+  "file": "uala-02.webp",
+  "plantSlug": "uala",
+  "author": "Vmenkov",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sweet_potatoes_exposed_-_DSCF7299.JPG",
+  "title": "Sweet potato tubers uncovered in the soil"
+ },
+ {
+  "creditId": "c-uala-03",
+  "file": "uala-03.webp",
+  "plantSlug": "uala",
+  "author": "Prosperosity",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ipomoea_batatas_%27reka_rawa%27_20220327_152206.jpg",
+  "title": "Traditional Māori kūmara variety reka rawa"
+ },
+ {
+  "creditId": "c-uala-04",
+  "file": "uala-04.webp",
+  "plantSlug": "uala",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-141217-5587-Ipomoea_batatas-flowers-Lua_Makika-Kahoolawe_(24881816559).jpg",
+  "title": "ʻUala flowers"
+ },
+ {
+  "creditId": "c-ulu-01",
+  "file": "ulu-01.webp",
+  "plantSlug": "ulu",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-120606-7001-Artocarpus_altilis-grove-Kahanu_Gardens_Hana-Maui_(25144659715).jpg",
+  "title": "ʻUlu grove at Kahanu Garden"
+ },
+ {
+  "creditId": "c-ulu-02",
+  "file": "ulu-02.webp",
+  "plantSlug": "ulu",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-151029-2734-Artocarpus_altilis-fruit_and_leaves-Maui_Nui_Botanical_Garden_Kahului-Maui_(26256543406).jpg",
+  "title": "ʻUlu fruit among the leaves"
+ },
+ {
+  "creditId": "c-ulu-03",
+  "file": "ulu-03.webp",
+  "plantSlug": "ulu",
+  "author": "Thomas Gosse",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Gosse,_Transplanting_of_the_bread-fruit_trees_from_Otaheite,_1796,_SLNSW.jpg",
+  "title": "Transplanting the breadfruit trees from Tahiti, 1796"
+ },
+ {
+  "creditId": "c-ulu-04",
+  "file": "ulu-04.webp",
+  "plantSlug": "ulu",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-120606-6994-Artocarpus_altilis-fruiting_habit-Kahanu_Gardens_Hana-Maui_(25051360671).jpg",
+  "title": "Tall ʻulu trees in fruit"
+ },
+ {
+  "creditId": "c-niu-01",
+  "file": "niu-01.webp",
+  "plantSlug": "niu",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-060422-7874-Cocos_nucifera-habit-Waianapanapa-Maui_(24862021225).jpg",
+  "title": "Niu above the sea at Waiʻānapanapa"
+ },
+ {
+  "creditId": "c-niu-02",
+  "file": "niu-02.webp",
+  "plantSlug": "niu",
+  "author": "Cliff Hansen",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bikrin_Islet_13.JPG",
+  "title": "A coconut sprouting from its husk"
+ },
+ {
+  "creditId": "c-niu-03",
+  "file": "niu-03.webp",
+  "plantSlug": "niu",
+  "author": "Daderot",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rope,_Loyalty_Islands,_coconut_fibre_-_Otago_Museum_-_Dunedin,_NZ_-_DSC04362.jpg",
+  "title": "Roll of coconut fiber rope"
+ },
+ {
+  "creditId": "c-niu-04",
+  "file": "niu-04.webp",
+  "plantSlug": "niu",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-230206-5988-Cocos_nucifera-habit-Lahaina-Maui_(52681305435).jpg",
+  "title": "Niu palms against the sky in Lahaina"
+ },
+ {
+  "creditId": "c-maia-01",
+  "file": "maia-01.webp",
+  "plantSlug": "maia",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-151029-2751-Musa_x_paradisiaca-Maia_Manini_fruiting_habit-Maui_Nui_Botanical_Garden_Kahului-Maui_(26009646320).jpg",
+  "title": "Maiʻa manini plants in fruit"
+ },
+ {
+  "creditId": "c-maia-02",
+  "file": "maia-02.webp",
+  "plantSlug": "maia",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-121108-0840-Musa_x_paradisiaca-Iholena_Maia_Lele_variety_fruit-Pali_o_Waipio-Maui_(24569636943).jpg",
+  "title": "Bunch of iholena maiʻa"
+ },
+ {
+  "creditId": "c-maia-03",
+  "file": "maia-03.webp",
+  "plantSlug": "maia",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-160827-0464-Musa_x_paradisiaca-Iholena_and_other_varieties_on_display_at_Indigenous_Crop_Biodiversity_Festival-Maui_Tropical_Plantation_Waikapu-Maui_(29377535060).jpg",
+  "title": "Hawaiian maiʻa varieties at a crop festival"
+ },
+ {
+  "creditId": "c-maia-04",
+  "file": "maia-04.webp",
+  "plantSlug": "maia",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-091112-1064-Musa_x_paradisiaca-Iholena_habit-West_Maui-Maui_(24362538683).jpg",
+  "title": "Iholena maiʻa growing in a West Maui valley"
+ },
+ {
+  "creditId": "c-ko-01",
+  "file": "ko-01.webp",
+  "plantSlug": "ko",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-051213-5703-Saccharum_officinarum-with_tassles-Haliimaile-Maui_(24482615469).jpg",
+  "title": "Kō in flower under a blue sky"
+ },
+ {
+  "creditId": "c-ko-02",
+  "file": "ko-02.webp",
+  "plantSlug": "ko",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-160912-0589-Saccharum_officinarum-Hawaiian_variety_Pakaweli_striped_stems-Maui_Nui_Botanical_Garden_Kahului-Maui_(29668787375).jpg",
+  "title": "Striped stalks of the Hawaiian kō variety Pākaweli"
+ },
+ {
+  "creditId": "c-ko-03",
+  "file": "ko-03.webp",
+  "plantSlug": "ko",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-160912-0597-Saccharum_officinarum-Hawaiian_varieties_ready_to_plant_Oliopua_Pakaweli_Pilimai_Honuaula-Hawea_Pl_Olinda-Maui_(29668810855).jpg",
+  "title": "Hawaiian kō varieties ready to plant"
+ },
+ {
+  "creditId": "c-ko-04",
+  "file": "ko-04.webp",
+  "plantSlug": "ko",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-160912-0571-Saccharum_officinarum-Hawaiian_variety-Maui_Nui_Botanical_Garden_Kahului-Maui_(29042215584).jpg",
+  "title": "A clump of Hawaiian heirloom kō"
+ },
+ {
+  "creditId": "c-awa-01",
+  "file": "awa-01.webp",
+  "plantSlug": "awa",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-091104-1007-Piper_methysticum-habit-Kahanu_Gardens_NTBG_Kaeleku_Hana-Maui_(24691836230).jpg",
+  "title": "ʻAwa shrub at Kahanu Garden"
+ },
+ {
+  "creditId": "c-awa-02",
+  "file": "awa-02.webp",
+  "plantSlug": "awa",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-091104-8929-Piper_methysticum-stems-Kahanu_Gardens_NTBG_Kaeleku_Hana-Maui_(24870348952).jpg",
+  "title": "Jointed ʻawa stems"
+ },
+ {
+  "creditId": "c-awa-03",
+  "file": "awa-03.webp",
+  "plantSlug": "awa",
+  "author": "Dave Lonsdale",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kava_framst%C3%A4llning.jpg",
+  "title": "Mixing kava in a wooden bowl in Fiji"
+ },
+ {
+  "creditId": "c-awa-04",
+  "file": "awa-04.webp",
+  "plantSlug": "awa",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-091104-8928-Piper_methysticum-leaves_and_flower_spikes-Kahanu_Gardens_NTBG_Kaeleku_Hana-Maui_(24962022846).jpg",
+  "title": "ʻAwa leaves and flower spikes"
+ },
+ {
+  "creditId": "c-kukui-01",
+  "file": "kukui-01.webp",
+  "plantSlug": "kukui",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-070206-4192-Aleurites_moluccana-habit-Launiupoko-Maui_(24855352726).jpg",
+  "title": "Kukui trees below the West Maui Mountains"
+ },
+ {
+  "creditId": "c-kukui-02",
+  "file": "kukui-02.webp",
+  "plantSlug": "kukui",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-070215-4558-Aleurites_moluccana-green_nuts-Waihee-Maui_(24856309396).jpg",
+  "title": "Green kukui nuts on the branch"
+ },
+ {
+  "creditId": "c-kukui-03",
+  "file": "kukui-03.webp",
+  "plantSlug": "kukui",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-170727-0591-Aleurites_moluccana-view_gulch-Makamakaole-Maui_-_Flickr_-_Starr_Environmental.jpg",
+  "title": "Pale kukui crowns in a Maui gulch"
+ },
+ {
+  "creditId": "c-noni-01",
+  "file": "noni-01.webp",
+  "plantSlug": "noni",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-060422-7895-Morinda_citrifolia-habit-Waianapanapa-Maui_(24862057855).jpg",
+  "title": "Noni above the ocean at Waiʻānapanapa"
+ },
+ {
+  "creditId": "c-noni-02",
+  "file": "noni-02.webp",
+  "plantSlug": "noni",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 US",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-160613-0601-Morinda_citrifolia-flowers_fruit_leaves-Waihee_Coastal_Preserve-Maui_(28032991936).jpg",
+  "title": "Noni flower head, fruit, and leaves"
+ },
+ {
+  "creditId": "c-noni-03",
+  "file": "noni-03.webp",
+  "plantSlug": "noni",
+  "author": "Tijuana Brass",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noni_juice.jpg",
+  "title": "Ripe noni fruit and a jar of noni juice"
+ },
+ {
+  "creditId": "c-noni-04",
+  "file": "noni-04.webp",
+  "plantSlug": "noni",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-041223-2003-Morinda_citrifolia-habit-LaPerouse-Maui_(24426674230).jpg",
+  "title": "A noni tree alone on a lava field"
+ },
+ {
   "creditId": "c-wauke-01",
   "file": "wauke-01.webp",
   "plantSlug": "wauke",

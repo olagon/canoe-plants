@@ -94,7 +94,44 @@
    "planting": "Plant huli, the leaf stalks with a slice of corm attached, 1 to 2 feet apart.",
    "harvest": "About 8 to 12 months. Save the huli and the ʻohā to replant."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "kalo-01.webp",
+    "base": "assets/img/plants/kalo/kalo-01",
+    "alt": "A wide field of kalo with big heart shaped leaves grows in shallow water, with palms and cloudy green mountains behind it in Hanalei, Kauaʻi.",
+    "creditId": "c-kalo-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "kalo-02.webp",
+    "base": "assets/img/plants/kalo/kalo-02",
+    "alt": "Freshly pulled kalo plants lie stacked on a bed of leaves beside a flooded loʻi, their brown corms still attached to the stems.",
+    "creditId": "c-kalo-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "kalo-03.webp",
+    "base": "assets/img/plants/kalo/kalo-03",
+    "alt": "An old black and white photo of a Hawaiian man sitting in front of tall kalo plants and pounding cooked kalo into poi on a wooden board, with two children beside him.",
+    "creditId": "c-kalo-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1046
+   },
+   {
+    "file": "kalo-04.webp",
+    "base": "assets/img/plants/kalo/kalo-04",
+    "alt": "Seen from above, a patchwork of flooded loʻi kalo covers the floor of Hanalei Valley, some ponds green with plants and some shining with open water.",
+    "creditId": "c-kalo-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "cho-2007",
    "bishop-ethnobotany",
@@ -196,7 +233,44 @@
    "planting": "Cut vine tips 7 to 8 inches long and plant them 10 to 12 inches apart in mounds called puʻe.",
    "harvest": "About 4 to 6 months after planting."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "uala-01.webp",
+    "base": "assets/img/plants/uala/uala-01",
+    "alt": "ʻUala vines with heart shaped leaves spread over a low mound of red soil ringed with lava rocks on the dry island of Kahoʻolawe.",
+    "creditId": "c-uala-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "uala-02.webp",
+    "base": "assets/img/plants/uala/uala-02",
+    "alt": "Pink skinned sweet potato tubers sit half dug out of dark soil, still joined to the base of the vine that grew them.",
+    "creditId": "c-uala-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "uala-03.webp",
+    "base": "assets/img/plants/uala/uala-03",
+    "alt": "Five knobby brown tubers of reka rawa, a sweet potato variety Māori growers kept from before Europeans arrived, rest on a table with soil still on them.",
+    "creditId": "c-uala-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "uala-04.webp",
+    "base": "assets/img/plants/uala/uala-04",
+    "alt": "Pale trumpet shaped ʻuala flowers with deep purple throats open among pointed green leaves.",
+    "creditId": "c-uala-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "roullier-2013",
    "denham-2013",
@@ -310,7 +384,44 @@
    "planting": "Start from a root shoot or a piece of root raised in a pot, and give the tree about 40 feet of room.",
    "harvest": "First fruit in 3 to 5 years. The main crop comes in summer, then the tree gives for decades."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "ulu-01.webp",
+    "base": "assets/img/plants/ulu/ulu-01",
+    "alt": "A dirt track runs through a shady grove of ʻulu trees with dark trunks and huge deeply cut glossy leaves at Kahanu Garden in Hāna, Maui.",
+    "creditId": "c-ulu-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ulu-02.webp",
+    "base": "assets/img/plants/ulu/ulu-02",
+    "alt": "Round green ʻulu fruits with bumpy skin hang in pairs among big glossy lobed leaves.",
+    "creditId": "c-ulu-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ulu-03.webp",
+    "base": "assets/img/plants/ulu/ulu-03",
+    "alt": "A hand colored print from 1796 shows Tahitians and British sailors loading young breadfruit trees in pots into a boat, the mission tied to the mutiny on the Bounty.",
+    "creditId": "c-ulu-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1305
+   },
+   {
+    "file": "ulu-04.webp",
+    "base": "assets/img/plants/ulu/ulu-04",
+    "alt": "A row of tall ʻulu trees with rounded crowns of large leaves stands at the edge of a bright green lawn.",
+    "creditId": "c-ulu-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "ragone-2006",
    "ntbg-breadfruit",
@@ -420,7 +531,44 @@
    "planting": "Lay a sprouting nut on its side and bury it, leaving the top third showing. Keep it away from paths, because nuts fall.",
    "harvest": "Flowers come after 4 to 6 years, and each nut takes about a year to ripen."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "niu-01.webp",
+    "base": "assets/img/plants/niu/niu-01",
+    "alt": "A single niu palm with a cluster of coconuts leans over turquoise water and black lava rock on the coast at Waiʻānapanapa, Maui.",
+    "creditId": "c-niu-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "niu-02.webp",
+    "base": "assets/img/plants/niu/niu-02",
+    "alt": "A fallen brown coconut lies on coral gravel with a bright green shoot pushing out of its husk, next to the base of a palm trunk.",
+    "creditId": "c-niu-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "niu-03.webp",
+    "base": "assets/img/plants/niu/niu-03",
+    "alt": "A thick roll of brown rope twisted from coconut husk fiber sits in a museum case, the same kind of cord that lashed canoes and houses together.",
+    "creditId": "c-niu-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1098
+   },
+   {
+    "file": "niu-04.webp",
+    "base": "assets/img/plants/niu/niu-04",
+    "alt": "Looking up at a dozen tall niu palms with slender curved trunks against a blue sky with white clouds.",
+    "creditId": "c-niu-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "pvs-canoe-plants",
@@ -531,7 +679,44 @@
    "planting": "Plant a keiki, a young shoot cut from the base of a healthy plant, or a piece of corm.",
    "harvest": "About 11 to 15 months. Cut the old stalk down after harvest and let a keiki take its place."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "maia-01.webp",
+    "base": "assets/img/plants/maia/maia-01",
+    "alt": "A clump of maiʻa plants with broad wind torn leaves stands under a deep blue sky at Maui Nui Botanical Gardens, with a bunch of fruit hanging from one stem.",
+    "creditId": "c-maia-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "maia-02.webp",
+    "base": "assets/img/plants/maia/maia-02",
+    "alt": "A close view of a bunch of plump iholena bananas, green turning pale yellow, still on the plant.",
+    "creditId": "c-maia-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "maia-03.webp",
+    "base": "assets/img/plants/maia/maia-03",
+    "alt": "A festival table covered with a blue cloth holds ripe bunches and sliced samples of iholena and other banana varieties with handwritten labels.",
+    "creditId": "c-maia-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "maia-04.webp",
+    "base": "assets/img/plants/maia/maia-04",
+    "alt": "A patch of tall iholena banana plants grows wild among grass and ferns in a sunlit valley in West Maui.",
+    "creditId": "c-maia-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "huggins-1990",
@@ -634,7 +819,44 @@
    "planting": "Lay a stalk piece 8 to 12 inches long, with a few nodes, sideways in a shallow trench and cover it.",
    "harvest": "Cut stalks at the base when they are thick and sweet. Full maturity can take up to 2 years, and the clump grows back."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "ko-01.webp",
+    "base": "assets/img/plants/ko/ko-01",
+    "alt": "A dense stand of tall green kō topped with feathery pinkish tassels stands under a bright blue sky with puffy clouds.",
+    "creditId": "c-ko-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ko-02.webp",
+    "base": "assets/img/plants/ko/ko-02",
+    "alt": "Two thick kō stalks of the variety Pākaweli show bold stripes of wine red, green, and yellow between pale waxy joints.",
+    "creditId": "c-ko-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ko-03.webp",
+    "base": "assets/img/plants/ko/ko-03",
+    "alt": "Cut kō stalks in green, striped, and deep purple are stacked together, each with its Hawaiian variety name written on it in white.",
+    "creditId": "c-ko-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "ko-04.webp",
+    "base": "assets/img/plants/ko/ko-04",
+    "alt": "A clump of Hawaiian kō with purple gray striped stalks and long arching green leaves grows in wood chip mulch at Maui Nui Botanical Gardens.",
+    "creditId": "c-ko-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "wehewehe",
@@ -726,7 +948,44 @@
    "planting": "Plant a piece of stem with a node or two. There are no seeds, ever.",
    "harvest": "Roots are dug after 2 to 3 years or more. In a school garden, grow it to study, not to drink."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "awa-01.webp",
+    "base": "assets/img/plants/awa/awa-01",
+    "alt": "A large ʻawa shrub with many thin stems fanning out from the base and big heart shaped leaves glows in the sunlight at Kahanu Garden, Maui.",
+    "creditId": "c-awa-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "awa-02.webp",
+    "base": "assets/img/plants/awa/awa-02",
+    "alt": "Close view of ʻawa stems, one bright green with dark speckles and others dark brown, showing the swollen joints where cuttings take root.",
+    "creditId": "c-awa-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "awa-03.webp",
+    "base": "assets/img/plants/awa/awa-03",
+    "alt": "Two hands squeeze a cloth bundle of pounded kava root over a large carved wooden bowl with legs, filling it with the cloudy brown drink.",
+    "creditId": "c-awa-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "awa-04.webp",
+    "base": "assets/img/plants/awa/awa-04",
+    "alt": "Broad heart shaped ʻawa leaves with thin pale flower spikes standing upright between them.",
+    "creditId": "c-awa-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "titcomb-1948",
@@ -837,7 +1096,35 @@
    "planting": "Gently crack the hard shell, soak the nut overnight and plant it. Sprouting can take up to 5 months.",
    "harvest": "Ripe nuts drop on their own. Gather them from the ground."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "kukui-01.webp",
+    "base": "assets/img/plants/kukui/kukui-01",
+    "alt": "Two kukui trees with pale silvery green crowns frame a view of dry golden grass and the cloud capped West Maui Mountains.",
+    "creditId": "c-kukui-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "kukui-02.webp",
+    "base": "assets/img/plants/kukui/kukui-02",
+    "alt": "Three round pale green kukui fruits, each about the size of a golf ball, hang from a branch among maple shaped leaves.",
+    "creditId": "c-kukui-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "kukui-03.webp",
+    "base": "assets/img/plants/kukui/kukui-03",
+    "alt": "Steep green ridges and gulches in West Maui are dotted with the pale, almost white crowns of kukui trees that stand out from the darker forest.",
+    "creditId": "c-kukui-03",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "images-old-hawaii-kukui",
@@ -932,7 +1219,44 @@
    "planting": "Stem cuttings root in 1 to 2 months. Seeds work too but can take 6 to 12 months to sprout.",
    "harvest": "First fruit comes 9 months to a year after planting. Pick when the fruit turns hard and white."
   },
-  "images": [],
+  "images": [
+   {
+    "file": "noni-01.webp",
+    "base": "assets/img/plants/noni/noni-01",
+    "alt": "A noni shrub with large shiny leaves and knobby pale green fruits grows on a sea cliff, with blue ocean and black lava coast behind it.",
+    "creditId": "c-noni-01",
+    "role": "hero",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "noni-02.webp",
+    "base": "assets/img/plants/noni/noni-02",
+    "alt": "A lumpy green noni fruit covered in small brown eyes hangs under big veined leaves, next to a young fruit head with tiny white flowers.",
+    "creditId": "c-noni-02",
+    "role": "detail",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "file": "noni-03.webp",
+    "base": "assets/img/plants/noni/noni-03",
+    "alt": "A dark bowl holds soft whitish ripe noni fruits and a glass jar of brown noni juice.",
+    "creditId": "c-noni-03",
+    "role": "culture",
+    "w": 1600,
+    "h": 1067
+   },
+   {
+    "file": "noni-04.webp",
+    "base": "assets/img/plants/noni/noni-04",
+    "alt": "A single small noni tree with dark green leaves grows out of bare black lava rock under a blue sky at La Pérouse Bay, Maui.",
+    "creditId": "c-noni-04",
+    "role": "gallery",
+    "w": 1600,
+    "h": 1198
+   }
+  ],
   "sources": [
    "bishop-ethnobotany",
    "ctahr-noni",
